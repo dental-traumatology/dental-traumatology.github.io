@@ -285,3 +285,4 @@ select{width:100%;padding:11px;border:1.5px solid var(--line);border-radius:12px
 @media (prefers-reduced-motion: reduce){*{animation:none!important;transition:none!important}}
 .review-banner{background:var(--warn-bg);color:var(--warn);padding:8px 16px;text-align:center;font-size:.88rem}
 .review-banner[hidden]{display:none}
+.score-pill[hidden]{display:none}

@@ -17,7 +17,9 @@
   const seen = store.get("seen", {});
   const saveAnswer = (id, v) => { answers[id] = v; store.set("answers", answers); updateScore(); };
   const markSeen = (id) => { if (!seen[id]) { seen[id] = 1; store.set("seen", seen); } };
-  const totalScore = () => Object.values(answers).reduce((a, v) => a + (v && v.points ? v.points : 0), 0);
+  // points belong to a lesson: slide ids look like "L4-S8"
+  const lessonScore = (n) => Object.entries(answers).reduce((a, [id, v]) => a + (id.startsWith(`L${n}-`) && v && v.points ? v.points : 0), 0);
+  const currentLesson = () => { const p = location.hash.split("/"); return p[1] === "lesson" ? p[2] : null; };
 
   // ---------- tiny, safe markdown ----------
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -73,7 +75,15 @@
     const t = h(`<div class="toast" role="status">${msg}</div>`); document.body.appendChild(t);
     setTimeout(() => t.remove(), 1600);
   }
-  function updateScore() { const el = document.getElementById("score"); if (el) el.textContent = fmt(totalScore()); }
+  function updateScore() {
+    const el = document.getElementById("score"), pill = el && el.closest(".score-pill");
+    if (!el) return;
+    const n = currentLesson();
+    pill.hidden = !n || !lessonPoints(n);
+    if (n) { el.textContent = fmt(lessonScore(n)); pill.title = `Your score in lesson ${n}`; }
+  }
+  // lessons with scored questions
+  const lessonPoints = (n) => { const L = COURSE && lessonById(n); return L ? L.slides.some((s) => ANSWER_TYPES.includes(s.type) && KEY[s.id]) : false; };
 
   function figure(img, slideId) {
     const vid = CFG.videos && CFG.videos[slideId];
@@ -498,7 +508,7 @@
       const p = progress(L);
       return `<li><a class="lesson-card ${p >= 1 ? "done" : ""}" href="#/lesson/${L.n}/1">
         <span class="lesson-num">${p >= 1 ? "✓" : L.n}</span>
-        <span class="lesson-meta"><strong>${inline(L.title)}</strong><small>${L.slides.length} slides${p > 0 && p < 1 ? " · in progress" : p >= 1 ? " · completed" : ""}</small>
+        <span class="lesson-meta"><strong>${inline(L.title)}</strong><small>${L.slides.length} slides${p > 0 && p < 1 ? " · in progress" : p >= 1 ? " · completed" : ""}${lessonScore(L.n) ? ` · <span style="color:var(--gold);font-weight:700">★ ${fmt(lessonScore(L.n))}</span>` : ""}</small>
         <span class="bar"><i style="width:${Math.round(p * 100)}%"></i></span></span></a></li>`;
     }).join("");
     const next = COURSE.lessons.find((L) => progress(L) < 1) || COURSE.lessons[0];
@@ -614,8 +624,8 @@
 
   if (REVIEW) document.getElementById("review-banner").hidden = false;
   Promise.all([
-    fetch("content/course.json").then((r) => r.json()),
-    fetch("content/key.json").then((r) => (r.ok ? r.json() : {})).catch(() => ({}))
+    fetch("content/course.json", { cache: "no-cache" }).then((r) => r.json()),
+    fetch("content/key.json", { cache: "no-cache" }).then((r) => (r.ok ? r.json() : {})).catch(() => ({}))
   ]).then(([c, k]) => { COURSE = c; KEY = k; window.addEventListener("hashchange", route); route(); })
     .catch(() => { app.innerHTML = "<p>Could not load the course content.</p>"; });
 })();

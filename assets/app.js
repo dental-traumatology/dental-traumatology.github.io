@@ -14,6 +14,11 @@
     set(k, v) { try { localStorage.setItem("dtc:" + k, JSON.stringify(v)); } catch (e) { /* private mode */ } }
   };
   const answers = store.get("answers", {});
+  // answers saved by the first version of the site (before answer checking) have no "ok" field: forget them
+  if (store.get("format", 0) < 2) {
+    Object.keys(answers).forEach((id) => { const v = answers[id]; if (v && !("ok" in v) && !("points" in v) && typeof v.value !== "number" && typeof v.value !== "string") delete answers[id]; });
+    store.set("answers", answers); store.set("format", 2);
+  }
   const seen = store.get("seen", {});
   const saveAnswer = (id, v) => { answers[id] = v; store.set("answers", answers); updateScore(); };
   const markSeen = (id) => { if (!seen[id]) { seen[id] = 1; store.set("seen", seen); } };
@@ -120,7 +125,16 @@
     return `<div class="feedback ${ok ? "ok" : "no"}" role="status"><div class="head">${ok ? "✓ That's correct!" : "✕ Not quite."}${ok ? `<span class="points">+${fmt(POINTS)}</span>` : ""}</div>` +
       `${why ? `<div class="why">${why}</div>` : ""}${k.source ? `<span class="src">Source: ${inline(k.source)}</span>` : ""}</div>`;
   }
-  const record = (s, value, ok, extra) => saveAnswer(s.id, { value, ok, points: ok ? POINTS : 0, ...(extra || {}) });
+  const record = (s, value, ok, extra) => { saveAnswer(s.id, { value, ok, points: ok ? POINTS : 0, ...(extra || {}) }); retryButton(s); };
+  // "Try again": forget this question's answer and redraw the slide
+  function retryButton(s) {
+    const el = document.getElementById("slide");
+    if (!el || !answers[s.id] || el.querySelector(".retry")) return;
+    const b = h(`<button type="button" class="btn ghost retry" style="margin-top:14px">↻ Try again</button>`);
+    b.onclick = () => { delete answers[s.id]; store.set("answers", answers); updateScore(); route(); };
+    const res = el.querySelector(".result-card, .submit-card");
+    res ? res.before(b) : el.appendChild(b);
+  }
 
   // ---------- choice questions ----------
   function renderChoice(s, el) {
@@ -193,6 +207,7 @@
       return ok;
     }
     function finish() {
+      setTimeout(() => retryButton(s), 0);
       box.querySelector(".swipe-btns").hidden = true; stage.parentElement.hidden = true;
       box.querySelector(".swipe-progress").textContent = "";
       if (k && k.correct) {
@@ -593,6 +608,7 @@
         el.insertAdjacentHTML("beforeend", `<details class="acc"><summary>${inline(it.heading)}</summary><div class="acc-body">${restImages(it.images, r.used, s.id)}${r.html}</div></details>`);
       });
     }
+    if (ANSWER_TYPES.includes(s.type) && answers[s.id]) retryButton(s);
     if (s.missing) el.insertAdjacentHTML("beforeend", `<p class="note">This interactive activity could not be recovered from the old platform and will be added from the original course files.</p>`);
     if (k === L.slides.length) { el.insertAdjacentHTML("beforeend", resultCard(L) + submitCard(L)); wireSubmit(L); }
     app.focus({ preventScroll: true }); window.scrollTo(0, 0);

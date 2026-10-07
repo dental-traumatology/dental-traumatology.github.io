@@ -2014,22 +2014,30 @@
     {
      "id": "L6-S7",
      "section": "Trauma Splint",
-     "type": "quiz_single",
-     "question": "What is the correct splinting time for the below injuries?",
+     "type": "matching",
      "multi": false,
-     "items": [
-      {
-       "heading": "Avulsion",
-       "body": "- 2 weeks\n- 4 weeks up to 4 months\n- 3 weeks"
-      },
-      {
-       "heading": "Subluxation",
-       "body": "- No need for splinting\n- 2 weeks always\n- 2 weeks if increased mobility"
-      },
-      {
-       "heading": "Root fracture",
-       "body": "- 4 weeks to 4 months\n- 1 week\n- 2 weeks"
-      }
+     "title": "What is the correct splinting time for the below injuries?",
+     "terms": [
+      "Avulsion",
+      "Subluxation",
+      "Root fracture"
+     ],
+     "groups": [
+      [
+       "2 weeks",
+       "4 weeks up to 4 months",
+       "3 weeks"
+      ],
+      [
+       "No need for splinting",
+       "2 weeks always",
+       "2 weeks if increased mobility"
+      ],
+      [
+       "4 weeks to 4 months",
+       "1 week",
+       "2 weeks"
+      ]
      ]
     },
     {
@@ -3299,7 +3307,9 @@
      "id": "L9-S40",
      "section": "Avulsion of Permanent Teeth",
      "type": "text",
-     "multi": false
+     "multi": false,
+     "title": "ToothSOS app",
+     "body": "The original lesson showed a short screen recording of the free **ToothSOS** app of the International Association of Dental Traumatology (IADT), which guides patients and parents through first aid after dental injuries. It is available on the App Store and Google Play."
     },
     {
      "id": "L9-S41",

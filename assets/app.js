@@ -69,7 +69,7 @@
   const QUIZ = ["quiz_single", "quiz_multi", "true_false"];
   function keyFor(id) {
     const k = KEY[id];
-    if (!k) return null;
+    if (!k || k.correct == null || (Array.isArray(k.correct) && !k.correct.length)) return null;
     if (k.approved || REVIEW) return k;
     return null;
   }
@@ -220,10 +220,10 @@
   function renderMatching(s, el) {
     const terms = s.terms || [], opts = s.options || [];
     const prev = (answers[s.id] && answers[s.id].value) || [];
-    const box = h(`<div><div class="q">${inline(s.title || "Match each term with its definition")}</div><div class="hint">Choose the matching definition for each term.</div></div>`);
+    const box = h(`<div><div class="q">${inline(s.title || "Match each term with its definition")}</div><div class="hint">${s.groups ? "Choose one answer for each item." : "Choose the matching definition for each term."}</div></div>`);
     const sels = terms.map((t, i) => {
       const row = h(`<div class="tf-card"><p>${inline(t)}</p><select style="width:100%;padding:10px;border:1.5px solid var(--line);border-radius:10px;font:inherit;background:var(--surface);color:var(--ink)">
-        <option value="">— select —</option>${opts.map((o, j) => `<option value="${j}">${esc(o)}</option>`).join("")}</select><div class="fb"></div></div>`);
+        <option value="">— select —</option>${(s.groups ? s.groups[i] : opts).map((o, j) => `<option value="${j}">${esc(o)}</option>`).join("")}</select><div class="fb"></div></div>`);
       box.appendChild(row); const sel = row.querySelector("select"); if (prev[i] != null) sel.value = prev[i]; return sel;
     });
     const btn = h(`<button class="btn">Check answers</button>`); box.appendChild(btn);
@@ -234,7 +234,7 @@
         const fb = x.parentElement.querySelector(".fb");
         if (!k) { fb.innerHTML = ""; return; }
         const ok = +x.value === k.correct[i];
-        fb.innerHTML = feedbackHtml(ok, { ...k, explanation: ok ? "" : opts[k.correct[i]] });
+        fb.innerHTML = feedbackHtml(ok, { ...k, explanation: ok ? "" : (s.groups ? s.groups[i] : opts)[k.correct[i]] });
       });
       if (!k) box.insertAdjacentHTML("beforeend", `<div class="feedback info">Answers recorded.</div>`);
     }

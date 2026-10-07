@@ -20,7 +20,7 @@
      "section": "Welcome!",
      "type": "text",
      "title": "General Information",
-     "body": "**Authors**\n- Prof Anne O’Connell\n- Dr Isabel Olegário\n- Dr Rona Leith\n\n**Affiliation:**\n- Dublin Dental University Hospital, Trinity College Dublin\n\nThis course is being developed as part of the research study:\n- “Novel learning strategies for undergraduate dental education: the effectiveness of an online self-paced course and the impact of gamification features in learning outcomes in Dental Traumatology”\n\n**Additional contents:**\n- Some of the images and videos of this course are used with permission from the Dental Trauma Guide website.\n- All other photographs and radiographs are from [unclear]\n- The PDF of all IADT guidelines are available in the course “Briefcase”.\n\n**Baseline Quiz**\n- You will be required to complete some questions before the start of the course to measure your baseline knowledge in Dental Traumatology.\n\n**Course Content:**\n- Once you finish the baseline questionnaire, you will be able to access the course content.\n- Every lesson must be completed before you move on to the next one.\n- Lessons include: Terminology, Examination and Special Tests, Trauma Splint, Uncomplicated Crown Fractures, Complicated Crown Fractures and Avulsion of Permanent Teeth.\n\n**Final Quiz**\n- After completing the course, you will be required to answer a final quiz so we can assess your learning.\n- Don’t worry - the research team does not have access to your identity.\n- You will have access to the course for a period of 6 weeks, so make sure you read all the content and answer the final Quiz.\n\n**Creative Commons License:**\n- Online Course in Dental Traumatology © 2023 by Isabel Olegário, Rona Leith and Anne O’Connell is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International\n\n**Questions?**\n- If you have any questions, please contact the [unclear]",
+     "body": "**Authors**\n- Prof Anne O’Connell\n- Dr Isabel Olegário\n- Dr Rona Leith\n\n**Affiliation:**\n- Dublin Dental University Hospital, Trinity College Dublin\n\nThis course is being developed as part of the research study:\n- “Novel learning strategies for undergraduate dental education: the effectiveness of an online self-paced course and the impact of gamification features in learning outcomes in Dental Traumatology”\n\n**Additional contents:**\n- Some of the images and videos of this course are used with permission from the Dental Trauma Guide website.\n- The PDF of all IADT guidelines are available in the course “Briefcase”.\n\n**Baseline Quiz**\n- You will be required to complete some questions before the start of the course to measure your baseline knowledge in Dental Traumatology.\n\n**Course Content:**\n- Once you finish the baseline questionnaire, you will be able to access the course content.\n- Every lesson must be completed before you move on to the next one.\n- Lessons include: Terminology, Examination and Special Tests, Trauma Splint, Uncomplicated Crown Fractures, Complicated Crown Fractures and Avulsion of Permanent Teeth.\n\n**Final Quiz**\n- After completing the course, you will be required to answer a final quiz so we can assess your learning.\n- Don’t worry - the research team does not have access to your identity.\n- You will have access to the course for a period of 6 weeks, so make sure you read all the content and answer the final Quiz.\n\n**Creative Commons License:**\n- Online Course in Dental Traumatology © 2023 by Isabel Olegário, Rona Leith and Anne O’Connell is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International\n\n**Questions?**",
      "multi": false
     },
     {
@@ -460,7 +460,7 @@
      "section": "Terminology",
      "type": "text",
      "title": "Open x Closed Apex",
-     "body": "**Open Apex**\n\nThe root of the tooth is not fully formed yet (immature root). See examples below:\n\n{{img:0}}\n\n**Closed Apex**\n\nThe root of the tooth is fully formed and the apex is closed (mature root). See examples below:\n\n{{img:1}}\n\nCase 1 (open apex)\n- Trauma history: Enamel-dentine-pulp fracture on the upper left central incisor. Note all permanent upper incisors have open apices in the radiographic exam.\n\n{{img:2}}\n\n[unclear — text not captured] ... still present with open apices.\n\n{{img:3}}\n\nCase 2 (closed apex):\n- Trauma history: 14 year old patient - avulsion of upper right lateral incisor (tooth not found) and lateral luxation of upper right central incisor.\n- Note that roots of central incisors are fully formed (closed apex).\n\n{{img:4}}",
+     "body": "**Open Apex**\n\nThe root of the tooth is not fully formed yet (immature root). See examples below:\n\n{{img:0}}\n\n**Closed Apex**\n\nThe root of the tooth is fully formed and the apex is closed (mature root). See examples below:\n\n{{img:1}}\n\nCase 1 (open apex)\n- Trauma history: Enamel-dentine-pulp fracture on the upper left central incisor. Note all permanent upper incisors have open apices in the radiographic exam.\n\n{{img:2}}\n\n{{img:3}}\n\nCase 2 (closed apex):\n- Trauma history: 14 year old patient - avulsion of upper right lateral incisor (tooth not found) and lateral luxation of upper right central incisor.\n- Note that roots of central incisors are fully formed (closed apex).\n\n{{img:4}}",
      "multi": false,
      "images": [
       {
@@ -728,30 +728,8 @@
      "section": "Terminology",
      "type": "text",
      "title": "Wound Healing Definitions - Glossary of Terms",
-     "body": "*Dental Trauma Guide*",
-     "multi": false,
-     "items": [
-      {
-       "heading": "Regeneration",
-       "body": "[not captured]"
-      },
-      {
-       "heading": "Repair",
-       "body": "[not captured]"
-      },
-      {
-       "heading": "Revascularisation",
-       "body": "[not captured]"
-      },
-      {
-       "heading": "Gingival Reattachment",
-       "body": "[not captured]"
-      },
-      {
-       "heading": "Periodontal Ligament Regeneration",
-       "body": "[not captured]"
-      }
-     ]
+     "body": "*Dental Trauma Guide*\n\n- Regeneration\n- Repair\n- Revascularisation\n- Gingival Reattachment\n- Periodontal Ligament Regeneration",
+     "multi": false
     },
     {
      "id": "L3-S13",
@@ -1002,20 +980,12 @@
     {
      "id": "L3-S27",
      "section": "Terminology",
-     "type": "matching",
-     "title": "Match the products with their attributes",
-     "options": [
-      "Displacement of the tooth into the alveolar bone.",
-      "A fracture involving dentine, cementum and the pulp.",
-      "A fracture with loss of tooth substance confined to enamel and dentine not involving the pulp",
-      "An injury to the tooth-supporting structures with abnormal loosening, but without displacement of the tooth"
-     ],
+     "type": "statements",
      "multi": false,
-     "terms": [
-      "Root fracture",
-      "Intrusive luxation",
-      "Subluxation",
-      "Enamel-dentine fracture"
+     "body": "- Root fracture\n- Intrusive luxation\n- Subluxation\n- Enamel-dentine fracture",
+     "question": "Match the products with their attributes",
+     "statements": [
+      null
      ]
     },
     {
@@ -1078,7 +1048,7 @@
      "section": "Dental Trauma Index",
      "type": "text",
      "title": "Eden Baysal Dental Trauma Index",
-     "body": "The Eden-Baysal index is a new 5-digit index that comprises all important information and can be easily computerised.\n\nThe index contains five digits following FDI tooth code. The first two digits contain numbers starting from 0, the third digit contains capital letters, the fourth digit contains lower case first letters and the fifth digit contains plus or minus sign.\n\nIntraoral and radiographic findings are used to record the cases with the index.\n\n**1st digit: Crown fracture**\n\nThe 1st digit after the FDI tooth code stands for hard dental tissue injuries affecting the crown with information on its relation with the pulp and root. Intraoral clinical evaluation is used to gather information for proper coding. Numbers are used to categorise the injury in hierarchical order in relation to severity. The codes are as follows:\n\n- 0 = none\n- 1 = enamel fracture\n- 2 = enamel and dentin fracture = uncomplicated crown fracture\n- 3 = enamel and dentin fracture including the pulp = complicated crown fracture\n- 4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture\n- 5 = Enamel-dentin-cementum fracture including the pulp = [unclear]\n\n**2nd digit: Root fracture**\n\n2nd digit stands for hard dental tissue injury of the root indicating the location of the fracture line. Numbers are used to categorise the injury in a hierarchical nature in relation to its position. The position of the fracture line in relation to the gingival margin defines the severity of the injury and impaired prognosis. In case of an oblique root fracture affecting more than one location on the root, the position of the fracture line close to the cervical region is recorded. The codes used in the second digit are as follows:\n\n- 0 = none\n- 1 = apical 1/3 root fracture\n- 2 = middle 1/3 root fracture\n- 3 = cervical 1/3 root fracture\n\n**3rd digit: Luxation injury**\n\n3rd digit stands for periodontal ligament injuries (Luxation injuries). The type of the periodontal ligament injury that is present is indicated by its first letter written in capitals. The first letters of the luxation injuries are used as follows:\n\n- N = None\n- C = Concussion\n- S = Subluxation\n- L = Lateral luxation\n- E = Extrusive luxation\n- I = Intrusive luxation\n- [unclear: further item(s) not captured]\n\n**4th digit: Maturity and shape of apex**\n\n4th digit stands for maturity of the apex. Radiographic evaluation reveals the characteristics of the apex in both dentitions. In an immature apex, the root has thinner dentin walls, it may be short and the apical foramen is large. In a mature apex, the apical end of the root is completely formed and the periodontal membrane has a uniform width around the root and the apex. In primary dentition, physiological root resorption may be present. Therefore, 3 codes are used in this digit. Lowercase first letters of the words defining the characteristics of the apex are used as below:\n\n- i = immature apex\n- m = mature apex\n- r = resorbed apex (physiological)\n\n**5th digit: Alveolar process fracture**\n\n5th digit indicates the presence or absence of a fracture of the alveolar process and expressed by plus (+) or minus (-) sign, respectively. It is important to note that the fracture should be related to the alveolar process only. The definitions of the codes for this digit are as follows:\n\n- Plus (+) sign = Alveolar process fracture\n- Minus (−) sign = No alveolar fracture\n\n**This index has been modified to include soft tissue (MEBDTI).**\n\n**Soft tissue injury**\n\nSoft tissue injuries affecting skin, lip and/or gingiva are recorded for each patient by adding superscript numbers outside the brackets containing the records of injured teeth and alveolar process recorded by ‘Eden Baysal Dental Trauma Index’. Multiple soft tissue injuries should be written in ascending order separated by commas as superscript numbers.\n\n- 0 = none\n- 1 = skin/lip abrasion\n- 2 = skin/lip laceration\n- 3 = skin/lip contusion\n- 4 = skin/lip avulsion\n- 5 = intra-oral abrasion\n- 6 = intra-oral laceration\n- 7 = intra-oral contusion\n- 8 = intra-oral avulsion",
+     "body": "The Eden-Baysal index is a new 5-digit index that comprises all important information and can be easily computerised.\n\nThe index contains five digits following FDI tooth code. The first two digits contain numbers starting from 0, the third digit contains capital letters, the fourth digit contains lower case first letters and the fifth digit contains plus or minus sign.\n\nIntraoral and radiographic findings are used to record the cases with the index.\n\n**1st digit: Crown fracture**\n\nThe 1st digit after the FDI tooth code stands for hard dental tissue injuries affecting the crown with information on its relation with the pulp and root. Intraoral clinical evaluation is used to gather information for proper coding. Numbers are used to categorise the injury in hierarchical order in relation to severity. The codes are as follows:\n\n- 0 = none\n- 1 = enamel fracture\n- 2 = enamel and dentin fracture = uncomplicated crown fracture\n- 3 = enamel and dentin fracture including the pulp = complicated crown fracture\n- 4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture\n- 5 = Enamel-dentin-cementum fracture including the pulp\n\n**2nd digit: Root fracture**\n\n2nd digit stands for hard dental tissue injury of the root indicating the location of the fracture line. Numbers are used to categorise the injury in a hierarchical nature in relation to its position. The position of the fracture line in relation to the gingival margin defines the severity of the injury and impaired prognosis. In case of an oblique root fracture affecting more than one location on the root, the position of the fracture line close to the cervical region is recorded. The codes used in the second digit are as follows:\n\n- 0 = none\n- 1 = apical 1/3 root fracture\n- 2 = middle 1/3 root fracture\n- 3 = cervical 1/3 root fracture\n\n**3rd digit: Luxation injury**\n\n3rd digit stands for periodontal ligament injuries (Luxation injuries). The type of the periodontal ligament injury that is present is indicated by its first letter written in capitals. The first letters of the luxation injuries are used as follows:\n\n- N = None\n- C = Concussion\n- S = Subluxation\n- L = Lateral luxation\n- E = Extrusive luxation\n- I = Intrusive luxation\n\n**4th digit: Maturity and shape of apex**\n\n4th digit stands for maturity of the apex. Radiographic evaluation reveals the characteristics of the apex in both dentitions. In an immature apex, the root has thinner dentin walls, it may be short and the apical foramen is large. In a mature apex, the apical end of the root is completely formed and the periodontal membrane has a uniform width around the root and the apex. In primary dentition, physiological root resorption may be present. Therefore, 3 codes are used in this digit. Lowercase first letters of the words defining the characteristics of the apex are used as below:\n\n- i = immature apex\n- m = mature apex\n- r = resorbed apex (physiological)\n\n**5th digit: Alveolar process fracture**\n\n5th digit indicates the presence or absence of a fracture of the alveolar process and expressed by plus (+) or minus (-) sign, respectively. It is important to note that the fracture should be related to the alveolar process only. The definitions of the codes for this digit are as follows:\n\n- Plus (+) sign = Alveolar process fracture\n- Minus (−) sign = No alveolar fracture\n\n**This index has been modified to include soft tissue (MEBDTI).**\n\n**Soft tissue injury**\n\nSoft tissue injuries affecting skin, lip and/or gingiva are recorded for each patient by adding superscript numbers outside the brackets containing the records of injured teeth and alveolar process recorded by ‘Eden Baysal Dental Trauma Index’. Multiple soft tissue injuries should be written in ascending order separated by commas as superscript numbers.\n\n- 0 = none\n- 1 = skin/lip abrasion\n- 2 = skin/lip laceration\n- 3 = skin/lip contusion\n- 4 = skin/lip avulsion\n- 5 = intra-oral abrasion\n- 6 = intra-oral laceration\n- 7 = intra-oral contusion\n- 8 = intra-oral avulsion",
      "multi": false
     },
     {
@@ -1535,7 +1505,7 @@
      "section": "Examination and Special Tests",
      "type": "text",
      "title": "Test Cavity",
-     "body": "- This method should only be used where pulp necrosis is the likely diagnosis but all other tests provided inconclusive results.\n- Single tooth isolation is recommended to prevent false positive results.\n- The tooth is not anesthetised and the dentist drills a small hole into the tooth (usually on the palatal surface for incisors) to reach the enamel-dentine junction.\n- The patient is asked if they feel any pain during drilling. If the patient experiences pain upon contact with sound dentine, the procedure is terminated and the cavity is restored.\n- If the patient does not respond, root canal treatment should be initiated (confirmed pulp necrosis).\n- This test is not recommended for young children because they might not be able to distinguish pressure and pain[?] [unclear: text cut off]",
+     "body": "- This method should only be used where pulp necrosis is the likely diagnosis but all other tests provided inconclusive results.\n- Single tooth isolation is recommended to prevent false positive results.\n- The tooth is not anesthetised and the dentist drills a small hole into the tooth (usually on the palatal surface for incisors) to reach the enamel-dentine junction.\n- The patient is asked if they feel any pain during drilling. If the patient experiences pain upon contact with sound dentine, the procedure is terminated and the cavity is restored.\n- If the patient does not respond, root canal treatment should be initiated (confirmed pulp necrosis).\n- This test is not recommended for young children because they might not be able to distinguish pressure and pain",
      "multi": false
     },
     {
@@ -1567,7 +1537,7 @@
       },
       {
        "heading": "Recommended radiographs (IADT guidelines 2020)",
-       "body": "Since maxillary central incisors are the most frequently affected teeth, the radiographs listed below are recommended to thoroughly examine the injured area:\n\n1. One parallel periapical radiograph aimed through the midline to show the two maxillary central incisors.\n2. One parallel periapical radiograph aimed at the maxillary right lateral incisors (should also show the right canine and central incisor).\n3. One parallel periapical radiograph aimed at the maxillary left lateral incisor (should also show the left canine and central incisor).\n4. One maxillary occlusal radiograph.\n5. At least one parallel periapical radiograph of the lower incisors centred on the two mandibular centrals. However, other radiographs may be indicated if there are [unclear: text cut off]"
+       "body": "Since maxillary central incisors are the most frequently affected teeth, the radiographs listed below are recommended to thoroughly examine the injured area:\n\n1. One parallel periapical radiograph aimed through the midline to show the two maxillary central incisors.\n2. One parallel periapical radiograph aimed at the maxillary right lateral incisors (should also show the right canine and central incisor).\n3. One parallel periapical radiograph aimed at the maxillary left lateral incisor (should also show the left canine and central incisor).\n4. One maxillary occlusal radiograph."
       },
       {
        "heading": "CBCT",
@@ -1708,7 +1678,7 @@
      "section": "Examination and Special Tests",
      "type": "text",
      "title": "Cone-beam Computed Tomography (CBCT)",
-     "body": "- Cone beam computerized tomography (CBCT) provides enhanced visualisation of TDIs, particularly root fractures, crown/root fractures, and lateral luxations.\n- CBCT can hep to determine the location, extent, and direction of a fracture.\n- It should only be used in cases where 3D imaging is likely to change the management of the injury when compared to other methods that generates lower levels of ionising radiation (such as periapical radiographs).\n\n{{img:0}}\n\nNote that in the above case a CBCT exam was performed to locate the unerupted 21.\n\n[unclear: further text cut off]",
+     "body": "- Cone beam computerized tomography (CBCT) provides enhanced visualisation of TDIs, particularly root fractures, crown/root fractures, and lateral luxations.\n- CBCT can hep to determine the location, extent, and direction of a fracture.\n- It should only be used in cases where 3D imaging is likely to change the management of the injury when compared to other methods that generates lower levels of ionising radiation (such as periapical radiographs).\n\n{{img:0}}\n\nNote that in the above case a CBCT exam was performed to locate the unerupted 21.",
      "multi": false,
      "images": [
       {
@@ -1870,7 +1840,7 @@
       },
       {
        "heading": "Effective splints should:",
-       "body": "- Be functional: it incorporates at least one uninjured tooth on either side of the traumatised tooth or teeth\n- Be flexible: allow for physiological tooth movement\n- Allow adequate oral hygiene\n- Be comfortable for the patient\n- Not irritate the soft tissues\n- Allow pulp sensibility testing\n- Allow endodontic access (if required)\n- Not interfere with the occlusion\n- Be easy to apply\n- Be easy to remove without causing iatrogenic damage to the tissu[?]\n\n<u>Article: Tips for splinting traumatised teeth</u>"
+       "body": "- Be functional: it incorporates at least one uninjured tooth on either side of the traumatised tooth or teeth\n- Be flexible: allow for physiological tooth movement\n- Allow adequate oral hygiene\n- Be comfortable for the patient\n- Not irritate the soft tissues\n- Allow pulp sensibility testing\n- Allow endodontic access (if required)\n- Not interfere with the occlusion\n- Be easy to apply\n- Be easy to remove without causing iatrogenic damage to the tissues\n\n<u>Article: Tips for splinting traumatised teeth</u>"
       },
       {
        "heading": "<u>COMPOSITE AND WIRE SPLINT</u>",
@@ -2335,7 +2305,7 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
      "title": "Composite resin restoration",
-     "body": "Enamel-Dentine Fracture\n\nWhen the intact fragment is not available\n\n**Pulp Protection**\nIf the exposed dentine is within 0.5 mm of the pulp, a calcium hydroxide lining can be placed.\n\n{{img:0}}\n\n**Surface Preparation**\n- When using resin composite build-up, optimal aesthetics and function can be achieved when the fracture edges are prepared with a 1–2 mm wide [unclear — text between screenshots not captured]\n- Rinse and dry the tooth\n- Apply a thin layer of the adhesive system of choice (air-thin dry to remove any excess of the bonding system).\n- Polymerisation (light cure).\n\n{{img:1}}\n\n- Restore the tooth with composite resin.\n- Direct mock-up with composite resin can be used using a silicone index obtained from a wax-up.\n- Otherwise, a free-hand composite resin restoration can be performed.\n- Finishing and polishing stage with abrasive discs and diamond burs for the texture can be used to improve aesthetic results.\n\n**Important**: In cases where fragment reattachment or composite resin restoration can not be performed, an emergency procedure that comprises the application of a temporary glass ionomer restoration is indicated to prevent bacterial invasion into the dentine tubules.\n\n**Concomitant luxation injuries:** Restoration with composite resin restoration can be difficult to perform on teeth with increased mobility and gingival bleeding. In this case, a temporary restoration is indicated since a dry operative field is difficult to maintain.",
+     "body": "Enamel-Dentine Fracture\n\nWhen the intact fragment is not available\n\n**Pulp Protection**\nIf the exposed dentine is within 0.5 mm of the pulp, a calcium hydroxide lining can be placed.\n\n{{img:0}}\n\n**Surface Preparation**\n- Rinse and dry the tooth\n- Apply a thin layer of the adhesive system of choice (air-thin dry to remove any excess of the bonding system).\n- Polymerisation (light cure).\n\n{{img:1}}\n\n- Restore the tooth with composite resin.\n- Direct mock-up with composite resin can be used using a silicone index obtained from a wax-up.\n- Otherwise, a free-hand composite resin restoration can be performed.\n- Finishing and polishing stage with abrasive discs and diamond burs for the texture can be used to improve aesthetic results.\n\n**Important**: In cases where fragment reattachment or composite resin restoration can not be performed, an emergency procedure that comprises the application of a temporary glass ionomer restoration is indicated to prevent bacterial invasion into the dentine tubules.\n\n**Concomitant luxation injuries:** Restoration with composite resin restoration can be difficult to perform on teeth with increased mobility and gingival bleeding. In this case, a temporary restoration is indicated since a dry operative field is difficult to maintain.",
      "multi": false,
      "images": [
       {
@@ -2610,15 +2580,6 @@
      "type": "blanks",
      "question": "Clinical and radiographic evaluations are necessary after _ to _ weeks and after __ , _ and ___ months.",
      "multi": false
-    },
-    {
-     "id": "L8-S10",
-     "section": "Complicated Crown Fractures",
-     "type": "text",
-     "title": "True or false?",
-     "body": "Which of these statements is true? Swipe the false statements to the left and the true statements to the right.",
-     "multi": false,
-     "missing": true
     },
     {
      "id": "L8-S11",
@@ -3200,24 +3161,6 @@
        "body": "The dental team should include specialists who will provide expert advice on long-term care. When tooth loss is inevitable, tooth replacement should be provided as soon as possible following extraction.\n\nAvoidance of space loss and maintenance of alveolar ridge should be planned in growing patients.\n\nOther treatment options can include tooth replacement by a removable space maintainer, bonded bridge, and autotransplantation, among others. Implant treatment can be considered after growth is completed."
       }
      ]
-    },
-    {
-     "id": "L9-S35",
-     "section": "Avulsion of Permanent Teeth",
-     "type": "text",
-     "title": "Common unfavorable outcomes after permanent teeth avulsion",
-     "body": "Select the correct word related to the image. Speed and accuracy will score you the most points.",
-     "multi": false,
-     "missing": true
-    },
-    {
-     "id": "L9-S36",
-     "section": "Avulsion of Permanent Teeth",
-     "type": "text",
-     "title": "True or false?",
-     "body": "Which of these statements is true? Swipe the incorrect statements to the left and the true statements to the right.",
-     "multi": false,
-     "missing": true
     },
     {
      "id": "L9-S37",

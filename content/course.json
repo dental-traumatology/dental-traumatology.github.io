@@ -1,6 +1,6 @@
 {
  "title": "Online Course in Dental Traumatology",
- "subtitle": "A free, self-paced course for undergraduate dental students — Dublin Dental University Hospital, Trinity College Dublin.",
+ "subtitle": "",
  "about": "## About this course\n\n**Authors:** Prof Anne O'Connell, Dr Isabel Olegário, Dr Rona Leith\n\n**Affiliation:** Dublin Dental University Hospital, Trinity College Dublin\n\nThis course was developed as part of the research study *\"Novel learning strategies for undergraduate dental education: the effectiveness of an online self-paced course and the impact of gamification features in learning outcomes in Dental Traumatology\"*.\n\nThe course has 11 lessons: a baseline quiz, Terminology, the Dental Trauma Index, Examination and Special Tests, Trauma Splint, Uncomplicated Crown Fractures, Complicated Crown Fractures, Avulsion of Permanent Teeth, course feedback and a final quiz. Lessons are meant to be taken in order.\n\nSome images and videos in this course are used with permission from the Dental Trauma Guide website.\n\n## Licence\n\nOnline Course in Dental Traumatology © 2023 by Isabel Olegário, Rona Leith and Anne O'Connell is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).",
  "lessons": [
   {
@@ -20,7 +20,7 @@
      "section": "Welcome!",
      "type": "text",
      "title": "General Information",
-     "body": "**Authors**\n- Prof Anne O’Connell\n- Dr Isabel Olegário\n- Dr Rona Leith\n\n**Affiliation:**\n- Dublin Dental University Hospital, Trinity College Dublin\n\nThis course is being developed as part of the research study:\n- “Novel learning strategies for undergraduate dental education: the effectiveness of an online self-paced course and the impact of gamification features in learning outcomes in Dental Traumatology”\n\n**Additional contents:**\n- Some of the images and videos of this course are used with permission from the Dental Trauma Guide website.\n- All other photographs and radiographs are from [unclear]\n- The PDF of all IADT guidelines are available in the course “Briefcase”.\n\n**Baseline Quiz**\n- You will be required to complete some questions before the start of the course to measure your baseline knowledge in Dental Traumatology.\n\n**Course Content:**\n- Once you finish the baseline questionnaire, you will be able to access the course content.\n- Every lesson must be completed before you move on to the next one.\n- Lessons include: Terminology, Examination and Special Tests, Trauma Splint, Uncomplicated Crown Fractures, Complicated Crown Fractures and Avulsion of Permanent Teeth.\n\n**Final Quiz**\n- After completing the course, you will be required to answer a final quiz so we can assess your learning.\n- Don’t worry - the research team does not have access to your identity.\n- You will have access to the course for a period of 6 weeks, so make sure you read all the content and answer the final Quiz.\n\n**Creative Commons License:**\n- Online Course in Dental Traumatology © 2023 by Isabel Olegário, Rona Leith and Anne O’Connell is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International\n\n[CC BY-NC-ND badge]\n\n**Questions?**\n- If you have any questions, please contact the [unclear]",
+     "body": "**Authors**\n- Prof Anne O’Connell\n- Dr Isabel Olegário\n- Dr Rona Leith\n\n**Affiliation:**\n- Dublin Dental University Hospital, Trinity College Dublin\n\nThis course is being developed as part of the research study:\n- “Novel learning strategies for undergraduate dental education: the effectiveness of an online self-paced course and the impact of gamification features in learning outcomes in Dental Traumatology”\n\n**Additional contents:**\n- Some of the images and videos of this course are used with permission from the Dental Trauma Guide website.\n- All other photographs and radiographs are from [unclear]\n- The PDF of all IADT guidelines are available in the course “Briefcase”.\n\n**Baseline Quiz**\n- You will be required to complete some questions before the start of the course to measure your baseline knowledge in Dental Traumatology.\n\n**Course Content:**\n- Once you finish the baseline questionnaire, you will be able to access the course content.\n- Every lesson must be completed before you move on to the next one.\n- Lessons include: Terminology, Examination and Special Tests, Trauma Splint, Uncomplicated Crown Fractures, Complicated Crown Fractures and Avulsion of Permanent Teeth.\n\n**Final Quiz**\n- After completing the course, you will be required to answer a final quiz so we can assess your learning.\n- Don’t worry - the research team does not have access to your identity.\n- You will have access to the course for a period of 6 weeks, so make sure you read all the content and answer the final Quiz.\n\n**Creative Commons License:**\n- Online Course in Dental Traumatology © 2023 by Isabel Olegário, Rona Leith and Anne O’Connell is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International\n\n**Questions?**\n- If you have any questions, please contact the [unclear]",
      "multi": false
     },
     {
@@ -164,9 +164,9 @@
      "images": [
       {
        "src": "img/L2-S10-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Two clinical photographs of a fractured upper incisor, frontal and close-up view"
       }
      ]
     },
@@ -200,9 +200,9 @@
      "images": [
       {
        "src": "img/L2-S12-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Clinical photograph of an injured lower incisor"
       }
      ]
     },
@@ -234,9 +234,9 @@
      "images": [
       {
        "src": "img/L2-S14-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Two periapical radiographs of the upper incisors; red arrow on the right one"
       }
      ]
     },
@@ -255,9 +255,9 @@
      "images": [
       {
        "src": "img/L2-S15-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Profile photograph of a child's lower face"
       }
      ]
     },
@@ -309,9 +309,9 @@
      "images": [
       {
        "src": "img/L2-S18-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Periapical radiograph, intraoral photograph of the upper incisors and photograph of the upper lip"
       }
      ]
     },
@@ -331,9 +331,9 @@
      "images": [
       {
        "src": "img/L2-S19-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Periapical radiograph and intraoral photograph of the injured upper central incisors"
       }
      ]
     },
@@ -443,14 +443,15 @@
      "section": "Terminology",
      "type": "text",
      "title": "Stages of Root Development",
-     "body": "**Cvek’s stages of root development**\n\nImage: Plascencia et al., 2017\n\n- (A) Group I: < 1/2 root length\n- (B) Group II, 1/2 root length\n- (C) Group III, 2/3 root length\n- (D) Group IV, wide open apical foramen and nearly completed root length\n- (E) Group V, closed apical foramen and completed root development.\n\nGroups I, II and III shows wide and divergent apical openings.",
+     "body": "**Cvek’s stages of root development**\n\n{{img:0}}\n\n- (A) Group I: < 1/2 root length\n- (B) Group II, 1/2 root length\n- (C) Group III, 2/3 root length\n- (D) Group IV, wide open apical foramen and nearly completed root length\n- (E) Group V, closed apical foramen and completed root development.\n\nGroups I, II and III shows wide and divergent apical openings.",
      "multi": false,
      "images": [
       {
        "src": "img/L3-S4-0.webp",
-       "caption": "Image: Plascencia et al., 2017 — panels (A)–(E)",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "caption": "Image: Plascencia et al., 2017",
+       "alt": "Five diagrams (A) to (E) of an incisor at increasing stages of root development"
       }
      ]
     },
@@ -459,38 +460,38 @@
      "section": "Terminology",
      "type": "text",
      "title": "Open x Closed Apex",
-     "body": "**Open Apex**\n\nThe root of the tooth is not fully formed yet (immature root). See examples below:\n\n**Closed Apex**\n\nThe root of the tooth is fully formed and the apex is closed (mature root). See examples below:\n\nCase 1 (open apex)\n- Trauma history: Enamel-dentine-pulp fracture on the upper left central incisor. Note all permanent upper incisors have open apices in the radiographic exam.\n\n[unclear — text not captured] ... still present with open apices.\n\nCase 2 (closed apex):\n- Trauma history: 14 year old patient - avulsion of upper right lateral incisor (tooth not found) and lateral luxation of upper right central incisor.\n- Note that roots of central incisors are fully formed (closed apex).",
+     "body": "**Open Apex**\n\nThe root of the tooth is not fully formed yet (immature root). See examples below:\n\n{{img:0}}\n\n**Closed Apex**\n\nThe root of the tooth is fully formed and the apex is closed (mature root). See examples below:\n\n{{img:1}}\n\nCase 1 (open apex)\n- Trauma history: Enamel-dentine-pulp fracture on the upper left central incisor. Note all permanent upper incisors have open apices in the radiographic exam.\n\n{{img:2}}\n\n[unclear — text not captured] ... still present with open apices.\n\n{{img:3}}\n\nCase 2 (closed apex):\n- Trauma history: 14 year old patient - avulsion of upper right lateral incisor (tooth not found) and lateral luxation of upper right central incisor.\n- Note that roots of central incisors are fully formed (closed apex).\n\n{{img:4}}",
      "multi": false,
      "images": [
       {
        "src": "img/L3-S5-0.webp",
-       "caption": "Open apex examples (two periapicals with magnified apex insets, red dashed outlines)",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Two periapical radiographs with magnified insets of open apices outlined in red"
       },
       {
        "src": "img/L3-S5-1.webp",
-       "caption": "Closed apex examples (two periapicals with magnified apex insets, red dashed outlines)",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Two periapical radiographs with magnified insets of closed apices outlined in red"
       },
       {
        "src": "img/L3-S5-2.webp",
-       "caption": "Case 1 (open apex)",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Periapical radiograph of upper incisors with open apices"
       },
       {
        "src": "img/L3-S5-3.webp",
-       "caption": "Case 1 follow-up? (follows text ending '...still present with open apices.')",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Later periapical radiograph of the same upper incisors"
       },
       {
        "src": "img/L3-S5-4.webp",
-       "caption": "Case 2 (closed apex) — only top part visible",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Periapical radiograph of upper incisors (only the upper part was captured)"
       }
      ]
     },
@@ -514,9 +515,9 @@
        "images": [
         {
          "src": "img/L3-S7-0.webp",
-         "caption": "Abrasion",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Abrasion of the skin around the nose and upper lip"
         }
        ]
       },
@@ -526,9 +527,9 @@
        "images": [
         {
          "src": "img/L3-S7-1.webp",
-         "caption": "Contusion",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Contusion of the upper gingiva"
         }
        ]
       },
@@ -538,9 +539,9 @@
        "images": [
         {
          "src": "img/L3-S7-2.webp",
-         "caption": "Laceration",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Lacerations of the lower lip mucosa"
         }
        ]
       }
@@ -566,9 +567,9 @@
        "images": [
         {
          "src": "img/L3-S9-0.webp",
-         "caption": "Enamel Fracture",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Enamel fracture of tooth 11"
         }
        ]
       },
@@ -578,9 +579,9 @@
        "images": [
         {
          "src": "img/L3-S9-1.webp",
-         "caption": "Enamel-dentine fracture (red arrow)",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Enamel-dentine fracture of tooth 21, red arrow"
         }
        ]
       },
@@ -590,9 +591,9 @@
        "images": [
         {
          "src": "img/L3-S9-2.webp",
-         "caption": "Enamel-dentine-pulp fracture (two views, red arrow)",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Two views of an enamel-dentine-pulp fracture of tooth 21, red arrow"
         }
        ]
       },
@@ -602,9 +603,9 @@
        "images": [
         {
          "src": "img/L3-S9-3.webp",
-         "caption": "Root fracture (white arrow)",
          "video": false,
-         "kind": "radiograph"
+         "kind": "radiograph",
+         "alt": "Periapical radiograph with a root fracture of tooth 11, white arrow"
         }
        ]
       },
@@ -614,9 +615,9 @@
        "images": [
         {
          "src": "img/L3-S9-4.webp",
-         "caption": "Crown-root fracture (two views, red arrow)",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Two views of a crown-root fracture of tooth 11, red arrow"
         }
        ]
       },
@@ -626,9 +627,9 @@
        "images": [
         {
          "src": "img/L3-S9-5.webp",
-         "caption": "Alveolar fracture",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Alveolar fracture with avulsed 11 and luxated 12, yellow arrow"
         }
        ]
       }
@@ -654,9 +655,9 @@
        "images": [
         {
          "src": "img/L3-S11-0.webp",
-         "caption": "Concussion — DENTAL TRAUMA GUIDE",
          "video": false,
-         "kind": "illustration"
+         "kind": "illustration",
+         "alt": "Dental Trauma Guide illustration of concussion"
         }
        ]
       },
@@ -666,9 +667,9 @@
        "images": [
         {
          "src": "img/L3-S11-1.webp",
-         "caption": "Subluxation — DENTAL TRAUMA GUIDE",
          "video": false,
-         "kind": "illustration"
+         "kind": "illustration",
+         "alt": "Dental Trauma Guide illustration of subluxation"
         }
        ]
       },
@@ -678,9 +679,9 @@
        "images": [
         {
          "src": "img/L3-S11-2.webp",
-         "caption": "Extrusive luxation — DENTAL TRAUMA GUIDE",
          "video": false,
-         "kind": "illustration"
+         "kind": "illustration",
+         "alt": "Dental Trauma Guide illustration of extrusive luxation"
         }
        ]
       },
@@ -690,9 +691,9 @@
        "images": [
         {
          "src": "img/L3-S11-3.webp",
-         "caption": "Lateral luxation — DENTAL TRAUMA GUIDE",
          "video": false,
-         "kind": "illustration"
+         "kind": "illustration",
+         "alt": "Dental Trauma Guide illustration of lateral luxation"
         }
        ]
       },
@@ -702,9 +703,9 @@
        "images": [
         {
          "src": "img/L3-S11-4.webp",
-         "caption": "Intrusive luxation — DENTAL TRAUMA GUIDE",
          "video": false,
-         "kind": "illustration"
+         "kind": "illustration",
+         "alt": "Dental Trauma Guide illustration of intrusive luxation"
         }
        ]
       },
@@ -714,9 +715,9 @@
        "images": [
         {
          "src": "img/L3-S11-5.webp",
-         "caption": "Avulsion — DENTAL TRAUMA GUIDE",
          "video": false,
-         "kind": "illustration"
+         "kind": "illustration",
+         "alt": "Dental Trauma Guide illustration of avulsion"
         }
        ]
       }
@@ -765,14 +766,14 @@
      "section": "Terminology",
      "type": "text",
      "title": "External Inflammatory Root Resorption",
-     "body": "**Definition:**\n- The combination of bacteria in the root canal (pulp necrosis) **AND** cemental/PDL damage (luxation injuries) on the external root surface results in external inflammatory root resorption.\n\n**Clinical signs:**\n- The pulp is necrotic\n- Negative sensibility tests\n\n**Radiographic signs:**\n- Radiolucent areas along the root\n\nCase: Both upper incisors were avulsed with prolonged extra-oral time (>10h). Note external inflammatory root resorption is present in the right periapical radiograph (3 months after).\n\n**Internal Inflammatory Root Resorption**\n- Occurs on the pulpal surfaces of the root canal as a result of bacterial infection in the root canal.\n- Not usually associated with Dental Trauma.",
+     "body": "**Definition:**\n- The combination of bacteria in the root canal (pulp necrosis) **AND** cemental/PDL damage (luxation injuries) on the external root surface results in external inflammatory root resorption.\n\n**Clinical signs:**\n- The pulp is necrotic\n- Negative sensibility tests\n\n**Radiographic signs:**\n- Radiolucent areas along the root\n\n{{img:0}}\n\nCase: Both upper incisors were avulsed with prolonged extra-oral time (>10h). Note external inflammatory root resorption is present in the right periapical radiograph (3 months after).\n\n**Internal Inflammatory Root Resorption**\n- Occurs on the pulpal surfaces of the root canal as a result of bacterial infection in the root canal.\n- Not usually associated with Dental Trauma.",
      "multi": false,
      "images": [
       {
        "src": "img/L3-S14-0.webp",
-       "caption": "Both upper incisors avulsed, >10h extra-oral; right radiograph 3 months after",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Two periapical radiographs of avulsed upper incisors, the right one 3 months later"
       }
      ]
     },
@@ -781,26 +782,26 @@
      "section": "Terminology",
      "type": "text",
      "title": "External Replacement Root Resorption",
-     "body": "**Definition:**\n- A pathologic loss of cementum, dentine and periodontal ligament with subsequent replacement by bone, resulting in fusion of bone and tooth.\n- Also referred to as ankylosis\n- Replacement resorption cannot be arrested or repaired.\n- The rate of progression can vary.\n\n**Clinical signs**\n- Affected tooth presents with reduced mobility\n- High percussion tone\n- Tooth eruption is completely arrested\n- In a growing child, infra-occlusion relative to adjacent teeth can be seen.\n\n**Radiographic signs**\n- Periodontal ligament is absent\n- Direct union is seen between the alveolar bone and the root\n\n**Long-term consequences in a growing child**\n- The affected tooth will not erupt any further and result in horizontal and vertical defects of the alveolar bone.\n- This defect can impact aesthetic rehabilitation in the future.\n- <u>Decoronation</u> is a treatment option for patients with this condition.",
+     "body": "**Definition:**\n- A pathologic loss of cementum, dentine and periodontal ligament with subsequent replacement by bone, resulting in fusion of bone and tooth.\n- Also referred to as ankylosis\n- Replacement resorption cannot be arrested or repaired.\n- The rate of progression can vary.\n\n**Clinical signs**\n- Affected tooth presents with reduced mobility\n- High percussion tone\n- Tooth eruption is completely arrested\n- In a growing child, infra-occlusion relative to adjacent teeth can be seen.\n\n{{img:0}}\n\n**Radiographic signs**\n- Periodontal ligament is absent\n- Direct union is seen between the alveolar bone and the root\n\n{{img:1}}\n\n**Long-term consequences in a growing child**\n- The affected tooth will not erupt any further and result in horizontal and vertical defects of the alveolar bone.\n- This defect can impact aesthetic rehabilitation in the future.\n- <u>Decoronation</u> is a treatment option for patients with this condition.\n\n{{img:2}}",
      "multi": false,
      "images": [
       {
        "src": "img/L3-S15-0.webp",
-       "caption": "Infra-occlusion (yellow and red dotted lines marking incisal levels)",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Upper central incisors with yellow and red dotted lines marking the different incisal levels"
       },
       {
        "src": "img/L3-S15-1.webp",
-       "caption": "Ankylosed incisor — bottom edge may be slightly cut; rest visible at top of 071",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Periapical radiograph of an ankylosed upper incisor (lower edge may be cut)"
       },
       {
        "src": "img/L3-S15-2.webp",
-       "caption": "Infra-occluded incisor in growing child",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Infra-occluded upper incisor in a growing child"
       }
      ]
     },
@@ -822,9 +823,9 @@
      "images": [
       {
        "src": "img/L3-S17-0.webp",
-       "caption": "Cervical resorption lesion (red arrow)",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Diagram of an incisor with a cervical resorption lesion, red arrow"
       }
      ]
     },
@@ -838,9 +839,9 @@
      "images": [
       {
        "src": "img/L3-S18-0.webp",
-       "caption": "PCO case: two periapical radiographs",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Two periapical radiographs of upper incisors showing pulp canal obliteration"
       }
      ]
     },
@@ -866,29 +867,32 @@
      "type": "quiz_multi",
      "question": "Correctly identify the images that correspond to a laceration injury.\n\nYou can select more than one image.",
      "options": [
-      "[image A: lips/chin with skin wounds]",
-      "[image B: retracted lower lip with mucosal wounds]",
-      "[image C: lower lip wound with red arrow]"
+      "Image A",
+      "Image B",
+      "Image C"
      ],
      "multi": true,
      "images": [
       {
        "src": "img/L3-S21-0.webp",
-       "caption": "Option image A",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Lips and chin with skin wounds",
+       "option": 0
       },
       {
        "src": "img/L3-S21-1.webp",
-       "caption": "Option image B",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Retracted lower lip with mucosal wounds",
+       "option": 1
       },
       {
        "src": "img/L3-S21-2.webp",
-       "caption": "Option image C",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Lower lip wound, red arrow",
+       "option": 2
       }
      ]
     },
@@ -906,9 +910,9 @@
      "images": [
       {
        "src": "img/L3-S22-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Clinical photograph of the upper incisors"
       }
      ]
     },
@@ -926,9 +930,9 @@
      "images": [
       {
        "src": "img/L3-S23-0.webp",
-       "caption": "White arrow on tooth 11",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Upper incisors, white arrow on tooth 11"
       }
      ]
     },
@@ -946,9 +950,9 @@
      "images": [
       {
        "src": "img/L3-S24-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Clinical photograph of an injured lower central incisor"
       }
      ]
     },
@@ -968,9 +972,9 @@
      "images": [
       {
        "src": "img/L3-S25-0.webp",
-       "caption": "Two periapicals; red arrow on right one",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Two periapical radiographs of tooth 21; red arrow on the right one"
       }
      ]
     },
@@ -989,9 +993,9 @@
      "images": [
       {
        "src": "img/L3-S26-0.webp",
-       "caption": "Periapical radiograph (left) + intraoral photo (right)",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Periapical radiograph and intraoral photograph of the upper incisors"
       }
      ]
     },
@@ -1081,13 +1085,14 @@
      "id": "L4-S3",
      "section": "Dental Trauma Index",
      "type": "text",
+     "body": "| No of tooth (FDI) | 1st digit<br>Crown fracture | 2nd digit<br>Root fracture | 3rd digit<br>Luxation Injury | 4th digit<br>Maturity and shape of apex | 5th digit<br>Alveolar process fracture |\n|---|---|---|---|---|---|\n|  | 0 to 5 | 0 to 3 | Capital first letters | Small first letters | + or − |\n|  | 0 = none |  | N = None<br>C = Concussion<br>S = Subluxation<br>E = Extrusive Luxation<br>L = Lateral Luxation<br>I = Intrusive Luxation<br>A = Avulsion | i = immature<br>m = mature<br>r = resorbed | (+ sign) Alveolar process fracture<br>(− sign) No alveolar process fracture |\n\n{{img:0}}",
      "multi": false,
      "images": [
       {
        "src": "img/L4-S3-0.webp",
-       "caption": "EBDTI summary table: No of tooth (FDI) | 1st digit Crown fracture (0 to 5) | 2nd digit Root fracture (0 to 3) | 3rd digit Luxation Injury (Capital first letters: N = None, C = Concussion, S = Subluxation, E = Extrusive Luxation, L = Lateral Luxation, I = Intrusive Luxation, A = Avulsion) | 4th digit Maturity and shape of apex (Small first letters: i = immature, m = mature, r = resorbed) | 5th digit Alveolar process fracture (+ or −: (+ sign) Alveolar process fracture, (− sign) No alveolar process fracture); with tooth diagram numbered 1-5 for crown and 1-3 for root fracture lines",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Tooth diagram with crown fracture lines numbered 1 to 5 and root fracture lines numbered 1 to 3"
       }
      ]
     },
@@ -1096,26 +1101,26 @@
      "section": "Dental Trauma Index",
      "type": "text",
      "title": "MEBDTI",
-     "body": "1st digit: Crown fracture\n\n[table image]\n\n2nd digit: Root fracture\n\n[table image]\n\n- 3rd digit: Luxation injury\n- 4th digit: Maturity and shape of apex\n- 5th digit: Alveolar process fracture\n\n[table image]\n\nSoft tissue injury\n\n[table image]",
+     "body": "1st digit: Crown fracture\n\n| Number of tooth (FDI) | In parenthesis |  |\n|---|---|---|\n| 1st digit<br>Crown fracture | 0 to 5 | 0 = none<br>1 = enamel fracture<br>2 = enamel and dentin fracture = uncomplicated crown fracture<br>3 = enamel and dentin fracture including the pulp = complicated crown fracture<br>4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture<br>5 = Enamel-dentin-cementum fracture including the pulp = complicated crown-root fracture |\n\n{{img:0}}\n\n2nd digit: Root fracture\n\n| | | |\n|---|---|---|\n| 2nd digit<br>Root fracture | 0 to 3 | 0 = none<br>1 = apical 1/3 root fracture<br>2 = middle 1/3 root fracture<br>3 = cervical 1/3 root fracture |\n\n{{img:1}}\n\n- 3rd digit: Luxation injury\n- 4th digit: Maturity and shape of apex\n- 5th digit: Alveolar process fracture\n\n| | | |\n|---|---|---|\n| 3rd digit<br>Luxation injury | Capital<br>first letters | N = None<br>C = Concussion<br>S = Subluxation<br>L = Lateral luxation<br>E = Extrusive luxation<br>I = Intrusive luxation<br>A = Avulsion |\n| 4th digit<br>Maturity and shape of apex | Small<br>first letters | i = immature<br>m = mature<br>r = resorbed |\n| 5th digit<br>Alveolar process fracture | + or – | + sign = Alveolar process fracture<br>– sign = No alveolar fracture |\n\nSoft tissue injury\n\n| | | |\n|---|---|---|\n| Soft tissue injury | Superscript<br>0 to 8 | 0 = none<br>1 = skin/lip abrasion<br>2 = skin/lip laceration<br>3 = skin/lip contusion<br>4 = skin/lip avulsion<br>5 = intra-oral abrasion<br>6 = intra-oral laceration<br>7 = intra-oral contusion<br>8 = intra-oral avulsion |\n\n{{img:2}}",
      "multi": false,
      "images": [
       {
        "src": "img/L4-S4-0.webp",
-       "caption": "Table: Number of tooth (FDI) — In parenthesis; 1st digit Crown fracture — 0 to 5: 0 = none; 1 = enamel fracture; 2 = enamel and dentin fracture = uncomplicated crown fracture; 3 = enamel and dentin fracture including the pulp = complicated crown fracture; 4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture; 5 = Enamel-dentin-cementum fracture including the pulp = complicated crown-root fracture (with tooth diagram)",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Tooth diagram with crown fracture lines numbered 1 to 5"
       },
       {
        "src": "img/L4-S4-1.webp",
-       "caption": "Table: 2nd digit Root fracture — 0 to 3: 0 = none; 1 = apical 1/3 root fracture; 2 = middle 1/3 root fracture; 3 = cervical 1/3 root fracture. (Click image for detailed figure)",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Tooth diagram with root fracture lines numbered 1 to 3"
       },
       {
-       "src": "img/L4-S4-2.webp",
-       "caption": "Table: 3rd digit Luxation injury — Capital first letters: N = None, C = Concussion, S = Subluxation, L = Lateral luxation, E = Extrusive luxation, I = Intrusive luxation, A = Avulsion; 4th digit Maturity and shape of apex — Small first letters: i = immature, m = mature, r = resorbed; 5th digit Alveolar process fracture — + or −: + sign = Alveolar process fracture, – sign = No alveolar fracture",
+       "src": "img/L4-S4-3.webp",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Sagittal diagram of lip and alveolus with soft tissue injury sites numbered"
       }
      ]
     },
@@ -1127,9 +1132,9 @@
      "images": [
       {
        "src": "img/L4-S5-0.webp",
-       "caption": "Table: Soft tissue injury | MEBDTI (*) code | Figure | Clinical example — None 0; Skin/lip abrasion 1; Skin/lip laceration 2; Skin/lip contusion 3; Skin/lip avulsion 4; Intra-oral abrasion 5; Intra-oral laceration 6; Intra-oral contusion 7; Intra-oral avulsion 8 (each row with a diagram and a clinical photo)",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Table of soft tissue injuries with MEBDTI codes 0 to 8, each with a diagram and a clinical photograph"
       }
      ]
     },
@@ -1153,9 +1158,9 @@
        "images": [
         {
          "src": "img/L4-S7-0.webp",
-         "caption": "Panel 1: occlusal view, avulsed upper right central incisor with alveolar fracture",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Occlusal view: avulsed upper right central incisor with alveolar fracture"
         }
        ]
       },
@@ -1165,9 +1170,9 @@
        "images": [
         {
          "src": "img/L4-S7-1.webp",
-         "caption": "Panel 2: two intraoral photos of complicated crown-root fracture of 11 (framed composite)",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Two intraoral photographs of a complicated crown-root fracture of tooth 11"
         }
        ]
       },
@@ -1177,9 +1182,9 @@
        "images": [
         {
          "src": "img/L4-S7-2.webp",
-         "caption": "Panel 3: periapical radiograph + intraoral photo of crown fracture + upper lip laceration/contusion (composite)",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Periapical radiograph, intraoral photograph of crown fracture and photograph of the injured upper lip"
         }
        ]
       },
@@ -1189,9 +1194,9 @@
        "images": [
         {
          "src": "img/L4-S7-3.webp",
-         "caption": "Panel 4: intraoral photo + periapical radiograph of upper central incisors (composite)",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Intraoral photograph and periapical radiograph of the upper central incisors"
         }
        ]
       }
@@ -1327,9 +1332,9 @@
      "images": [
       {
        "src": "img/L5-S5-0.webp",
-       "caption": "Mobility test video (poster)",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video: mobility test of an upper incisor"
       }
      ]
     },
@@ -1338,26 +1343,26 @@
      "section": "Examination and Special Tests",
      "type": "text",
      "title": "Percussion Test",
-     "body": "Percussion testing can be performed with the handle of a metal instrument.\n\n**Tenderness to percussion** - indicate damage to the PDL.\n\n**Percussion tone** - A high, metallic tone implies that the injured tooth is locked into bone (common in luxation injuries). At the follow-up examinations, this tone indicates ankylosis (replacement resorption).\n\nHorizontal Percussion:\n\n[video]\n\nVertical Percussion:\n\n[video]",
+     "body": "Percussion testing can be performed with the handle of a metal instrument.\n\n**Tenderness to percussion** - indicate damage to the PDL.\n\n**Percussion tone** - A high, metallic tone implies that the injured tooth is locked into bone (common in luxation injuries). At the follow-up examinations, this tone indicates ankylosis (replacement resorption).\n\n{{img:0}}\n\nHorizontal Percussion:\n\n{{img:1}}\n\nVertical Percussion:\n\n{{img:2}}",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S6-0.webp",
-       "caption": "Percussion with instrument handle on upper incisor",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Percussion of an upper incisor with an instrument handle"
       },
       {
        "src": "img/L5-S6-1.webp",
-       "caption": "Horizontal Percussion video (poster)",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video: horizontal percussion"
       },
       {
        "src": "img/L5-S6-2.webp",
-       "caption": "Vertical Percussion video (poster)",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video: vertical percussion"
       }
      ]
     },
@@ -1371,9 +1376,9 @@
      "images": [
       {
        "src": "img/L5-S7-0.webp",
-       "caption": "Periodontal probing video (poster)",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video: periodontal probing"
       }
      ]
     },
@@ -1387,9 +1392,9 @@
      "images": [
       {
        "src": "img/L5-S8-0.webp",
-       "caption": "Palpation of buccal sulcus video (poster)",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video: palpation of the buccal sulcus at tooth 11"
       }
      ]
     },
@@ -1409,75 +1414,65 @@
      "items": [
       {
        "heading": null,
-       "body": "Extra-oral photograph – frontal view (smile).",
-       "images": [
-        {
-         "src": "img/L5-S10-0.webp",
-         "caption": "Extra-oral photograph – frontal view (smile).",
-         "video": false,
-         "kind": "clinical"
-        }
-       ]
+       "body": "Extra-oral photograph – frontal view (smile)."
       },
       {
        "heading": null,
-       "body": "Extra-oral photograph – lateral view (resting position)",
-       "images": [
-        {
-         "src": "img/L5-S10-1.webp",
-         "caption": "Extra-oral photograph – lateral view (resting position)",
-         "video": false,
-         "kind": "clinical"
-        }
-       ]
+       "body": "Extra-oral photograph – lateral view (resting position)"
       },
       {
        "heading": null,
-       "body": "Extra-oral photograph – lateral view (smiling)",
-       "images": [
-        {
-         "src": "img/L5-S10-2.webp",
-         "caption": "Extra-oral photograph – lateral view (smiling)",
-         "video": false,
-         "kind": "clinical"
-        }
-       ]
+       "body": "Extra-oral photograph – lateral view (smiling)"
       },
       {
        "heading": null,
-       "body": "Intra-oral photograph– frontal view",
-       "images": [
-        {
-         "src": "img/L5-S10-3.webp",
-         "caption": "Intra-oral photograph– frontal view",
-         "video": false,
-         "kind": "clinical"
-        }
-       ]
+       "body": "Intra-oral photograph– frontal view"
       },
       {
        "heading": null,
-       "body": "Intra-oral photograph – occlusal view",
-       "images": [
-        {
-         "src": "img/L5-S10-4.webp",
-         "caption": "Intra-oral photograph – occlusal view",
-         "video": false,
-         "kind": "clinical"
-        }
-       ]
+       "body": "Intra-oral photograph – occlusal view"
       },
       {
        "heading": null,
-       "body": "Photographs of avulsed/extracted hard/soft tissues.",
-       "images": [
-        {
-         "src": "img/L5-S10-5.webp",
-         "caption": "Photographs of avulsed/extracted hard/soft tissues.",
-         "video": false,
-         "kind": "clinical"
-        }
-       ]
+       "body": "Photographs of avulsed/extracted hard/soft tissues."
+      }
+     ],
+     "images": [
+      {
+       "src": "img/L5-S10-0.webp",
+       "video": false,
+       "kind": "clinical",
+       "alt": "Extra-oral frontal smile photograph"
+      },
+      {
+       "src": "img/L5-S10-1.webp",
+       "video": false,
+       "kind": "clinical",
+       "alt": "Extra-oral lateral photograph at rest"
+      },
+      {
+       "src": "img/L5-S10-2.webp",
+       "video": false,
+       "kind": "clinical",
+       "alt": "Extra-oral lateral smiling photograph"
+      },
+      {
+       "src": "img/L5-S10-3.webp",
+       "video": false,
+       "kind": "clinical",
+       "alt": "Intra-oral frontal photograph"
+      },
+      {
+       "src": "img/L5-S10-4.webp",
+       "video": false,
+       "kind": "clinical",
+       "alt": "Intra-oral occlusal photograph"
+      },
+      {
+       "src": "img/L5-S10-5.webp",
+       "video": false,
+       "kind": "clinical",
+       "alt": "Photograph of an avulsed tooth held in gloved fingers"
       }
      ]
     },
@@ -1499,9 +1494,9 @@
      "images": [
       {
        "src": "img/L5-S12-0.webp",
-       "caption": "Cold test video (poster) — cut off at bottom",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video: cold test on an upper incisor"
       }
      ]
     },
@@ -1510,20 +1505,20 @@
      "section": "Examination and Special Tests",
      "type": "text",
      "title": "Electric Pulp Test (EPT)",
-     "body": "Low-grade electric current stimulates intact myelinated A-delta fibres within the pulp-dental complex.\n\nA positive response can relate to the presence of functional neurons however, it does not equate to pulpal health.\n\n<u>Methods</u>\n\n- The tooth needs to be lubricated with toothpaste/prophy paste to facilitate the conduction of electrical impulses\n- Be familiar with your pulp tester machine (e.g. lip or hand electrode is usually needed to complete the circuit)\n- The probe tip needs to be placed on an intact surface within the incisal two-thirds of the crown.\n- A “tingling” sensation will be felt by the patient (positive response).\n- A negative response is established after the digital display reached its maximum level, with no reaction from the patient (test it twice)\n\nSee below where the applicator tip is being placed over prophy paste for the electric pulp test of tooth 11. Note that the prophy paste should be only the placed at one tooth at a time.\n\n[video]",
+     "body": "Low-grade electric current stimulates intact myelinated A-delta fibres within the pulp-dental complex.\n\nA positive response can relate to the presence of functional neurons however, it does not equate to pulpal health.\n\n<u>Methods</u>\n\n- The tooth needs to be lubricated with toothpaste/prophy paste to facilitate the conduction of electrical impulses\n- Be familiar with your pulp tester machine (e.g. lip or hand electrode is usually needed to complete the circuit)\n- The probe tip needs to be placed on an intact surface within the incisal two-thirds of the crown.\n- A “tingling” sensation will be felt by the patient (positive response).\n- A negative response is established after the digital display reached its maximum level, with no reaction from the patient (test it twice)\n\n{{img:0}}\n\nSee below where the applicator tip is being placed over prophy paste for the electric pulp test of tooth 11. Note that the prophy paste should be only the placed at one tooth at a time.\n\n{{img:1}}",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S13-0.webp",
-       "caption": "EPT probe tip on prophy paste on upper incisor",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "EPT probe tip on prophy paste on an upper incisor"
       },
       {
        "src": "img/L5-S13-1.webp",
-       "caption": "EPT video (poster) — cut off at bottom",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video: electric pulp test of tooth 11"
       }
      ]
     },
@@ -1555,7 +1550,7 @@
      "id": "L5-S17",
      "section": "Examination and Special Tests",
      "type": "text",
-     "title": "Current Guidelines\n\nRadiographic Examination",
+     "title": "Current Guidelines Radiographic Examination",
      "multi": false,
      "items": [
       {
@@ -1584,15 +1579,15 @@
      "id": "L5-S18",
      "section": "Examination and Special Tests",
      "type": "text",
-     "title": "Periapical radiograph\n\nPermanent dentition",
-     "body": "This image shows an example of a periapical radiograph (maxillary anterior area) using a size 2 film - permanent dentition. Note that tooth 21 has been intruded and note the delayed eruption of tooth 22.",
+     "title": "Periapical radiograph Permanent dentition",
+     "body": "{{img:0}}\n\nThis image shows an example of a periapical radiograph (maxillary anterior area) using a size 2 film - permanent dentition. Note that tooth 21 has been intruded and note the delayed eruption of tooth 22.",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S18-0.webp",
-       "caption": "Periapical radiograph, permanent dentition",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Periapical radiograph, maxillary anterior area, permanent dentition"
       }
      ]
     },
@@ -1600,15 +1595,15 @@
      "id": "L5-S19",
      "section": "Examination and Special Tests",
      "type": "text",
-     "title": "Periapical radiograph\n\nMixed dentition",
-     "body": "This image shows an example of a periapical radiograph (maxillary anterior area) using a size 1 film - mixed dentition.\n\nNote that teeth 51 and 52 are still present with evidence of root resorption. Tooth 21 has fully erupted while tooth 11 is unerupted.",
+     "title": "Periapical radiograph Mixed dentition",
+     "body": "{{img:0}}\n\nThis image shows an example of a periapical radiograph (maxillary anterior area) using a size 1 film - mixed dentition.\n\nNote that teeth 51 and 52 are still present with evidence of root resorption. Tooth 21 has fully erupted while tooth 11 is unerupted.",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S19-0.webp",
-       "caption": "Periapical radiograph, mixed dentition",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Periapical radiograph, maxillary anterior area, mixed dentition"
       }
      ]
     },
@@ -1616,15 +1611,15 @@
      "id": "L5-S20",
      "section": "Examination and Special Tests",
      "type": "text",
-     "title": "Periapical radiograph\n\nPrimary dentition",
-     "body": "This image shows an example of a periapical radiograph (maxillary anterior area) using a size 0 film - primary dentition.\n\nNote that tooth 62 has been intruded and its successor (22) is in a close relationship with its root. This is a young child (2 years old) - observe the stage of tooth development of permanent successors (21/22).",
+     "title": "Periapical radiograph Primary dentition",
+     "body": "{{img:0}}\n\nThis image shows an example of a periapical radiograph (maxillary anterior area) using a size 0 film - primary dentition.\n\nNote that tooth 62 has been intruded and its successor (22) is in a close relationship with its root. This is a young child (2 years old) - observe the stage of tooth development of permanent successors (21/22).",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S20-0.webp",
-       "caption": "Periapical radiograph, primary dentition",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Periapical radiograph, maxillary anterior area, primary dentition"
       }
      ]
     },
@@ -1632,15 +1627,15 @@
      "id": "L5-S21",
      "section": "Examination and Special Tests",
      "type": "text",
-     "title": "Maxillary occlusal radiograph\n\nPrimary dentition",
-     "body": "This image shows an example of a maxillary occlusal radiograph using a size 2 film (primary dentition)\n\nNote that tooth 61 presents external root resorption (mid-third of the root).",
+     "title": "Maxillary occlusal radiograph Primary dentition",
+     "body": "{{img:0}}\n\nThis image shows an example of a maxillary occlusal radiograph using a size 2 film (primary dentition)\n\nNote that tooth 61 presents external root resorption (mid-third of the root).",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S21-0.webp",
-       "caption": "Maxillary occlusal radiograph, primary dentition",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Maxillary occlusal radiograph, primary dentition"
       }
      ]
     },
@@ -1648,15 +1643,15 @@
      "id": "L5-S22",
      "section": "Examination and Special Tests",
      "type": "text",
-     "title": "Maxillary occlusal radiograph\n\nPermanent dentition",
-     "body": "This image shows an example of a maxillary occlusal radiograph using a size 4 film.\n\nNote that teeth 12 and 22 are missing.",
+     "title": "Maxillary occlusal radiograph Permanent dentition",
+     "body": "{{img:0}}\n\nThis image shows an example of a maxillary occlusal radiograph using a size 4 film.\n\nNote that teeth 12 and 22 are missing.",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S22-0.webp",
-       "caption": "Maxillary occlusal radiograph, permanent dentition",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Maxillary occlusal radiograph, permanent dentition"
       }
      ]
     },
@@ -1665,14 +1660,14 @@
      "section": "Examination and Special Tests",
      "type": "text",
      "title": "Orthopantomogram (OPG)",
-     "body": "This image shows an example of a Orthopantomogram (OPG) radiograph.\n\nThis 10-year old boy had severe intrusion of his permanent central incisors (11/21) and an enamel-dentine fracture is present on teeth 12, 11 and 21.\n\nAn OPG has been requested to investigate possible mandibular/condylar fractures.",
+     "body": "{{img:0}}\n\nThis image shows an example of a Orthopantomogram (OPG) radiograph.\n\nThis 10-year old boy had severe intrusion of his permanent central incisors (11/21) and an enamel-dentine fracture is present on teeth 12, 11 and 21.\n\nAn OPG has been requested to investigate possible mandibular/condylar fractures.",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S23-0.webp",
-       "caption": "Orthopantomogram (OPG)",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Orthopantomogram"
       }
      ]
     },
@@ -1681,14 +1676,14 @@
      "section": "Examination and Special Tests",
      "type": "text",
      "title": "Lateral cephalometric",
-     "body": "This image shows an example of a lateral cephalometric radiograph. This is often requested as part of orthodontic treatment planning.\n\nThis girl has avulsed two central incisors and has been referred for orthodontic treatment. Her increased overjet (11mm) and position of the lips (lip trap) are risk factors for repeated trauma.",
+     "body": "{{img:0}}\n\nThis image shows an example of a lateral cephalometric radiograph. This is often requested as part of orthodontic treatment planning.\n\nThis girl has avulsed two central incisors and has been referred for orthodontic treatment. Her increased overjet (11mm) and position of the lips (lip trap) are risk factors for repeated trauma.",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S24-0.webp",
-       "caption": "Lateral cephalometric radiograph",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Lateral cephalometric radiograph"
       }
      ]
     },
@@ -1697,14 +1692,14 @@
      "section": "Examination and Special Tests",
      "type": "text",
      "title": "Soft tissue radiograph (lip)",
-     "body": "This image shows a soft tissue radiograph of a lower lip.\n\nThis patient had an enamel-dentine fracture on a permanent central incisor and a laceration on his lower lip. After radiographic examination, the fragment has been found within the soft tissue.\n\nFor this purpose, the exposure time is reduced to one third of the original exposure.",
+     "body": "{{img:0}}\n\nThis image shows a soft tissue radiograph of a lower lip.\n\nThis patient had an enamel-dentine fracture on a permanent central incisor and a laceration on his lower lip. After radiographic examination, the fragment has been found within the soft tissue.\n\nFor this purpose, the exposure time is reduced to one third of the original exposure.",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S25-0.webp",
-       "caption": "Soft tissue radiograph of lower lip showing tooth fragment",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Soft tissue radiograph of the lower lip with a tooth fragment"
       }
      ]
     },
@@ -1713,14 +1708,14 @@
      "section": "Examination and Special Tests",
      "type": "text",
      "title": "Cone-beam Computed Tomography (CBCT)",
-     "body": "- Cone beam computerized tomography (CBCT) provides enhanced visualisation of TDIs, particularly root fractures, crown/root fractures, and lateral luxations.\n- CBCT can hep to determine the location, extent, and direction of a fracture.\n- It should only be used in cases where 3D imaging is likely to change the management of the injury when compared to other methods that generates lower levels of ionising radiation (such as periapical radiographs).\n\nNote that in the above case a CBCT exam was performed to locate the unerupted 21.\n\n[unclear: further text cut off]",
+     "body": "- Cone beam computerized tomography (CBCT) provides enhanced visualisation of TDIs, particularly root fractures, crown/root fractures, and lateral luxations.\n- CBCT can hep to determine the location, extent, and direction of a fracture.\n- It should only be used in cases where 3D imaging is likely to change the management of the injury when compared to other methods that generates lower levels of ionising radiation (such as periapical radiographs).\n\n{{img:0}}\n\nNote that in the above case a CBCT exam was performed to locate the unerupted 21.\n\n[unclear: further text cut off]",
      "multi": false,
      "images": [
       {
        "src": "img/L5-S26-0.webp",
-       "caption": "Intraoral photo + two CBCT 3D reconstructions locating unerupted 21 (composite)",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Intra-oral photograph and two CBCT 3D reconstructions showing the unerupted 21"
       }
      ]
     },
@@ -1732,54 +1727,40 @@
      "multi": false,
      "items": [
       {
-       "heading": "Item 1 (photo)",
-       "body": "Tooth 21 presented with increased mobility after a TDI. No coronal fractures were noted on clinical examination."
+       "heading": null,
+       "body": "Tooth 21 presented with increased mobility after a TDI. No coronal fractures were noted on clinical examination.",
+       "images": [
+        {
+         "src": "img/L5-S27-1.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Frontal intra-oral photograph, wire-composite splint, tooth 21"
+        }
+       ]
       },
       {
-       "heading": "Item 2 (radiographs)",
-       "body": "Radiographic examination reviewed cervical root fracture on tooth 21. The tooth has been previously root canal treated.\n\nA clear fracture line can be seen in the image on the right - note the separation of the root canal filling material."
+       "heading": null,
+       "body": "Radiographic examination reviewed cervical root fracture on tooth 21. The tooth has been previously root canal treated.\n\nA clear fracture line can be seen in the image on the right - note the separation of the root canal filling material.",
+       "images": [
+        {
+         "src": "img/L5-S27-3.webp",
+         "video": false,
+         "kind": "radiograph",
+         "alt": "Two periapical radiographs of root-filled 21 with cervical root fracture (arrow)"
+        }
+       ]
       },
       {
-       "heading": "Item 3 (video)",
-       "body": "On vertical percussion, blanching of the gingival margin can be noted (presence of soft tissue growth in the fracture line)."
-      }
-     ],
-     "images": [
-      {
-       "src": "img/L5-S27-0.webp",
-       "caption": "Item 1 thumbnail: frontal intraoral photo with wire-composite splint",
-       "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L5-S27-1.webp",
-       "caption": "Item 1 enlarged: frontal intraoral photo, tooth 21 with increased mobility",
-       "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L5-S27-2.webp",
-       "caption": "Item 2 thumbnail: two periapical radiographs of 21",
-       "video": false,
-       "kind": "radiograph"
-      },
-      {
-       "src": "img/L5-S27-3.webp",
-       "caption": "Item 2 enlarged: two periapical radiographs, cervical root fracture of root-filled 21 (arrow on right image)",
-       "video": false,
-       "kind": "radiograph"
-      },
-      {
-       "src": "img/L5-S27-4.webp",
-       "caption": "Item 3: vertical percussion video (poster), bottom slightly cut",
-       "video": true,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L5-S27-5.webp",
-       "caption": "Item 3 enlarged: video frame during playback",
-       "video": true,
-       "kind": "clinical"
+       "heading": null,
+       "body": "On vertical percussion, blanching of the gingival margin can be noted (presence of soft tissue growth in the fracture line).",
+       "images": [
+        {
+         "src": "img/L5-S27-5.webp",
+         "video": true,
+         "kind": "clinical",
+         "alt": "Video: vertical percussion of tooth 21"
+        }
+       ]
       }
      ]
     },
@@ -1798,15 +1779,9 @@
      "images": [
       {
        "src": "img/L5-S28-0.webp",
-       "caption": "3-YEAR OLD CHILD / HISTORY OF SUBLUXATION OF TOOTH 51 - TWO WEEKS AGO (text is part of the image card; first line underlined)",
        "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L5-S28-2.webp",
-       "caption": "Case card: '3-YEAR OLD CHILD / HISTORY OF SUBLUXATION OF TOOTH 51 - TWO WEEKS AGO' with circular intraoral photo of primary incisors",
-       "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Case card: 3-year-old child, subluxation of tooth 51 two weeks ago, with photo of primary incisors"
       }
      ]
     },
@@ -1858,7 +1833,7 @@
      "section": "Examination and Special Tests",
      "type": "intro",
      "title": "That’s it!",
-     "body": "Nice work. You’ve completed the lesson on Examination and Special Tests.\n\n**Additional Sources**\n1. <u>Levin 2013 - Pulp and periradicular testing</u>\n2. <u>Dental Trauma Guide Website</u>\n\n[Exit Lesson]",
+     "body": "Nice work. You’ve completed the lesson on Examination and Special Tests.\n\n**Additional Sources**\n1. <u>Levin 2013 - Pulp and periradicular testing</u>\n2. <u>Dental Trauma Guide Website</u>",
      "multi": false
     }
    ]
@@ -1872,7 +1847,7 @@
      "section": "Trauma Splint",
      "type": "intro",
      "title": "Trauma Splint",
-     "body": "**Learning outcomes:**\nTo be familiar with indications for splinting traumatised teeth, types of splints and recommended splinting times.\n\n[START]",
+     "body": "**Learning outcomes:**\nTo be familiar with indications for splinting traumatised teeth, types of splints and recommended splinting times.",
      "multi": false
     },
     {
@@ -1880,7 +1855,6 @@
      "section": "Trauma Splint",
      "type": "intro",
      "title": "Splinting Traumatised Teeth",
-     "body": "[OK, let’s go!]",
      "multi": false
     },
     {
@@ -1900,65 +1874,75 @@
       },
       {
        "heading": "<u>COMPOSITE AND WIRE SPLINT</u>",
-       "body": "Wire secured to the teeth with composite is the most favored and widely-used splint, and can be used in almost all types of tooth injury.\n- The stainless steel wire should be pre-contoured to conform to the teeth and the diameter must not exceed 0.4mm or 0.016” to remain flexible.\n- The wire used should be passive in nature and not exert any unwanted orthodontic forces."
+       "body": "Wire secured to the teeth with composite is the most favored and widely-used splint, and can be used in almost all types of tooth injury.\n- The stainless steel wire should be pre-contoured to conform to the teeth and the diameter must not exceed 0.4mm or 0.016” to remain flexible.\n- The wire used should be passive in nature and not exert any unwanted orthodontic forces.",
+       "images": [
+        {
+         "src": "img/L6-S3-0.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Composite and wire splint"
+        }
+       ]
       },
       {
        "heading": "<u>NYLON FISHING LINE</u>",
-       "body": "Nylon fishing line (0.13-0.25 mm) can be used to create a flexible splint, with composite to bond it to the teeth."
+       "body": "Nylon fishing line (0.13-0.25 mm) can be used to create a flexible splint, with composite to bond it to the teeth.",
+       "images": [
+        {
+         "src": "img/L6-S3-1.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Nylon fishing line splint"
+        }
+       ]
       },
       {
        "heading": "<u>RESIN SPLINT (Protemp 3M ESPE)</u>",
-       "body": "Composite resin splints are quick to apply but can lead to gingival irritation as they can be very difficult to clean and prone to fracture.\n\nComposite splints are rigid and therefore not recommended.\n\nProtemp splint can be useful as a temporary emergency measure when the dentist is outside of the dental setting.\n\nIt should be replaced as soon as possible with a flexible splint."
+       "body": "Composite resin splints are quick to apply but can lead to gingival irritation as they can be very difficult to clean and prone to fracture.\n\nComposite splints are rigid and therefore not recommended.\n\nProtemp splint can be useful as a temporary emergency measure when the dentist is outside of the dental setting.\n\nIt should be replaced as soon as possible with a flexible splint.",
+       "images": [
+        {
+         "src": "img/L6-S3-2.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Resin splint (Protemp)"
+        }
+       ]
       },
       {
        "heading": "<u>FIBRE SPLINT (Ribbond)</u>",
-       "body": "Fibre splints consist of weaved polyethylene fibres (Ribbond) or glass fibres in a polymer-resin gel matrix (EverStick).\n\nIts advantages include high strength, easy to adapt and aesthetic."
+       "body": "Fibre splints consist of weaved polyethylene fibres (Ribbond) or glass fibres in a polymer-resin gel matrix (EverStick).\n\nIts advantages include high strength, easy to adapt and aesthetic.",
+       "images": [
+        {
+         "src": "img/L6-S3-3.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Fibre splint (Ribbond)"
+        }
+       ]
       },
       {
        "heading": "<u>TITANIUM SPLINT</u> (Medartis).",
-       "body": "Titanium trauma splints are flexible titanium splints with a rhomboid mesh structure which are easily secured to teeth with a flowable composite.\n\nIts main disadvantage is the high cost."
+       "body": "Titanium trauma splints are flexible titanium splints with a rhomboid mesh structure which are easily secured to teeth with a flowable composite.\n\nIts main disadvantage is the high cost.",
+       "images": [
+        {
+         "src": "img/L6-S3-4.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Titanium splint (Medartis)"
+        }
+       ]
       },
       {
        "heading": "<u>SUTURE SPLINT</u>",
-       "body": "Suture splints may be required if there are multiple missing teeth, or in the mixed dentition where conventional splinting is not possible."
-      }
-     ],
-     "images": [
-      {
-       "src": "img/L6-S3-0.webp",
-       "caption": "Composite and wire splint",
-       "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L6-S3-1.webp",
-       "caption": "Nylon fishing line splint",
-       "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L6-S3-2.webp",
-       "caption": "Resin splint (Protemp 3M ESPE)",
-       "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L6-S3-3.webp",
-       "caption": "Fibre splint (Ribbond)",
-       "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L6-S3-4.webp",
-       "caption": "Titanium splint (Medartis)",
-       "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L6-S3-5.webp",
-       "caption": "Suture splint",
-       "video": false,
-       "kind": "clinical"
+       "body": "Suture splints may be required if there are multiple missing teeth, or in the mixed dentition where conventional splinting is not possible.",
+       "images": [
+        {
+         "src": "img/L6-S3-5.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Suture splint"
+        }
+       ]
       }
      ]
     },
@@ -1966,7 +1950,7 @@
      "id": "L6-S4",
      "section": "Trauma Splint",
      "type": "text",
-     "title": "Splinting times (duration) according to\n\nIAPD Guidelines 2020",
+     "title": "Splinting times (duration) according to IAPD Guidelines 2020",
      "multi": false,
      "items": [
       {
@@ -2008,7 +1992,7 @@
      "section": "Trauma Splint",
      "type": "intro",
      "title": "Let’s test your knowledge",
-     "body": "Case-based learning\n\n[OK, let’s go!]",
+     "body": "Case-based learning",
      "multi": false
     },
     {
@@ -2054,9 +2038,9 @@
      "images": [
       {
        "src": "img/L6-S8-0.webp",
-       "caption": "Upper left central incisor injury (expandable image)",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Upper incisors after trauma; the upper left central incisor is injured"
       }
      ]
     },
@@ -2074,9 +2058,9 @@
      "images": [
       {
        "src": "img/L6-S9-0.webp",
-       "caption": "Two-panel clinical image: intruded incisor (top) and after surgical repositioning and splinting (bottom)",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Intruded central incisor (top) and after surgical repositioning and splinting (bottom)"
       }
      ]
     },
@@ -2117,7 +2101,7 @@
      "section": "Trauma Splint",
      "type": "intro",
      "title": "That’s it!",
-     "body": "You’ve completed “Trauma Splint” lesson of our course.\n\n**Additional Sources**\n1. <u>Article: Tips for splinting traumatised teeth</u>\n2. <u>IADT Website</u>\n3. <u>Dental Trauma Guide Website</u>\n4. <u>IADT Guidelines - Avulsion of Permanent Teeth.</u>\n5. <u>IADT Guideline for Fractures and Luxations</u>\n\n[Exit Lesson]",
+     "body": "You’ve completed “Trauma Splint” lesson of our course.\n\n**Additional Sources**\n1. <u>Article: Tips for splinting traumatised teeth</u>\n2. <u>IADT Website</u>\n3. <u>Dental Trauma Guide Website</u>\n4. <u>IADT Guidelines - Avulsion of Permanent Teeth.</u>\n5. <u>IADT Guideline for Fractures and Luxations</u>",
      "multi": false
     }
    ]
@@ -2139,20 +2123,20 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
      "title": "Enamel Infraction",
-     "body": "An incomplete fracture (crack or crazing) of the enamel, without loss of tooth structure.\n\n[illustration]\n\nInfraction lines are usually best seen when the light beam is directed parallel to the long axis of the tooth.\n\n[photo]\n\nNote that tooth 11 presents a crazing of the enamel without loss of tooth structure.",
+     "body": "An incomplete fracture (crack or crazing) of the enamel, without loss of tooth structure.\n\n{{img:0}}\n\nInfraction lines are usually best seen when the light beam is directed parallel to the long axis of the tooth.\n\n{{img:1}}\n\nNote that tooth 11 presents a crazing of the enamel without loss of tooth structure.",
      "multi": false,
      "images": [
       {
        "src": "img/L7-S2-0.webp",
-       "caption": "Illustration: tooth in alveolus with magnified inset of enamel crack",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Illustration of an incisor in its socket with a magnified enamel crack"
       },
       {
        "src": "img/L7-S2-1.webp",
-       "caption": "Two lateral views of incisors; right panel with transillumination and red arrow showing infraction line on tooth 11",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Two lateral photographs of incisors; red arrow on the infraction line of tooth 11"
       }
      ]
     },
@@ -2195,20 +2179,20 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
      "title": "Enamel Fracture",
-     "body": "A fracture confined to the enamel with loss of tooth structure.\n\n[illustration]\n\nSee the video below to understand the aetiology of the injury:\n\n[video]",
+     "body": "A fracture confined to the enamel with loss of tooth structure.\n\n{{img:0}}\n\nSee the video below to understand the aetiology of the injury:\n\n{{img:1}}",
      "multi": false,
      "images": [
       {
        "src": "img/L7-S4-0.webp",
-       "caption": "Illustration: tooth in alveolus with magnified inset of enamel fracture",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Illustration of an incisor in its socket with a magnified enamel fracture"
       },
       {
        "src": "img/L7-S4-1.webp",
-       "caption": "Video poster: lateral view of incisors and instrument (aetiology of enamel fracture)",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video: aetiology of an enamel fracture"
       }
      ]
     },
@@ -2251,14 +2235,14 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
      "title": "Enamel Fracture",
-     "body": "**Smooth Edges**\nFor very small or minor enamel fractures, it can be smoothed to remove rough margins and edges. This can be performed with a polishing bur or polishing discs.\n\n**Restoration** Depending on the patient’s behaviour and aesthetics demands, a small restoration with composite resin can be used to reestablish form and contour.",
+     "body": "**Smooth Edges**\nFor very small or minor enamel fractures, it can be smoothed to remove rough margins and edges. This can be performed with a polishing bur or polishing discs.\n\n{{img:0}}\n\n**Restoration** Depending on the patient’s behaviour and aesthetics demands, a small restoration with composite resin can be used to reestablish form and contour.",
      "multi": false,
      "images": [
       {
        "src": "img/L7-S6-0.webp",
-       "caption": "Before/after: fractured incisal edge smoothed (arrow)",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Incisor edges before and after smoothing (arrow)"
       }
      ]
     },
@@ -2267,20 +2251,20 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
      "title": "Enamel-Dentine Fracture",
-     "body": "A fracture confined to enamel and dentin with loss of tooth structure, but not involving the pulp.\n\n[illustration]\n\nSee the video below to understand the aetiology of the injury:\n\n[video]",
+     "body": "A fracture confined to enamel and dentin with loss of tooth structure, but not involving the pulp.\n\n{{img:0}}\n\nSee the video below to understand the aetiology of the injury:\n\n{{img:1}}",
      "multi": false,
      "images": [
       {
        "src": "img/L7-S7-0.webp",
-       "caption": "Illustration: tooth in alveolus with enamel-dentine fracture",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Illustration of an incisor in its socket with an enamel-dentine fracture"
       },
       {
        "src": "img/L7-S7-1.webp",
-       "caption": "Video poster: lateral view of incisors, instrument and fragment (aetiology of enamel-dentine fracture)",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video: aetiology of an enamel-dentine fracture"
       }
      ]
     },
@@ -2323,26 +2307,26 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
      "title": "Fragment Reattachment",
-     "body": "Enamel-Dentine Fracture\n\n**Pulp Protection**\nIf the exposed dentin is within 0.5 mm of the pulp, a non-setting calcium hydroxide lining can be placed.\n\n[photo]\n\n**Fragment Reattachment**\nIf the tooth fragment is available and intact, it can be bonded back on to the tooth.\n\nThe fragment should be rehydrated by soaking in water or saline for 20 min before bonding\n\n[photo]\n\n**Step-by-Step:**\n- Clean the tooth and isolate the tooth area\n- Etch the tooth surface with phosphoric acid 37% for 30 seconds\n- Wash and dry the tooth surface\n- Apply bonding agent with a microbrush on the tooth surface; air thin dry and light cure\n- Apply an intermediate material (e.g. flowable resin or resin cement) on the fragment surface to be reattached\n- Position the tooth fragment firmly against the tooth surface, remove any excess of the intermediate material and lightcure.\n\n[photo]\n\n- A V- shaped external double chamfer along the junction line and a double-chamfer on the fracture line on the buccal and lingual surfaces can be used to improve aesthetics.\n\nFragment reattachment is the prefered option if the intact fragment is available.",
+     "body": "Enamel-Dentine Fracture\n\n**Pulp Protection**\nIf the exposed dentin is within 0.5 mm of the pulp, a non-setting calcium hydroxide lining can be placed.\n\n{{img:0}}\n\n**Fragment Reattachment**\nIf the tooth fragment is available and intact, it can be bonded back on to the tooth.\n\nThe fragment should be rehydrated by soaking in water or saline for 20 min before bonding\n\n{{img:1}}\n\n**Step-by-Step:**\n- Clean the tooth and isolate the tooth area\n- Etch the tooth surface with phosphoric acid 37% for 30 seconds\n- Wash and dry the tooth surface\n- Apply bonding agent with a microbrush on the tooth surface; air thin dry and light cure\n- Apply an intermediate material (e.g. flowable resin or resin cement) on the fragment surface to be reattached\n- Position the tooth fragment firmly against the tooth surface, remove any excess of the intermediate material and lightcure.\n\n{{img:2}}\n\n- A V- shaped external double chamfer along the junction line and a double-chamfer on the fracture line on the buccal and lingual surfaces can be used to improve aesthetics.\n\nFragment reattachment is the prefered option if the intact fragment is available.",
      "multi": false,
      "images": [
       {
        "src": "img/L7-S9-0.webp",
-       "caption": "Enamel-dentine fracture of upper left central incisor with fragment displaced",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Enamel-dentine fracture of the upper left central incisor"
       },
       {
        "src": "img/L7-S9-1.webp",
-       "caption": "Fragment reattached",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Upper incisors after fragment reattachment"
       },
       {
        "src": "img/L7-S9-2.webp",
-       "caption": "Final result after fragment reattachment",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Final result of fragment reattachment"
       }
      ]
     },
@@ -2351,20 +2335,20 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
      "title": "Composite resin restoration",
-     "body": "Enamel-Dentine Fracture\n\nWhen the intact fragment is not available\n\n**Pulp Protection**\nIf the exposed dentine is within 0.5 mm of the pulp, a calcium hydroxide lining can be placed.\n\n[photo]\n\n**Surface Preparation**\n- When using resin composite build-up, optimal aesthetics and function can be achieved when the fracture edges are prepared with a 1–2 mm wide [unclear — text between screenshots not captured]\n- Rinse and dry the tooth\n- Apply a thin layer of the adhesive system of choice (air-thin dry to remove any excess of the bonding system).\n- Polymerisation (light cure).\n\n[photo]\n\n- Restore the tooth with composite resin.\n- Direct mock-up with composite resin can be used using a silicone index obtained from a wax-up.\n- Otherwise, a free-hand composite resin restoration can be performed.\n- Finishing and polishing stage with abrasive discs and diamond burs for the texture can be used to improve aesthetic results.\n\n**Important**: In cases where fragment reattachment or composite resin restoration can not be performed, an emergency procedure that comprises the application of a temporary glass ionomer restoration is indicated to prevent bacterial invasion into the dentine tubules.\n\n**Concomitant luxation injuries:** Restoration with composite resin restoration can be difficult to perform on teeth with increased mobility and gingival bleeding. In this case, a temporary restoration is indicated since a dry operative field is difficult to maintain.",
+     "body": "Enamel-Dentine Fracture\n\nWhen the intact fragment is not available\n\n**Pulp Protection**\nIf the exposed dentine is within 0.5 mm of the pulp, a calcium hydroxide lining can be placed.\n\n{{img:0}}\n\n**Surface Preparation**\n- When using resin composite build-up, optimal aesthetics and function can be achieved when the fracture edges are prepared with a 1–2 mm wide [unclear — text between screenshots not captured]\n- Rinse and dry the tooth\n- Apply a thin layer of the adhesive system of choice (air-thin dry to remove any excess of the bonding system).\n- Polymerisation (light cure).\n\n{{img:1}}\n\n- Restore the tooth with composite resin.\n- Direct mock-up with composite resin can be used using a silicone index obtained from a wax-up.\n- Otherwise, a free-hand composite resin restoration can be performed.\n- Finishing and polishing stage with abrasive discs and diamond burs for the texture can be used to improve aesthetic results.\n\n**Important**: In cases where fragment reattachment or composite resin restoration can not be performed, an emergency procedure that comprises the application of a temporary glass ionomer restoration is indicated to prevent bacterial invasion into the dentine tubules.\n\n**Concomitant luxation injuries:** Restoration with composite resin restoration can be difficult to perform on teeth with increased mobility and gingival bleeding. In this case, a temporary restoration is indicated since a dry operative field is difficult to maintain.",
      "multi": false,
      "images": [
       {
        "src": "img/L7-S10-0.webp",
-       "caption": "Enamel-dentine fracture of upper left central incisor (before restoration)",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Enamel-dentine fracture of the upper left central incisor"
       },
       {
        "src": "img/L7-S10-1.webp",
-       "caption": "After composite resin restoration",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Upper incisors after composite resin restoration"
       }
      ]
     },
@@ -2372,7 +2356,7 @@
      "id": "L7-S11",
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
-     "title": "Expected Outcomes\n\nfollowing uncomplicated crown fractures",
+     "title": "Expected Outcomes following uncomplicated crown fractures",
      "body": "**PULP**\n- The risk of pulpal complications is minimal for uncomplicated crown fractures.\n- The tooth should be monitored up to 1 year after the injury - if sensibility testing is normal, no further review is needed.\n- The risk of pulp necrosis is significantly increased in the case of an additional luxation injury.\n- It is important to review the restoration - in case of failure, a repair/replacement of the restoration should be performed.",
      "multi": false
     },
@@ -2380,7 +2364,7 @@
      "id": "L7-S12",
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
-     "title": "Expected Outcomes\n\nfollowing uncomplicated crown fractures",
+     "title": "Expected Outcomes following uncomplicated crown fractures",
      "body": "**PDL**\n- Periodontal complications are extremely rare after crown fractures and consist only of repair-related resorption.\n- The risk of PDL-related outcomes (replacement/inflammatory root resorption) is significantly increased in the case of an additional luxation injury.",
      "multi": false
     },
@@ -2389,7 +2373,6 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "intro",
      "title": "Time to check your knowledge!",
-     "body": "[OK, let’s go!]",
      "multi": false
     },
     {
@@ -2437,9 +2420,9 @@
      "images": [
       {
        "src": "img/L7-S16-0.webp",
-       "caption": "Enamel fracture of upper central incisors",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Enamel fracture of the upper central incisors"
       }
      ]
     },
@@ -2468,7 +2451,7 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "intro",
      "title": "That’s it!",
-     "body": "Nice work. You’ve completed Level 3 of our course - Examination and Special Tests.\n\n**Additional Sources**\n1. <u>IADT Website</u>\n2. <u>Dental Trauma Guide Website</u>\n3. <u>Tooth fragment reattachment techniques-A systematic review. Garcia et al., 2017</u>\n\n[Exit Lesson]",
+     "body": "Nice work. You’ve completed Level 3 of our course - Examination and Special Tests.\n\n**Additional Sources**\n1. <u>IADT Website</u>\n2. <u>Dental Trauma Guide Website</u>\n3. <u>Tooth fragment reattachment techniques-A systematic review. Garcia et al., 2017</u>",
      "multi": false
     }
    ]
@@ -2495,9 +2478,9 @@
      "images": [
       {
        "src": "img/L8-S2-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Illustration of an enamel-dentine-pulp fracture in an incisor"
       }
      ]
     },
@@ -2548,20 +2531,20 @@
      "section": "Complicated Crown Fractures",
      "type": "text",
      "title": "Partial Pulpotomy",
-     "body": "Also known as Cvek Pulpotomy\n\n**Criteria for Cvek Pulpotomy**\n\n- Partial pulpotomy can be performed up to 9 days following traumatic pulp exposure\n- The outcome does not appear to be affected by exposure size if less than 4 mm\n- High success rate in teeth in teeth with open apices but can also be used in teeth with closed apices.\n\n**Steps of the Procedure:**\n\n- Local anaesthesia and rubber dam isolation\n- Remove 1–3 mm of the exposed pulp (removal of the inflamed superficial pulp tissue up to the level of a healthy pulp) using a round carbide or diamond bur (box-like cavity).\n- Place a sterile cotton pellet over the pulp to achieve haemostasis (thin should occur within 5 minutes).\n- If haemostasis is not achieved in 5min, a full pulpotomy is required.\n- Place non-staning calcium silicate cements (such as MTA or Biodentine) or non-setting calcium hydroxide over the pulp and compress slightly.\n\n[VIDEO]\n\n**Restoration:**\n\n- A thin layer of glass ionomer cement should be applied over the medicament.\n- The tooth can be restored using dental adhesive with either conventional resin composite build-up or crown fragment reattachment.\n- A temporary restoration with glass ionomer restoration can be performed in certain circumstances.\n\n**Important:**\n\n- Depending on the extent of the complicated crown fracture, evaluation by a multidisciplinary team should be considered when deciding the best restorative technique.",
+     "body": "Also known as Cvek Pulpotomy\n\n**Criteria for Cvek Pulpotomy**\n\n- Partial pulpotomy can be performed up to 9 days following traumatic pulp exposure\n- The outcome does not appear to be affected by exposure size if less than 4 mm\n- High success rate in teeth in teeth with open apices but can also be used in teeth with closed apices.\n\n**Steps of the Procedure:**\n\n- Local anaesthesia and rubber dam isolation\n- Remove 1–3 mm of the exposed pulp (removal of the inflamed superficial pulp tissue up to the level of a healthy pulp) using a round carbide or diamond bur (box-like cavity).\n- Place a sterile cotton pellet over the pulp to achieve haemostasis (thin should occur within 5 minutes).\n- If haemostasis is not achieved in 5min, a full pulpotomy is required.\n- Place non-staning calcium silicate cements (such as MTA or Biodentine) or non-setting calcium hydroxide over the pulp and compress slightly.\n\n{{img:0}}\n\n**Restoration:**\n\n- A thin layer of glass ionomer cement should be applied over the medicament.\n- The tooth can be restored using dental adhesive with either conventional resin composite build-up or crown fragment reattachment.\n- A temporary restoration with glass ionomer restoration can be performed in certain circumstances.\n\n**Important:**\n\n- Depending on the extent of the complicated crown fracture, evaluation by a multidisciplinary team should be considered when deciding the best restorative technique.\n\n{{img:1}}",
      "multi": false,
      "images": [
       {
        "src": "img/L8-S5-0.webp",
-       "caption": "",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video of a partial pulpotomy procedure"
       },
       {
        "src": "img/L8-S5-1.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Four clinical photos of the restoration steps on a fractured upper incisor"
       }
      ]
     },
@@ -2586,38 +2569,38 @@
      "section": "Complicated Crown Fractures",
      "type": "text",
      "title": "Case-based Learning",
-     "body": "A 10-year old boy fell from his bike. He attended for treatment 30 hours after the incident. There was no relevant medical history.\n\nIn this case, apart from a complete trauma history, it is important to <u>locate</u> the missing fragment.\n\nAlways check for any intra and extra-oral lacerations (in case it is embedded in the soft tissues) or any breathing difficulties (aspiration).\n\nIf the fragment is found, it can be used for fragment reattachment. In this case, the fragment could not be located.\n\n**Clinical presentation:**\n\nNote that a complicated crown fracture is present on tooth 21 (enamel-dentine-pulp fracture). The pulp is clearly exposed. It is important to check for increased mobility or displacement to diagnose any additional luxation injury (impact on prognosis).\n\nThe exposed pulp can sensitive to stimuli (eg, air, cold, sweets)\n\n**Radiographic Assessment:**\n\nOne parallel periapical radiograph was taken. Observe that no root fractures was noted and the apex is not completely closed yet. Note that the fracture line is above the bone level.\n\n**Emergency Treatment:**\n\nIn patients where teeth have immature roots and open apices, it is very important to preserve the pulp. Partial pulpotomy was performed in order to promote further root development.\n\nIn this case, non-staining calcium silicate cement (CSC) was applied over the pulp.\n\nResin-modified glass ionomer cement (RMGIC) was placed over the CSC and the tooth was then restored with composite resin.",
+     "body": "A 10-year old boy fell from his bike. He attended for treatment 30 hours after the incident. There was no relevant medical history.\n\nIn this case, apart from a complete trauma history, it is important to <u>locate</u> the missing fragment.\n\nAlways check for any intra and extra-oral lacerations (in case it is embedded in the soft tissues) or any breathing difficulties (aspiration).\n\nIf the fragment is found, it can be used for fragment reattachment. In this case, the fragment could not be located.\n\n**Clinical presentation:**\n\n{{img:0}}\n\nNote that a complicated crown fracture is present on tooth 21 (enamel-dentine-pulp fracture). The pulp is clearly exposed. It is important to check for increased mobility or displacement to diagnose any additional luxation injury (impact on prognosis).\n\nThe exposed pulp can sensitive to stimuli (eg, air, cold, sweets)\n\n**Radiographic Assessment:**\n\nOne parallel periapical radiograph was taken. Observe that no root fractures was noted and the apex is not completely closed yet. Note that the fracture line is above the bone level.\n\n{{img:1}}\n\n**Emergency Treatment:**\n\nIn patients where teeth have immature roots and open apices, it is very important to preserve the pulp. Partial pulpotomy was performed in order to promote further root development.\n\nIn this case, non-staining calcium silicate cement (CSC) was applied over the pulp.\n\n{{img:2}}\n\nResin-modified glass ionomer cement (RMGIC) was placed over the CSC and the tooth was then restored with composite resin.\n\n{{img:3}}\n\n{{img:4}}",
      "multi": false,
      "images": [
       {
        "src": "img/L8-S8-0.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Clinical photos of the complicated crown fracture of tooth 21 with exposed pulp (picture cut off at the bottom in the original screenshot)"
       },
       {
        "src": "img/L8-S8-1.webp",
-       "caption": "",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Periapical radiograph of the upper central incisors"
       },
       {
        "src": "img/L8-S8-2.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Clinical photo under rubber dam after calcium silicate cement placement (picture cut off at the bottom in the original screenshot)"
       },
       {
        "src": "img/L8-S8-3.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Close-up photos of tooth 21 before and after the composite restoration"
       },
       {
        "src": "img/L8-S8-4.webp",
-       "caption": "",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Frontal photos of the anterior teeth before and after restoration"
       }
      ]
     },
@@ -2633,7 +2616,7 @@
      "section": "Complicated Crown Fractures",
      "type": "text",
      "title": "True or false?",
-     "body": "Which of these statements is true? Swipe the false statements to the left and the true statements to the right.\n\nOK, I'm ready!",
+     "body": "Which of these statements is true? Swipe the false statements to the left and the true statements to the right.",
      "multi": false,
      "missing": true
     },
@@ -2673,7 +2656,7 @@
      "section": "Complicated Crown Fractures",
      "type": "intro",
      "title": "That’s it!",
-     "body": "Nice work. You’ve completed the lesson “Complicated crown fractures”!\n\n**Additional Sources**\n\n1. <u>IADT Website</u>\n2. <u>Dental Trauma Guide Website</u>\n3. <u>Tooth fragment reattachment techniques-A systematic review. Garcia et al., 2017</u>\n\nExit Lesson",
+     "body": "Nice work. You’ve completed the lesson “Complicated crown fractures”!\n\n**Additional Sources**\n\n1. <u>IADT Website</u>\n2. <u>Dental Trauma Guide Website</u>\n3. <u>Tooth fragment reattachment techniques-A systematic review. Garcia et al., 2017</u>",
      "multi": false
     }
    ]
@@ -2695,14 +2678,14 @@
      "section": "Avulsion of Permanent teeth",
      "type": "text",
      "title": "Avulsion of Permanent Teeth",
-     "body": "The tooth is completely displaced out of its socket.",
+     "body": "{{img:0}}\n\nThe tooth is completely displaced out of its socket.",
      "multi": false,
      "images": [
       {
        "src": "img/L9-S2-0.webp",
-       "caption": "AVULSION",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "Illustration of avulsion: empty socket and the tooth displaced out of it"
       }
      ]
     },
@@ -2739,9 +2722,9 @@
      "images": [
       {
        "src": "img/L9-S4-0.webp",
-       "caption": "",
        "video": true,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Video showing a tooth being knocked out of its socket"
       }
      ]
     },
@@ -2775,15 +2758,15 @@
       },
       {
        "heading": "",
-       "body": "**Minimizing the dry time is critical for survival of the PDL cells.**\n\nIt is critical to record information regarding:\n\n- Extra-oral total time (EOT)\n- Extra-oral dry time (EODT)\n- Storage medium"
-      }
-     ],
-     "images": [
-      {
-       "src": "img/L9-S6-0.webp",
-       "caption": "Separation of PDL and exposure of root surface",
-       "video": false,
-       "kind": "illustration"
+       "body": "{{img:0}}\n\n**Minimizing the dry time is critical for survival of the PDL cells.**\n\nIt is critical to record information regarding:\n\n- Extra-oral total time (EOT)\n- Extra-oral dry time (EODT)\n- Storage medium",
+       "images": [
+        {
+         "src": "img/L9-S6-0.webp",
+         "video": false,
+         "kind": "illustration",
+         "alt": "Illustration of an avulsed tooth with separation of the PDL and exposure of the root surface"
+        }
+       ]
       }
      ]
     },
@@ -2813,7 +2796,7 @@
      "section": "Avulsion of Permanent teeth",
      "type": "text",
      "title": "Treatment Guidelines for avulsed permanent teeth",
-     "body": "**with CLOSED APEX**\n\nOK, let’s go!",
+     "body": "**with CLOSED APEX**",
      "multi": false
     },
     {
@@ -2821,7 +2804,7 @@
      "section": "Avulsion of Permanent teeth",
      "type": "text",
      "title": "Treatment Guidelines",
-     "body": "If the tooth has been replanted <u>**at the site of injury or before the patient’s arrival at the dental clinic:**</u>\n\n**1) Clean the injured area.**\n\n- Verify the correct position of the replanted tooth both clinically and radiographically.\n\n**2) Leave the tooth/teeth in place.**\n\n- If the tooth is malpositioned, correct it using slight digital pressure.\n- If the tooth or teeth were replanted in the wrong socket or rotated, consider repositioning the tooth/teeth into the proper location up to 48 hours after the traumatic incident.\n\n**3) Stabilise the tooth for 2 weeks**\n\n- Use a passive flexible splint and make sure that the area is cleansible.\n\n**4) If there is an associated alveolar or jawbone fracture:**\n\n- A more rigid splint is indicated and should be left in place for 4 weeks.\n\n**5) Suture gingival lacerations, if present. 6) Initiate root canal treatment within 2 weeks after replantation.**\n\n- The pulp should be removed in avulsed teeth with closed apex.\n- Calcium hydroxide is recommended as an intracanal medicament for up to 1 month followed by root canal filling.\n\n**7) Administer systemic antibiotics.**\n\n- The use of systemic antibiotics after avulsion and replantation has been recommended to prevent infection-related reactions and to reduce the occurrence of inflammatory root resorption.\n- **ADD LINK TO HSE AB**\n\n**8) Check tetanus vaccination status.**\n\n- If the wound contains dirt or a foreign object the patient needs to be evaluated for the need for a tetanus immunisation.\n\n**9) Provide post-operative instructions.**\n\n- Keep the area clean: brush teeth with a soft toothbrush after each meal.\n- Use chlorhexidine (0.12% to 0.2%) mouth rinse or gel twice a day for 2 weeks.\n- Maintain a soft diet for up to 2 weeks.\n- Avoid participation in contact sports.\n\n**10) Follow-up appointment in 2 weeks.**\n\n- Review, removal of splint and initiate root canal treatment.",
+     "body": "If the tooth has been replanted <u>**at the site of injury or before the patient’s arrival at the dental clinic:**</u>\n\n**1) Clean the injured area.**\n\n- Verify the correct position of the replanted tooth both clinically and radiographically.\n\n**2) Leave the tooth/teeth in place.**\n\n- If the tooth is malpositioned, correct it using slight digital pressure.\n- If the tooth or teeth were replanted in the wrong socket or rotated, consider repositioning the tooth/teeth into the proper location up to 48 hours after the traumatic incident.\n\n**3) Stabilise the tooth for 2 weeks**\n\n- Use a passive flexible splint and make sure that the area is cleansible.\n\n**4) If there is an associated alveolar or jawbone fracture:**\n\n- A more rigid splint is indicated and should be left in place for 4 weeks.\n\n**5) Suture gingival lacerations, if present.**\n\n**6) Initiate root canal treatment within 2 weeks after replantation.**\n\n- The pulp should be removed in avulsed teeth with closed apex.\n- Calcium hydroxide is recommended as an intracanal medicament for up to 1 month followed by root canal filling.\n\n**7) Administer systemic antibiotics.**\n\n- The use of systemic antibiotics after avulsion and replantation has been recommended to prevent infection-related reactions and to reduce the occurrence of inflammatory root resorption.\n- **ADD LINK TO HSE AB**\n\n**8) Check tetanus vaccination status.**\n\n- If the wound contains dirt or a foreign object the patient needs to be evaluated for the need for a tetanus immunisation.\n\n**9) Provide post-operative instructions.**\n\n- Keep the area clean: brush teeth with a soft toothbrush after each meal.\n- Use chlorhexidine (0.12% to 0.2%) mouth rinse or gel twice a day for 2 weeks.\n- Maintain a soft diet for up to 2 weeks.\n- Avoid participation in contact sports.\n\n**10) Follow-up appointment in 2 weeks.**\n\n- Review, removal of splint and initiate root canal treatment.",
      "multi": false
     },
     {
@@ -2845,7 +2828,7 @@
      "section": "Avulsion of Permanent teeth",
      "type": "text",
      "title": "Treatment Guidelines for avulsed permanent teeth",
-     "body": "**with OPEN APEX**\n\nOK, let’s go!",
+     "body": "**with OPEN APEX**",
      "multi": false
     },
     {
@@ -2927,7 +2910,7 @@
      "section": "Avulsion of Permanent teeth",
      "type": "statements",
      "title": "True or false?",
-     "body": "A 8 year old patient had his tooth avulsed after a bike accident. His mother is a patient of yours and called you 5 minutes after the accident happened. The tooth is on the floor.\n\nOK, I'm ready!",
+     "body": "A 8 year old patient had his tooth avulsed after a bike accident. His mother is a patient of yours and called you 5 minutes after the accident happened. The tooth is on the floor.",
      "multi": false,
      "statements": [
       "The child won’t allow the parent to replant the tooth. The parent should always keep it clean and wrapped in a clean tissue.",
@@ -2990,37 +2973,37 @@
      "items": [
       {
        "heading": null,
-       "body": "A radiograph can be taken before tooth replantation to evaluate the socket and the presence of tooth/bony fragments.",
+       "body": "{{img:0}}\n\nA radiograph can be taken before tooth replantation to evaluate the socket and the presence of tooth/bony fragments.",
        "images": [
         {
          "src": "img/L9-S23-0.webp",
-         "caption": "A radiograph can be taken before tooth replantation to evaluate the socket and the presence of tooth/bony fragments.",
          "video": false,
-         "kind": "radiograph"
+         "kind": "radiograph",
+         "alt": "Periapical radiograph of the empty sockets of teeth 11 and 21"
         }
        ]
       },
       {
        "heading": null,
-       "body": "The tooth should be replanted and splinted as soon as possible.\n\nIf there is any tissue laceration, sutures should be placed.",
+       "body": "{{img:0}}\n\nThe tooth should be replanted and splinted as soon as possible.\n\nIf there is any tissue laceration, sutures should be placed.",
        "images": [
         {
          "src": "img/L9-S23-1.webp",
-         "caption": "The tooth should be replanted and splinted as soon as possible. If there is any tissue laceration, sutures should be placed.",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Replanted upper central incisors with a wire splint and sutured gingival laceration"
         }
        ]
       },
       {
        "heading": null,
-       "body": "A radiograph should be taken immediately after repositioning to verify the position of the replanted teeth.",
+       "body": "{{img:0}}\n\nA radiograph should be taken immediately after repositioning to verify the position of the replanted teeth.",
        "images": [
         {
          "src": "img/L9-S23-2.webp",
-         "caption": "A radiograph should be taken immediately after repositioning to verify the position of the replanted teeth.",
          "video": false,
-         "kind": "radiograph"
+         "kind": "radiograph",
+         "alt": "Periapical radiograph after replantation of teeth 11 and 21"
         }
        ]
       }
@@ -3053,14 +3036,14 @@
      "section": "Avulsion of Permanent Teeth",
      "type": "text",
      "title": "STABILISATION OF REPLANTED TEETH (SPLINTING)",
-     "body": "**The aim of splinting is to stabilise the injured tooth and encourage healing.**\n\n- Current evidence supports short-term, passive and flexible splints for stabilization of replanted teeth.\n- Periodontal and pulp healing are promoted if the replanted tooth is subjected to slight mobility and function.\n- Replanted permanent teeth should be stabilised for a period of <u>2 WEEKS</u> depending on the length and degree of maturation of the root.\n- An additional week of splinting is appropriate only if excessive trauma from the opposing dentition might further traumatise the tooth or if the avulsed tooth is unable to remain in the correct position.\n\n<u>COMPOSITE AND WIRE SPLINT</u>\n\nWire secured to the teeth with composite is the most favored and widely-used splint, and can be used in almost all types of tooth injury.\n\n- The stainless steel wire should be pre-contoured to conform to the teeth and the diameter must not exceed 0.4mm or 0.016” to remain flexible.\n- The wire used should be passive in nature and not exert any unwanted orthodontic forces.\n- The splint should allow adequate cleaning of the wound (hygienic).",
+     "body": "**The aim of splinting is to stabilise the injured tooth and encourage healing.**\n\n- Current evidence supports short-term, passive and flexible splints for stabilization of replanted teeth.\n- Periodontal and pulp healing are promoted if the replanted tooth is subjected to slight mobility and function.\n- Replanted permanent teeth should be stabilised for a period of <u>2 WEEKS</u> depending on the length and degree of maturation of the root.\n- An additional week of splinting is appropriate only if excessive trauma from the opposing dentition might further traumatise the tooth or if the avulsed tooth is unable to remain in the correct position.\n\n{{img:0}}\n\n<u>COMPOSITE AND WIRE SPLINT</u>\n\nWire secured to the teeth with composite is the most favored and widely-used splint, and can be used in almost all types of tooth injury.\n\n- The stainless steel wire should be pre-contoured to conform to the teeth and the diameter must not exceed 0.4mm or 0.016” to remain flexible.\n- The wire used should be passive in nature and not exert any unwanted orthodontic forces.\n- The splint should allow adequate cleaning of the wound (hygienic).",
      "multi": false,
      "images": [
       {
        "src": "img/L9-S26-0.webp",
-       "caption": "COMPOSITE AND WIRE SPLINT",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Composite and wire splint on the upper anterior teeth"
       }
      ]
     },
@@ -3072,37 +3055,37 @@
      "items": [
       {
        "heading": null,
-       "body": "This 7-year-old patient avulsed tooth 21. You can note that the tooth is in a traumatic occlusion (occluding on teeth 31/72). This can impact healing.",
+       "body": "{{img:0}}\n\nThis 7-year-old patient avulsed tooth 21. You can note that the tooth is in a traumatic occlusion (occluding on teeth 31/72). This can impact healing.",
        "images": [
         {
          "src": "img/L9-S27-0.webp",
-         "caption": "This 7-year-old patient avulsed tooth 21 ... traumatic occlusion",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Frontal view: replanted tooth 21 in traumatic occlusion"
         }
        ]
       },
       {
        "heading": null,
-       "body": "In order to promote healing, the dentist can add glass ionomer cement to the occlusal surface of posterior teeth temporarily (bite block). Note that the teeth are now out of occlusion.",
+       "body": "{{img:0}}\n\nIn order to promote healing, the dentist can add glass ionomer cement to the occlusal surface of posterior teeth temporarily (bite block). Note that the teeth are now out of occlusion.",
        "images": [
         {
          "src": "img/L9-S27-1.webp",
-         "caption": "glass ionomer bite block",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Frontal view with glass ionomer bite block on posterior teeth, anterior teeth out of occlusion"
         }
        ]
       },
       {
        "heading": null,
-       "body": "Alternatively, a removable retainer with buccal/occlusal capping can be fabricated. Good patient compliance is essential in this case.",
+       "body": "{{img:0}}\n\nAlternatively, a removable retainer with buccal/occlusal capping can be fabricated. Good patient compliance is essential in this case.",
        "images": [
         {
          "src": "img/L9-S27-2.webp",
-         "caption": "removable retainer with buccal/occlusal capping",
          "video": false,
-         "kind": "clinical"
+         "kind": "clinical",
+         "alt": "Frontal view with removable retainer with buccal/occlusal capping"
         }
        ]
       }
@@ -3210,7 +3193,7 @@
       },
       {
        "heading": "Decoronation",
-       "body": "Decoronation is a surgical method for treating ankylosed incisors in children and adolescents.\n\n- The crown and root filling are removed, leaving the root in situ to be resorbed and covered with a mucoperiosteal flap.\n- Early loss of a permanent tooth leads to loss of alveolar bone, especially in buccopalatal width. Decoronation preserves not only the width of the ridge but also the vertical height.\n- The idea is to remove the crown and maintain the resorbing root as a matrix for new bone development so the volume of the alveolar ridge can be preserved, allowing more optimal conditions for a later prosthetic solution.\n\n<u>Article: Ridge preservation/decoronation.</u>\n\n."
+       "body": "Decoronation is a surgical method for treating ankylosed incisors in children and adolescents.\n\n- The crown and root filling are removed, leaving the root in situ to be resorbed and covered with a mucoperiosteal flap.\n- Early loss of a permanent tooth leads to loss of alveolar bone, especially in buccopalatal width. Decoronation preserves not only the width of the ridge but also the vertical height.\n- The idea is to remove the crown and maintain the resorbing root as a matrix for new bone development so the volume of the alveolar ridge can be preserved, allowing more optimal conditions for a later prosthetic solution.\n\n<u>Article: Ridge preservation/decoronation.</u>"
       },
       {
        "heading": "Tooth loss",
@@ -3256,7 +3239,15 @@
       },
       {
        "heading": null,
-       "body": "The tooth was replanted and a flexible wire splint was placed by the dentist.\n\nNote that tooth 11 also had an enamel-dentine fracture and a GIC restoration was done in the emergency appointment."
+       "body": "The tooth was replanted and a flexible wire splint was placed by the dentist.\n\nNote that tooth 11 also had an enamel-dentine fracture and a GIC restoration was done in the emergency appointment.\n\n{{img:0}}",
+       "images": [
+        {
+         "src": "img/L9-S38-0.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Replanted tooth 11 with a flexible wire splint"
+        }
+       ]
       },
       {
        "heading": null,
@@ -3268,31 +3259,27 @@
       },
       {
        "heading": null,
-       "body": "After 2 months, the child attends with a buccal sinus associated with tooth 11."
+       "body": "{{img:0}}\n\nAfter 2 months, the child attends with a buccal sinus associated with tooth 11.",
+       "images": [
+        {
+         "src": "img/L9-S38-1.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Buccal sinus above tooth 11 two months later"
+        }
+       ]
       },
       {
        "heading": null,
-       "body": "<u>What does it means?</u>\n\n- A sinus is a definitive sign that the pulp is necrotic. Tracing of the sinus track can be done using a GP point. This procedure is common when more than one tooth was involved in the trauma."
-      }
-     ],
-     "images": [
-      {
-       "src": "img/L9-S38-0.webp",
-       "caption": "Replanted tooth with flexible wire splint",
-       "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L9-S38-1.webp",
-       "caption": "After 2 months, the child attends with a buccal sinus associated with tooth 11.",
-       "video": false,
-       "kind": "clinical"
-      },
-      {
-       "src": "img/L9-S38-2.webp",
-       "caption": "Tracing of the sinus track with a GP point",
-       "video": false,
-       "kind": "clinical"
+       "body": "{{img:0}}\n\n<u>What does it means?</u>\n\n- A sinus is a definitive sign that the pulp is necrotic. Tracing of the sinus track can be done using a GP point. This procedure is common when more than one tooth was involved in the trauma.",
+       "images": [
+        {
+         "src": "img/L9-S38-2.webp",
+         "video": false,
+         "kind": "clinical",
+         "alt": "Gutta-percha point tracing the sinus tract above tooth 11"
+        }
+       ]
       }
      ]
     },
@@ -3316,14 +3303,14 @@
      "section": "Avulsion of Permanent Teeth",
      "type": "text",
      "title": "SAVE YOUR TOOTH POSTER",
-     "body": "The poster “Save a Tooth” is available in multiple languages.\n\nWhen clicking continue, you will be directed to the website where you can download the poster in your own language.\n\n<u>Download it here</u>",
+     "body": "{{img:0}}\n\nThe poster “Save a Tooth” is available in multiple languages.\n\nWhen clicking continue, you will be directed to the website where you can download the poster in your own language.\n\n<u>Download it here</u>",
      "multi": false,
      "images": [
       {
        "src": "img/L9-S41-0.webp",
-       "caption": "\"Save your tooth\" poster (IADT / Universidad de Valparaíso)",
        "video": false,
-       "kind": "illustration"
+       "kind": "illustration",
+       "alt": "\"Save your tooth\" poster with first-aid steps for broken and knocked-out teeth"
       }
      ]
     },
@@ -3712,9 +3699,9 @@
      "images": [
       {
        "src": "img/L11-S10-0.webp",
-       "caption": "Two-part clinical image (frontal and close-up views)",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Frontal and close-up clinical photos of a fractured upper incisor"
       }
      ]
     },
@@ -3748,9 +3735,9 @@
      "images": [
       {
        "src": "img/L11-S12-0.webp",
-       "caption": "Lower incisor with crown fracture",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Fractured lower incisor with a small pulp exposure"
       }
      ]
     },
@@ -3782,9 +3769,9 @@
      "images": [
       {
        "src": "img/L11-S14-0.webp",
-       "caption": "Two periapical radiographs; red arrow on the second",
        "video": false,
-       "kind": "radiograph"
+       "kind": "radiograph",
+       "alt": "Two periapical radiographs of the upper incisors; a red arrow points to the upper left central incisor"
       }
      ]
     },
@@ -3803,9 +3790,9 @@
      "images": [
       {
        "src": "img/L11-S15-0.webp",
-       "caption": "Profile photo of patient (eyes covered by dark glasses)",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Profile photo of a patient's lower face"
       }
      ]
     },
@@ -3857,9 +3844,9 @@
      "images": [
       {
        "src": "img/L11-S18-0.webp",
-       "caption": "Composite: periapical radiograph, frontal intraoral photo, lip laceration photo",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Periapical radiograph, frontal intraoral photo and lip laceration photo"
       }
      ]
     },
@@ -3879,9 +3866,9 @@
      "images": [
       {
        "src": "img/L11-S19-0.webp",
-       "caption": "Periapical radiograph and intraoral photo of upper central incisors",
        "video": false,
-       "kind": "clinical"
+       "kind": "clinical",
+       "alt": "Periapical radiograph and intraoral photo of the upper central incisors"
       }
      ]
     },

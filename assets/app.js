@@ -512,10 +512,8 @@
         <span class="bar"><i style="width:${Math.round(p * 100)}%"></i></span></span></a></li>`;
     }).join("");
     const next = COURSE.lessons.find((L) => progress(L) < 1) || COURSE.lessons[0];
-    const nq = COURSE.lessons.reduce((a, L) => a + L.slides.filter((s) => ANSWER_TYPES.includes(s.type)).length, 0);
     app.innerHTML = `<section class="hero"><div class="eyebrow">Dublin Dental University Hospital · Trinity College Dublin</div>
       <h1>${inline(COURSE.title)}</h1><p>${inline(COURSE.subtitle || "")}</p>
-      <div class="stats"><span><b>${COURSE.lessons.length}</b>lessons</span><span><b>${nq}</b>interactive questions</span><span><b>Free</b>no sign-up</span></div>
       <a class="btn" href="#/lesson/${next.n}/1">${Object.keys(seen).length ? "Continue learning →" : "Start the course →"}</a>
       <svg class="hero-tooth" viewBox="0 0 64 64" aria-hidden="true"><path d="M20 10c-8 0-12 6-11 15 1 8 4 12 5 21 1 7 5 9 8 3 3-8 4-13 10-13s7 5 10 13c3 6 7 4 8-3 1-9 4-13 5-21 1-9-3-15-11-15-6 0-8 3-12 3s-6-3-12-3z" fill="#fff"/></svg></section>
       <div class="section-title">Lessons</div><ol class="lessons">${items}</ol>`;

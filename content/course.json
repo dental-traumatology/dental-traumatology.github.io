@@ -1,0 +1,3900 @@
+{
+ "title": "Online Course in Dental Traumatology",
+ "subtitle": "A free, self-paced course for undergraduate dental students — Dublin Dental University Hospital, Trinity College Dublin.",
+ "about": "## About this course\n\n**Authors:** Prof Anne O'Connell, Dr Isabel Olegário, Dr Rona Leith\n\n**Affiliation:** Dublin Dental University Hospital, Trinity College Dublin\n\nThis course was developed as part of the research study *\"Novel learning strategies for undergraduate dental education: the effectiveness of an online self-paced course and the impact of gamification features in learning outcomes in Dental Traumatology\"*.\n\nThe course has 11 lessons: a baseline quiz, Terminology, the Dental Trauma Index, Examination and Special Tests, Trauma Splint, Uncomplicated Crown Fractures, Complicated Crown Fractures, Avulsion of Permanent Teeth, course feedback and a final quiz. Lessons are meant to be taken in order.\n\nSome images and videos in this course are used with permission from the Dental Trauma Guide website.\n\n## Licence\n\nOnline Course in Dental Traumatology © 2023 by Isabel Olegário, Rona Leith and Anne O'Connell is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).",
+ "lessons": [
+  {
+   "n": 1,
+   "title": "Welcome!",
+   "slides": [
+    {
+     "id": "L1-S1",
+     "section": "Welcome!",
+     "type": "intro",
+     "title": "Welcome to our Online Course in Dental Traumatology",
+     "body": "Before we get started, we would like to explain how this course works.",
+     "multi": false
+    },
+    {
+     "id": "L1-S2",
+     "section": "Welcome!",
+     "type": "text",
+     "title": "General Information",
+     "body": "**Authors**\n- Prof Anne O’Connell\n- Dr Isabel Olegário\n- Dr Rona Leith\n\n**Affiliation:**\n- Dublin Dental University Hospital, Trinity College Dublin\n\nThis course is being developed as part of the research study:\n- “Novel learning strategies for undergraduate dental education: the effectiveness of an online self-paced course and the impact of gamification features in learning outcomes in Dental Traumatology”\n\n**Additional contents:**\n- Some of the images and videos of this course are used with permission from the Dental Trauma Guide website.\n- All other photographs and radiographs are from [unclear]\n- The PDF of all IADT guidelines are available in the course “Briefcase”.\n\n**Baseline Quiz**\n- You will be required to complete some questions before the start of the course to measure your baseline knowledge in Dental Traumatology.\n\n**Course Content:**\n- Once you finish the baseline questionnaire, you will be able to access the course content.\n- Every lesson must be completed before you move on to the next one.\n- Lessons include: Terminology, Examination and Special Tests, Trauma Splint, Uncomplicated Crown Fractures, Complicated Crown Fractures and Avulsion of Permanent Teeth.\n\n**Final Quiz**\n- After completing the course, you will be required to answer a final quiz so we can assess your learning.\n- Don’t worry - the research team does not have access to your identity.\n- You will have access to the course for a period of 6 weeks, so make sure you read all the content and answer the final Quiz.\n\n**Creative Commons License:**\n- Online Course in Dental Traumatology © 2023 by Isabel Olegário, Rona Leith and Anne O’Connell is licensed under Attribution-NonCommercial-NoDerivatives 4.0 International\n\n[CC BY-NC-ND badge]\n\n**Questions?**\n- If you have any questions, please contact the [unclear]",
+     "multi": false
+    },
+    {
+     "id": "L1-S3",
+     "section": "Welcome!",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "You can now start your course by answering the Baseline Quiz\n\nHave fun!",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Baseline Knowledge",
+   "slides": [
+    {
+     "id": "L2-S1",
+     "section": "Baseline knowledge",
+     "type": "intro",
+     "title": "Baseline Knowledge",
+     "body": "START NOW WITH A SHORT QUIZ\n\nThere is no need to consult **any external material/colleagues.**\n\nResults cannot be tracked back to you.",
+     "multi": false
+    },
+    {
+     "id": "L2-S2",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "Contusion is defined as:",
+     "options": [
+      "A bruise, usually produced by impact with a blunt object and not accompanied by a break in the mucosa, usually resulting in submucosal hemorrhage.",
+      "A superficial wound produced by rubbing or scraping of the mucosa, leaving a raw, bleeding surface.",
+      "A shallow or deep wound in the mucosa resulting from a tear, usually produced by a sharp object."
+     ],
+     "multi": false
+    },
+    {
+     "id": "L2-S3",
+     "section": "Baseline knowledge",
+     "type": "quiz_multi",
+     "question": "Continued root development can be seen after:\n\nYou can select more than one answer.",
+     "options": [
+      "Apexification",
+      "First stage endodontics",
+      "Obturation with Gutta Percha",
+      "Partial Pulpotomy",
+      "Revascularisation"
+     ],
+     "multi": true
+    },
+    {
+     "id": "L2-S4",
+     "section": "Baseline knowledge",
+     "type": "quiz_multi",
+     "question": "In an uncomplicated enamel-dentine fracture, immediate treatment options include:\n\nYou can select more than one answer.",
+     "options": [
+      "Fragment reattachment",
+      "Direct Pulp Capping",
+      "Composite restoration",
+      "Glass ionomer restoration",
+      "Partial Pulpotomy",
+      "Fluoride varnish application",
+      "Pulpectomy"
+     ],
+     "multi": true
+    },
+    {
+     "id": "L2-S5",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "External replacement root resorption can be arrested or repaired with root canal treatment.",
+     "options": [
+      "True",
+      "False"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L2-S6",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "The combination of bacteria in the root canal and cemental damage on the external root surface can result in external inflammatory root resorption.",
+     "options": [
+      "False",
+      "True"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L2-S7",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "What is the recommended splinting period following avulsion of a permanent tooth without an alveolar fracture?",
+     "options": [
+      "8 weeks",
+      "4 months",
+      "4 weeks",
+      "2 weeks"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L2-S8",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "Induction of a calcific barrier in a non-vital tooth with an open apex is called:\n\nSelect the best response.",
+     "options": [
+      "Apexogenesis",
+      "Calcification",
+      "Apexification",
+      "Revascularisation"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L2-S9",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "A permanent central incisor was avulsed and replanted after 2 hours.\n\nIn the 2-year follow-up appointment the tooth has decreased mobility and a high percussion sound.\n\nWhat is the most likely diagnosis?",
+     "options": [
+      "External Replacement Root Resorption",
+      "Pulp Canal Obliteration",
+      "External Inflammatory Root Resorption",
+      "Apical Periodontitis"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L2-S10",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "A patient attended your practice because she “chipped” her tooth. What is your likely diagnosis based on the image below?",
+     "options": [
+      "Complicated crown fracture",
+      "Uncomplicated crown fracture",
+      "Uncomplicated crown-root fracture",
+      "Complicated crown-root fracture",
+      "Root fracture"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L2-S10-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L2-S11",
+     "section": "Baseline knowledge",
+     "type": "quiz_multi",
+     "question": "Splinting is <u>not</u> recommended within the management of which of the following injuries?\n\nYou can select more than one answer.",
+     "options": [
+      "Extrusive luxation",
+      "Complicated crown-fracture",
+      "Subluxation",
+      "Lateral luxation",
+      "Avulsion",
+      "Uncomplicated crown-fracture"
+     ],
+     "multi": true
+    },
+    {
+     "id": "L2-S12",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "This 8-year-old child injured the lower left central incisor 3 hours ago.\nWhat is the ideal treatment for this tooth?",
+     "options": [
+      "Revascularisation",
+      "Partial Pulpotomy",
+      "Indirect Pulp Cap",
+      "Pulpectomy"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L2-S12-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L2-S13",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "Select the <u>incorrect answer</u> in relation to the cold test.",
+     "options": [
+      "A negative response to the cold test is not a definitive diagnosis of pulp necrosis.",
+      "The cold test evaluates the vitality of the pulp.",
+      "A negative cold test can be a frequent finding after severe luxation injuries.",
+      "The response to the cold test in young children may not be reliable."
+     ],
+     "multi": false
+    },
+    {
+     "id": "L2-S14",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "What type of resorption is present on the upper left central incisor? Trauma history: Avulsion",
+     "options": [
+      "External replacement root resorption",
+      "Internal root resorption",
+      "Invasive cervical resorption",
+      "External inflammatory root resorption"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L2-S14-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L2-S15",
+     "section": "Baseline knowledge",
+     "type": "quiz_multi",
+     "question": "Identify the features in this picture that increase the risk of dental trauma.\n\nYou can select more than one answer.",
+     "options": [
+      "Lower lip trap",
+      "Reverse overjet",
+      "Class III skeletal relationship",
+      "Increased overjet"
+     ],
+     "multi": true,
+     "images": [
+      {
+       "src": "img/L2-S15-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L2-S16",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "What is the minimum splint span required for an avulsion of tooth 11 in a child in the permanent dentition?\n\nNo other teeth were injured.",
+     "options": [
+      "Extend from tooth 11 to 21",
+      "Extend from tooth 12 to 21",
+      "Extend from tooth 13 to 23",
+      "Extend from tooth 12 to 22"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L2-S17",
+     "section": "Baseline knowledge",
+     "type": "quiz_multi",
+     "question": "What of the features below are included in the Modified Eden Baysal Dental Trauma Index?\n\nYou can select more than one answer.",
+     "options": [
+      "Tooth Identification\n(FDI notation)",
+      "Maturity of Apex Classification",
+      "Tooth Identification\n(Universal Numbering System)",
+      "Soft Tissue Injury Classification",
+      "Trauma Aetiology Classification",
+      "Root Fracture Classification",
+      "Luxation Injury Classification",
+      "Crown Fracture Classification"
+     ],
+     "multi": true
+    },
+    {
+     "id": "L2-S18",
+     "section": "Baseline knowledge",
+     "type": "quiz_single",
+     "question": "Classify the injury of the upper right central incisor using the Eden Baysal Dental Trauma Index?",
+     "options": [
+      "[(8) 30Ni-]<sup>2,3</sup>",
+      "[(11) 20Ni-]<sup>1,3</sup>",
+      "[(8) 20Ni-]",
+      "[(11) 20Ni-]<sup>2,3</sup>",
+      "[(11) 20Ni-]",
+      "[(11) 20Nm+]<sup>2,8</sup>",
+      "[(11) 20Nm+]<sup>2,3</sup>"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L2-S18-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L2-S19",
+     "section": "Baseline knowledge",
+     "type": "quiz_multi",
+     "question": "Classify the injury of the upper central incisors using the Modified Eden Baysal Dental Trauma Index?",
+     "options": [
+      "[(11) 00Li+, (21) 30Nm-]<sup>2</sup>",
+      "[(11) 00Ci+, (21) 30Nm-]<sup>6</sup>",
+      "[(8) 00Li+, (9) 20Ni-]<sup>2</sup>",
+      "[(11) 00Li+, (21) 20Ni-]<sup>6</sup>",
+      "[(11) 00Si+, (21) 30Ni-]<sup>2</sup>"
+     ],
+     "multi": true,
+     "images": [
+      {
+       "src": "img/L2-S19-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L2-S20",
+     "section": "Baseline knowledge",
+     "type": "slider",
+     "question": "How confident do you feel in your knowledge of Dental Traumatology prior to the beginning of this course?",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "Not confident at all",
+     "max_label": "Completely confident"
+    },
+    {
+     "id": "L2-S21",
+     "section": "Baseline knowledge",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "Thank you for submitting your responses.\n\nYou can now have access to the Dental Trauma course.",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Terminology",
+   "slides": [
+    {
+     "id": "L3-S1",
+     "section": "Terminology",
+     "type": "intro",
+     "title": "Dental Traumatology — Terminology",
+     "body": "[cover banner: Dental Traumatology / Terminology]\n\n**Learning Outcomes:**\n\nTo be knowledgeable in the correct terminology describing:\n- Soft tissue injuries\n- Hard tissue injuries\n- Injuries of supporting structures",
+     "multi": false
+    },
+    {
+     "id": "L3-S2",
+     "section": "Terminology",
+     "type": "text",
+     "title": "Procedures",
+     "body": "*Glossary of Terms*\n\n*American Association of Endodontics 2020*",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Splint",
+       "body": "An apparatus used to support, protect or immobilise teeth that have been loosened, replanted/repositioned, fractured or subjected to certain endodontic surgical procedures."
+      },
+      {
+       "heading": "First-stage root canal treatment",
+       "body": "Removal of the necrotic tissue/non-vital pulp and temporary dressing of the canal - usually with calcium hydroxide."
+      },
+      {
+       "heading": "Partial Pulpotomy",
+       "body": "- Also known as Cvek pulpotomy\n- The removal of a small portion of the vital coronal pulp as a means of preserving the remaining coronal and radicular pulp tissues."
+      },
+      {
+       "heading": "Crown-lengthening",
+       "body": "A surgical procedure designed to increase the extent of supragingival tooth structure for restorative or esthetic purposes by apically positioning the gingival margin, removing supporting bone, or both"
+      },
+      {
+       "heading": "Autotransplantation",
+       "body": "The transplantation of teeth from one site to another in the same individual, involving the transfer of embedded, impacted or erupted teeth into extraction sites or into surgically prepared sockets."
+      },
+      {
+       "heading": "Decoronation",
+       "body": "The crown of the tooth is removed to 2mm below the crestal bone, and the ankylosed root is left in the alveolus to be substituted by bone."
+      }
+     ]
+    },
+    {
+     "id": "L3-S3",
+     "section": "Terminology",
+     "type": "text",
+     "title": "APEX - Glossary of Terms",
+     "body": "*American Association of Endodontics 2020*",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Foramen (Foramina)",
+       "body": "- A natural opening or passage, especially into or through a bone;\n- Also describes openings in the root structure that communicate with the dental pulp and generally contain neural, vascular and connective elements\n\n**Anatomic apex:** The tip or end of the root as determined morphologically."
+      },
+      {
+       "heading": "Radiographic apex",
+       "body": "- The tip or end of the root as determined radiographically\n- Its location can vary from the anatomic apex due to root morphology and distortion of the radiographic image"
+      },
+      {
+       "heading": "Apex locator",
+       "body": "- An electronic instrument used to assist in determining the root canal working length or perforation\n- Operates on the principles of resistance, frequency or impedance."
+      },
+      {
+       "heading": "Apexification",
+       "body": "A method to induce a calcified barrier in a root with an open apex or the continued apical development of an incompletely formed root in teeth with necrotic pulps."
+      },
+      {
+       "heading": "Apexogenesis",
+       "body": "- A vital pulp therapy procedure performed to encourage continued physiological development and formation of the root end;\n- Frequently used to describe vital pulp therapy performed to encourage the continuation of this process"
+      },
+      {
+       "heading": "Regenerative Endodontics",
+       "body": "Treatment aiming at ingrowth of new vital tissue after removal of necrotic pulp in teeth with immature root development."
+      }
+     ]
+    },
+    {
+     "id": "L3-S4",
+     "section": "Terminology",
+     "type": "text",
+     "title": "Stages of Root Development",
+     "body": "**Cvek’s stages of root development**\n\nImage: Plascencia et al., 2017\n\n- (A) Group I: < 1/2 root length\n- (B) Group II, 1/2 root length\n- (C) Group III, 2/3 root length\n- (D) Group IV, wide open apical foramen and nearly completed root length\n- (E) Group V, closed apical foramen and completed root development.\n\nGroups I, II and III shows wide and divergent apical openings.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S4-0.webp",
+       "caption": "Image: Plascencia et al., 2017 — panels (A)–(E)",
+       "video": false,
+       "kind": "illustration"
+      }
+     ]
+    },
+    {
+     "id": "L3-S5",
+     "section": "Terminology",
+     "type": "text",
+     "title": "Open x Closed Apex",
+     "body": "**Open Apex**\n\nThe root of the tooth is not fully formed yet (immature root). See examples below:\n\n**Closed Apex**\n\nThe root of the tooth is fully formed and the apex is closed (mature root). See examples below:\n\nCase 1 (open apex)\n- Trauma history: Enamel-dentine-pulp fracture on the upper left central incisor. Note all permanent upper incisors have open apices in the radiographic exam.\n\n[unclear — text not captured] ... still present with open apices.\n\nCase 2 (closed apex):\n- Trauma history: 14 year old patient - avulsion of upper right lateral incisor (tooth not found) and lateral luxation of upper right central incisor.\n- Note that roots of central incisors are fully formed (closed apex).",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S5-0.webp",
+       "caption": "Open apex examples (two periapicals with magnified apex insets, red dashed outlines)",
+       "video": false,
+       "kind": "radiograph"
+      },
+      {
+       "src": "img/L3-S5-1.webp",
+       "caption": "Closed apex examples (two periapicals with magnified apex insets, red dashed outlines)",
+       "video": false,
+       "kind": "radiograph"
+      },
+      {
+       "src": "img/L3-S5-2.webp",
+       "caption": "Case 1 (open apex)",
+       "video": false,
+       "kind": "radiograph"
+      },
+      {
+       "src": "img/L3-S5-3.webp",
+       "caption": "Case 1 follow-up? (follows text ending '...still present with open apices.')",
+       "video": false,
+       "kind": "radiograph"
+      },
+      {
+       "src": "img/L3-S5-4.webp",
+       "caption": "Case 2 (closed apex) — only top part visible",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L3-S6",
+     "section": "Terminology",
+     "type": "intro",
+     "title": "Soft Tissue Injuries",
+     "body": "Abrasion, Contusion, Laceration and Avulsion.\n\nThe classification is the same for intra oral and extra oral soft tissue injuries.",
+     "multi": false
+    },
+    {
+     "id": "L3-S7",
+     "section": "Terminology",
+     "type": "carousel",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Abrasion",
+       "body": "A superficial wound produced by rubbing or scraping of the skin or mucosa leaving a raw, bleeding surface.",
+       "images": [
+        {
+         "src": "img/L3-S7-0.webp",
+         "caption": "Abrasion",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": "Contusion",
+       "body": "A bruise without a break in the skin or mucosa. Subcutaneous or submucosal haemorrhage in the tissue. A contusion may be isolated to the soft tissue but may also indicate an underlying bone fracture.",
+       "images": [
+        {
+         "src": "img/L3-S7-1.webp",
+         "caption": "Contusion",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": "Laceration",
+       "body": "A shallow or deep wound penetrating into the soft tissue, usually produced by a sharp object. May disrupt blood vessels, nerves, muscles and involve salivary glands. Most frequently seen in lips, oral mucosa and gingiva.",
+       "images": [
+        {
+         "src": "img/L3-S7-2.webp",
+         "caption": "Laceration",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-S8",
+     "section": "Terminology",
+     "type": "intro",
+     "title": "Hard Tissue Injuries",
+     "body": "Enamel fracture, enamel-dentine fracture, enamel-dentine-pulp fracture, root fracture, crown-root fracture and alveolar fracture.\n\nThere are no differences in the terminology for primary and permanent dentitions.",
+     "multi": false
+    },
+    {
+     "id": "L3-S9",
+     "section": "Terminology",
+     "type": "carousel",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Enamel Fracture",
+       "body": "A fracture confined to the enamel with loss of tooth structure. This image illustrates an enamel fracture on tooth 11 (upper right central permanent incisor).",
+       "images": [
+        {
+         "src": "img/L3-S9-0.webp",
+         "caption": "Enamel Fracture",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": "Enamel-dentine fracture",
+       "body": "A fracture confined to enamel and dentin with loss of tooth structure. This image illustrates an enamel-dentine fracture on tooth 21 (upper left central permanent incisor). Note that there is no visible pulp exposure - this should be evaluated carefully clinically.",
+       "images": [
+        {
+         "src": "img/L3-S9-1.webp",
+         "caption": "Enamel-dentine fracture (red arrow)",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": "Enamel-dentine-pulp fracture",
+       "body": "A fracture involving enamel and dentin with loss of tooth structure and exposure of the pulp.\n\nThis image illustrates an enamel-dentine-pulp fracture on tooth 21 (upper left central permanent incisor). Note that there is a clear clinical pulp exposure.",
+       "images": [
+        {
+         "src": "img/L3-S9-2.webp",
+         "caption": "Enamel-dentine-pulp fracture (two views, red arrow)",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": "Root fracture",
+       "body": "A fracture involving dentin, cementum and the pulp. This can happen at any level of the root.\n\nThis periapical radiograph shows a root fracture on tooth 11 (middle third of the root). Note a radiolucent line indicated by an arrow.",
+       "images": [
+        {
+         "src": "img/L3-S9-3.webp",
+         "caption": "Root fracture (white arrow)",
+         "video": false,
+         "kind": "radiograph"
+        }
+       ]
+      },
+      {
+       "heading": "Crown-root fracture",
+       "body": "A fracture involving enamel, dentin and cementum. It may or may not expose the pulp.\n\nThis image illustrates a crown-root fracture on tooth 11 (upper right central incisor).\n\nNote that the fracture line extends into the root (arrow) and the coronal fragment has been avulsed.",
+       "images": [
+        {
+         "src": "img/L3-S9-4.webp",
+         "caption": "Crown-root fracture (two views, red arrow)",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": "Alveolar fracture",
+       "body": "A fracture of the alveolar process. This image illustrates an alveolar fracture (red arrows indicate fracture line).\n\nNote avulsion of tooth 11 and lateral luxation of tooth 12.",
+       "images": [
+        {
+         "src": "img/L3-S9-5.webp",
+         "caption": "Alveolar fracture",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-S10",
+     "section": "Terminology",
+     "type": "intro",
+     "title": "Luxation injuries",
+     "body": "Concussion, subluxation, extrusive luxation, lateral luxation, intrusive luxation and avulsion.\n\nThere are no differences in the terminology for primary and permanent dentitions.",
+     "multi": false
+    },
+    {
+     "id": "L3-S11",
+     "section": "Terminology",
+     "type": "carousel",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Concussion",
+       "body": "An injury to the tooth-supporting structures without abnormal loosening or displacement of the tooth, but with marked pain to percussion.",
+       "images": [
+        {
+         "src": "img/L3-S11-0.webp",
+         "caption": "Concussion — DENTAL TRAUMA GUIDE",
+         "video": false,
+         "kind": "illustration"
+        }
+       ]
+      },
+      {
+       "heading": "Subluxation",
+       "body": "An injury to the tooth-supporting structures resulting in increased mobility, but without displacement of the tooth.",
+       "images": [
+        {
+         "src": "img/L3-S11-1.webp",
+         "caption": "Subluxation — DENTAL TRAUMA GUIDE",
+         "video": false,
+         "kind": "illustration"
+        }
+       ]
+      },
+      {
+       "heading": "Extrusive luxation",
+       "body": "Partial displacement of the tooth out of its socket.",
+       "images": [
+        {
+         "src": "img/L3-S11-2.webp",
+         "caption": "Extrusive luxation — DENTAL TRAUMA GUIDE",
+         "video": false,
+         "kind": "illustration"
+        }
+       ]
+      },
+      {
+       "heading": "Lateral luxation",
+       "body": "Displacement of the tooth in a direction other than axially. Displacement is accompanied by comminution or fracture of either the labial or the palatal/lingual alveolar bone.",
+       "images": [
+        {
+         "src": "img/L3-S11-3.webp",
+         "caption": "Lateral luxation — DENTAL TRAUMA GUIDE",
+         "video": false,
+         "kind": "illustration"
+        }
+       ]
+      },
+      {
+       "heading": "Intrusive luxation",
+       "body": "Displacement of the tooth into the alveolar bone. This injury is accompanied by comminution or fracture of the alveolar socket.",
+       "images": [
+        {
+         "src": "img/L3-S11-4.webp",
+         "caption": "Intrusive luxation — DENTAL TRAUMA GUIDE",
+         "video": false,
+         "kind": "illustration"
+        }
+       ]
+      },
+      {
+       "heading": "Avulsion",
+       "body": "The tooth is completely displaced out of its socket.",
+       "images": [
+        {
+         "src": "img/L3-S11-5.webp",
+         "caption": "Avulsion — DENTAL TRAUMA GUIDE",
+         "video": false,
+         "kind": "illustration"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L3-S12",
+     "section": "Terminology",
+     "type": "text",
+     "title": "Wound Healing Definitions - Glossary of Terms",
+     "body": "*Dental Trauma Guide*",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Regeneration",
+       "body": "[not captured]"
+      },
+      {
+       "heading": "Repair",
+       "body": "[not captured]"
+      },
+      {
+       "heading": "Revascularisation",
+       "body": "[not captured]"
+      },
+      {
+       "heading": "Gingival Reattachment",
+       "body": "[not captured]"
+      },
+      {
+       "heading": "Periodontal Ligament Regeneration",
+       "body": "[not captured]"
+      }
+     ]
+    },
+    {
+     "id": "L3-S13",
+     "section": "Terminology",
+     "type": "intro",
+     "title": "Root Resorption",
+     "body": "*Inflammatory x Replacement resorption*\n\nAmerican Association of Endodontics - Glossary of Endodontic terms 2020",
+     "multi": false
+    },
+    {
+     "id": "L3-S14",
+     "section": "Terminology",
+     "type": "text",
+     "title": "External Inflammatory Root Resorption",
+     "body": "**Definition:**\n- The combination of bacteria in the root canal (pulp necrosis) **AND** cemental/PDL damage (luxation injuries) on the external root surface results in external inflammatory root resorption.\n\n**Clinical signs:**\n- The pulp is necrotic\n- Negative sensibility tests\n\n**Radiographic signs:**\n- Radiolucent areas along the root\n\nCase: Both upper incisors were avulsed with prolonged extra-oral time (>10h). Note external inflammatory root resorption is present in the right periapical radiograph (3 months after).\n\n**Internal Inflammatory Root Resorption**\n- Occurs on the pulpal surfaces of the root canal as a result of bacterial infection in the root canal.\n- Not usually associated with Dental Trauma.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S14-0.webp",
+       "caption": "Both upper incisors avulsed, >10h extra-oral; right radiograph 3 months after",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L3-S15",
+     "section": "Terminology",
+     "type": "text",
+     "title": "External Replacement Root Resorption",
+     "body": "**Definition:**\n- A pathologic loss of cementum, dentine and periodontal ligament with subsequent replacement by bone, resulting in fusion of bone and tooth.\n- Also referred to as ankylosis\n- Replacement resorption cannot be arrested or repaired.\n- The rate of progression can vary.\n\n**Clinical signs**\n- Affected tooth presents with reduced mobility\n- High percussion tone\n- Tooth eruption is completely arrested\n- In a growing child, infra-occlusion relative to adjacent teeth can be seen.\n\n**Radiographic signs**\n- Periodontal ligament is absent\n- Direct union is seen between the alveolar bone and the root\n\n**Long-term consequences in a growing child**\n- The affected tooth will not erupt any further and result in horizontal and vertical defects of the alveolar bone.\n- This defect can impact aesthetic rehabilitation in the future.\n- <u>Decoronation</u> is a treatment option for patients with this condition.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S15-0.webp",
+       "caption": "Infra-occlusion (yellow and red dotted lines marking incisal levels)",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L3-S15-1.webp",
+       "caption": "Ankylosed incisor — bottom edge may be slightly cut; rest visible at top of 071",
+       "video": false,
+       "kind": "radiograph"
+      },
+      {
+       "src": "img/L3-S15-2.webp",
+       "caption": "Infra-occluded incisor in growing child",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L3-S16",
+     "section": "Terminology",
+     "type": "text",
+     "title": "External Repair-Related Resorption (Surface Resorption)",
+     "body": "**Definition:**\n- Repair-related external resorption represents the result of the removal of injured periodontal ligament tissue next to the root surface by macrophages and osteoclasts.\n- This is a self-limiting condition.\n- Can occur after all types of luxation injuries but is more frequently found after lateral luxations and extrusions.\n\n**Radiographic signs**\n- It appears as a saucer-shaped cavity on the root surface mostly involving cementum.\n- This cavity will be fully or partially repaired by new cementum (new Sharpey’s fibres).\n- In root fractures, the surface resorption can happen near the fractured site.\n\n**Important:** [rest not captured]",
+     "multi": false
+    },
+    {
+     "id": "L3-S17",
+     "section": "Terminology",
+     "type": "text",
+     "title": "External Cervical Resorption",
+     "body": "**Definition:**\n- An invasive resorption process which usually starts in the cervical area and later spreads in a coronal and/or apical direction.\n- A possible aetiology is that the cementoblast layer, for a still unknown reason, does not protect the root from osteoclastic activity.\n- Dental Trauma is only one possible aetiological factor.\n\n**Clinical signs**\n- It may present as cervical cavitation, irregularity in the gingival contour and/or pinkish discolouration of the overlying enamel.\n- In many cases, there are no obvious clinical signs and detection is by an incidental radiographic finding.\n- It presents as a hard cavity base and periodontal probing often results in profuse bleeding.\n- In advanced cases, the patient can present with pulpal and/or periapical symptoms.\n\n**Radiographical signs**\n- Variable and influenced by the size and nature of the lesion.\n- Often irregular, asymmetrical radiolucency through which the root canal outline is traceable.\n- Periapical radiograph allow evaluation mesial-distal plane but the third dimension (bucco-lingual plane) cannot be assessed objectively.\n- CBCT can be used to aid treatment decision in certain cases and diagnose true ECR size, location, circumferential spread, proximity to root canal system and surgical planning.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S17-0.webp",
+       "caption": "Cervical resorption lesion (red arrow)",
+       "video": false,
+       "kind": "illustration"
+      }
+     ]
+    },
+    {
+     "id": "L3-S18",
+     "section": "Terminology",
+     "type": "text",
+     "title": "Pulp canal obliteration (PCO)",
+     "body": "**Definition:**\n- Deposition of dentine in the pulpal surface of the root canal as a healing response to trauma.\n- Not necessarily indicative of a diseased pulp.\n- This is commonly observed in primary teeth.\n\n**Clinical signs:**\n- Change in colour can be seen.\n\n**Radiographic signs:**\n- Increased dentine production resulting in a calcified canal\n\n**Case:**\n- History of intrusion of the upper left central incisor (21) and corrected by orthodontic extrusion.\n- Pulp canal obliteration was noted at the review appointment after 2 years.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S18-0.webp",
+       "caption": "PCO case: two periapical radiographs",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L3-S19",
+     "section": "Terminology",
+     "type": "text",
+     "title": "Apical Periodontitis",
+     "body": "**Asymptomatic apical periodontitis**\n\nInflammation and destruction of apical periodontium that is of pulpal origin, appears as an apical radiolucent area, and does not produce clinical symptoms\n\n**Symptomatic apical periodontitis**\n\nInflammation usually of the apical periodontium, producing clinical symptoms including a painful response to biting and/or percussion or palpation. It might or might not be associated with an apical radiolucent area.\n\n**Case:**\n\nThis 14-year-old child presented with apical periodontitis in both upper central incisors following dental trauma injury.\n\nNote the apical radiolucent area on the first radiographic exam. After root canal treatment has been completed, the follow-up radiographic exam shows a reduction of the radiolucent area.",
+     "multi": false
+    },
+    {
+     "id": "L3-S20",
+     "section": "Terminology",
+     "type": "intro",
+     "title": "Let’s test your knowledge",
+     "body": "Multiple choice questions",
+     "multi": false
+    },
+    {
+     "id": "L3-S21",
+     "section": "Terminology",
+     "type": "quiz_multi",
+     "question": "Correctly identify the images that correspond to a laceration injury.\n\nYou can select more than one image.",
+     "options": [
+      "[image A: lips/chin with skin wounds]",
+      "[image B: retracted lower lip with mucosal wounds]",
+      "[image C: lower lip wound with red arrow]"
+     ],
+     "multi": true,
+     "images": [
+      {
+       "src": "img/L3-S21-0.webp",
+       "caption": "Option image A",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L3-S21-1.webp",
+       "caption": "Option image B",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L3-S21-2.webp",
+       "caption": "Option image C",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L3-S22",
+     "section": "Terminology",
+     "type": "quiz_single",
+     "question": "Correctly identify the hard tissue injury indicated in the image\n\n(tooth 11; upper right central incisor).",
+     "options": [
+      "Enamel fracture",
+      "Alveolar fracture",
+      "Enamel-dentine fracture"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S22-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L3-S23",
+     "section": "Terminology",
+     "type": "quiz_single",
+     "question": "Correctly identify the hard tissue injury indicated in the image (tooth 11; upper right central incisor).",
+     "options": [
+      "Alveolar fracture",
+      "Enamel-dentine-pulp fracture",
+      "Enamel fracture"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S23-0.webp",
+       "caption": "White arrow on tooth 11",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L3-S24",
+     "section": "Terminology",
+     "type": "quiz_single",
+     "question": "Correctly identify the hard tissue injury indicated in the image\n\n(tooth 31; lower left central incisor).",
+     "options": [
+      "Crown-root fracture",
+      "Enamel-dentine-pulp fracture",
+      "Alveolar fracture"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S24-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L3-S25",
+     "section": "Terminology",
+     "type": "quiz_single",
+     "question": "Tooth 21 was avulsed and replanted after 40min. The radiograph on the right was taken 1 month after the injury. The tooth is responding negatively to sensibility testing.\n\nWhat is the likely diagnosis?",
+     "options": [
+      "External Inflammatory Root Resorption",
+      "Internal Root Resorption",
+      "External Replacement Root Resorption",
+      "External Cervical Resorption",
+      "Repair-related Resorption"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S25-0.webp",
+       "caption": "Two periapicals; red arrow on right one",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L3-S26",
+     "section": "Terminology",
+     "type": "quiz_single",
+     "question": "Tooth 11 suffered a lateral luxation 2 years ago. Given the clinical and radiographic presentation, what is the likely diagnosis?",
+     "options": [
+      "External Replacement Root Resorption",
+      "Internal Root Resorption",
+      "External Inflammatory Root Resorption",
+      "Invasive Cervical Resorption"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L3-S26-0.webp",
+       "caption": "Periapical radiograph (left) + intraoral photo (right)",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L3-S27",
+     "section": "Terminology",
+     "type": "matching",
+     "title": "Match the products with their attributes",
+     "options": [
+      "Displacement of the tooth into the alveolar bone.",
+      "A fracture involving dentine, cementum and the pulp.",
+      "A fracture with loss of tooth substance confined to enamel and dentine not involving the pulp",
+      "An injury to the tooth-supporting structures with abnormal loosening, but without displacement of the tooth"
+     ],
+     "multi": false,
+     "terms": [
+      "Root fracture",
+      "Intrusive luxation",
+      "Subluxation",
+      "Enamel-dentine fracture"
+     ]
+    },
+    {
+     "id": "L3-S28",
+     "section": "Terminology",
+     "type": "slider",
+     "question": "I feel more confident in my understanding of terminologies in dental traumatology after completing this lesson.",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "Strongly Disagree",
+     "max_label": "Strongly Agree"
+    },
+    {
+     "id": "L3-S29",
+     "section": "Terminology",
+     "type": "free_text",
+     "question": "How would you improve this lesson?",
+     "multi": false
+    },
+    {
+     "id": "L3-S30",
+     "section": "Terminology",
+     "type": "text",
+     "title": "Dental Trauma Guide",
+     "body": "We recommend visiting the Dental Trauma Guide Website as an additional tool to increase your learning experience.",
+     "multi": false
+    },
+    {
+     "id": "L3-S31",
+     "section": "Terminology",
+     "type": "text",
+     "title": "Dental Trauma Guide",
+     "body": "Explore the Dental Trauma Guide website (evidence-based treatment guide) — for example, the injury group *Primary teeth*: [dentaltraumaguide.org](https://dentaltraumaguide.org)"
+    },
+    {
+     "id": "L3-S32",
+     "section": "Terminology",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "Nice work. You’ve completed the lesson “Terminologies in Dental Traumatology”.\n\n**Additional Sources**\n1. <u>IADT Website</u>\n2. <u>Dental Trauma Guide Website</u>\n3. <u>AAE - Glossary of Endodontic terms</u>",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Dental Trauma Index",
+   "slides": [
+    {
+     "id": "L4-S1",
+     "section": "Dental Trauma Index",
+     "type": "intro",
+     "title": "Dental Trauma Index",
+     "body": "**Learning Outcomes:**\n\nTo be familiar with the Eden Baysal Dental Trauma Index (EBDTI);\n\nTo be able classify the dental traumatic injuries and soft tissue injuries according to the EBDTI.",
+     "multi": false
+    },
+    {
+     "id": "L4-S2",
+     "section": "Dental Trauma Index",
+     "type": "text",
+     "title": "Eden Baysal Dental Trauma Index",
+     "body": "The Eden-Baysal index is a new 5-digit index that comprises all important information and can be easily computerised.\n\nThe index contains five digits following FDI tooth code. The first two digits contain numbers starting from 0, the third digit contains capital letters, the fourth digit contains lower case first letters and the fifth digit contains plus or minus sign.\n\nIntraoral and radiographic findings are used to record the cases with the index.\n\n**1st digit: Crown fracture**\n\nThe 1st digit after the FDI tooth code stands for hard dental tissue injuries affecting the crown with information on its relation with the pulp and root. Intraoral clinical evaluation is used to gather information for proper coding. Numbers are used to categorise the injury in hierarchical order in relation to severity. The codes are as follows:\n\n- 0 = none\n- 1 = enamel fracture\n- 2 = enamel and dentin fracture = uncomplicated crown fracture\n- 3 = enamel and dentin fracture including the pulp = complicated crown fracture\n- 4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture\n- 5 = Enamel-dentin-cementum fracture including the pulp = [unclear]\n\n**2nd digit: Root fracture**\n\n2nd digit stands for hard dental tissue injury of the root indicating the location of the fracture line. Numbers are used to categorise the injury in a hierarchical nature in relation to its position. The position of the fracture line in relation to the gingival margin defines the severity of the injury and impaired prognosis. In case of an oblique root fracture affecting more than one location on the root, the position of the fracture line close to the cervical region is recorded. The codes used in the second digit are as follows:\n\n- 0 = none\n- 1 = apical 1/3 root fracture\n- 2 = middle 1/3 root fracture\n- 3 = cervical 1/3 root fracture\n\n**3rd digit: Luxation injury**\n\n3rd digit stands for periodontal ligament injuries (Luxation injuries). The type of the periodontal ligament injury that is present is indicated by its first letter written in capitals. The first letters of the luxation injuries are used as follows:\n\n- N = None\n- C = Concussion\n- S = Subluxation\n- L = Lateral luxation\n- E = Extrusive luxation\n- I = Intrusive luxation\n- [unclear: further item(s) not captured]\n\n**4th digit: Maturity and shape of apex**\n\n4th digit stands for maturity of the apex. Radiographic evaluation reveals the characteristics of the apex in both dentitions. In an immature apex, the root has thinner dentin walls, it may be short and the apical foramen is large. In a mature apex, the apical end of the root is completely formed and the periodontal membrane has a uniform width around the root and the apex. In primary dentition, physiological root resorption may be present. Therefore, 3 codes are used in this digit. Lowercase first letters of the words defining the characteristics of the apex are used as below:\n\n- i = immature apex\n- m = mature apex\n- r = resorbed apex (physiological)\n\n**5th digit: Alveolar process fracture**\n\n5th digit indicates the presence or absence of a fracture of the alveolar process and expressed by plus (+) or minus (-) sign, respectively. It is important to note that the fracture should be related to the alveolar process only. The definitions of the codes for this digit are as follows:\n\n- Plus (+) sign = Alveolar process fracture\n- Minus (−) sign = No alveolar fracture\n\n**This index has been modified to include soft tissue (MEBDTI).**\n\n**Soft tissue injury**\n\nSoft tissue injuries affecting skin, lip and/or gingiva are recorded for each patient by adding superscript numbers outside the brackets containing the records of injured teeth and alveolar process recorded by ‘Eden Baysal Dental Trauma Index’. Multiple soft tissue injuries should be written in ascending order separated by commas as superscript numbers.\n\n- 0 = none\n- 1 = skin/lip abrasion\n- 2 = skin/lip laceration\n- 3 = skin/lip contusion\n- 4 = skin/lip avulsion\n- 5 = intra-oral abrasion\n- 6 = intra-oral laceration\n- 7 = intra-oral contusion\n- 8 = intra-oral avulsion",
+     "multi": false
+    },
+    {
+     "id": "L4-S3",
+     "section": "Dental Trauma Index",
+     "type": "text",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L4-S3-0.webp",
+       "caption": "EBDTI summary table: No of tooth (FDI) | 1st digit Crown fracture (0 to 5) | 2nd digit Root fracture (0 to 3) | 3rd digit Luxation Injury (Capital first letters: N = None, C = Concussion, S = Subluxation, E = Extrusive Luxation, L = Lateral Luxation, I = Intrusive Luxation, A = Avulsion) | 4th digit Maturity and shape of apex (Small first letters: i = immature, m = mature, r = resorbed) | 5th digit Alveolar process fracture (+ or −: (+ sign) Alveolar process fracture, (− sign) No alveolar process fracture); with tooth diagram numbered 1-5 for crown and 1-3 for root fracture lines",
+       "video": false,
+       "kind": "illustration"
+      }
+     ]
+    },
+    {
+     "id": "L4-S4",
+     "section": "Dental Trauma Index",
+     "type": "text",
+     "title": "MEBDTI",
+     "body": "1st digit: Crown fracture\n\n[table image]\n\n2nd digit: Root fracture\n\n[table image]\n\n- 3rd digit: Luxation injury\n- 4th digit: Maturity and shape of apex\n- 5th digit: Alveolar process fracture\n\n[table image]\n\nSoft tissue injury\n\n[table image]",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L4-S4-0.webp",
+       "caption": "Table: Number of tooth (FDI) — In parenthesis; 1st digit Crown fracture — 0 to 5: 0 = none; 1 = enamel fracture; 2 = enamel and dentin fracture = uncomplicated crown fracture; 3 = enamel and dentin fracture including the pulp = complicated crown fracture; 4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture; 5 = Enamel-dentin-cementum fracture including the pulp = complicated crown-root fracture (with tooth diagram)",
+       "video": false,
+       "kind": "illustration"
+      },
+      {
+       "src": "img/L4-S4-1.webp",
+       "caption": "Table: 2nd digit Root fracture — 0 to 3: 0 = none; 1 = apical 1/3 root fracture; 2 = middle 1/3 root fracture; 3 = cervical 1/3 root fracture. (Click image for detailed figure)",
+       "video": false,
+       "kind": "illustration"
+      },
+      {
+       "src": "img/L4-S4-2.webp",
+       "caption": "Table: 3rd digit Luxation injury — Capital first letters: N = None, C = Concussion, S = Subluxation, L = Lateral luxation, E = Extrusive luxation, I = Intrusive luxation, A = Avulsion; 4th digit Maturity and shape of apex — Small first letters: i = immature, m = mature, r = resorbed; 5th digit Alveolar process fracture — + or −: + sign = Alveolar process fracture, – sign = No alveolar fracture",
+       "video": false,
+       "kind": "illustration"
+      }
+     ]
+    },
+    {
+     "id": "L4-S5",
+     "section": "Dental Trauma Index",
+     "type": "text",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L4-S5-0.webp",
+       "caption": "Table: Soft tissue injury | MEBDTI (*) code | Figure | Clinical example — None 0; Skin/lip abrasion 1; Skin/lip laceration 2; Skin/lip contusion 3; Skin/lip avulsion 4; Intra-oral abrasion 5; Intra-oral laceration 6; Intra-oral contusion 7; Intra-oral avulsion 8 (each row with a diagram and a clinical photo)",
+       "video": false,
+       "kind": "illustration"
+      }
+     ]
+    },
+    {
+     "id": "L4-S6",
+     "section": "Dental Trauma Index",
+     "type": "text",
+     "title": "Case-based Learning",
+     "body": "Let’s see some examples in real case scenarios:",
+     "multi": false
+    },
+    {
+     "id": "L4-S7",
+     "section": "Dental Trauma Index",
+     "type": "carousel",
+     "multi": false,
+     "items": [
+      {
+       "heading": null,
+       "body": "This 8-year old patient avulsed her upper right central incisor and an additional alveolar fracture is present.\n\n- Tooth FDI notation: (11)\n- 1st digit: Crown fracture - 0\n- 2nd digit: Root fracture - 0\n- 3rd digit: Luxation injury - A\n- 4th digit: Maturity and shape of apex: i\n- 5th digit: Alveolar process fracture - +\n\n**Final index: [(11)00Ai+]**",
+       "images": [
+        {
+         "src": "img/L4-S7-0.webp",
+         "caption": "Panel 1: occlusal view, avulsed upper right central incisor with alveolar fracture",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "This 12 year-old patient presented with a enamel-dentine-cementum fracture including the pulp (complicated crown-root fracture) on his upper right central incisor.\n\n- Tooth FDI notation: (11)\n- 1st digit: Crown fracture - 5\n- 2nd digit: Root fracture - 0\n- 3rd digit: Luxation injury - 0\n- 4th digit: Maturity and shape of apex: m\n- 5th digit: Alveolar process fracture: -\n\n**Final index: (11)500m-**",
+       "images": [
+        {
+         "src": "img/L4-S7-1.webp",
+         "caption": "Panel 2: two intraoral photos of complicated crown-root fracture of 11 (framed composite)",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "This 10 year-old patient presented with a enamel dentine fracture (uncomplicated crown fracture) on the upper right central incisor. A laceration and contusion on his upper lip is present.\n\n- Tooth FDI notation: (11)\n- 1st digit: Crown fracture - 2\n- 2nd digit: Root fracture - 0\n- 3rd digit: Luxation injury - 0\n- 4th digit: Maturity and shape of apex: i\n- 5th digit: Alveolar process fracture: -\n\n**Final index: [(11)200i-]<sup>3,2</sup>**",
+       "images": [
+        {
+         "src": "img/L4-S7-2.webp",
+         "caption": "Panel 3: periapical radiograph + intraoral photo of crown fracture + upper lip laceration/contusion (composite)",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "This 7 year-old patient presented with subluxation on both her upper central incisors. Radiographic examination revealed a fracture on the middle 1/3 of the root of the upper right central incisor. An abrasion on his upper lip is present.\n\nTooth FDI notation: 11/21\n\n- 1st digit: Crown fracture - 0-0\n- 2nd digit: Root fracture - 2-0\n- 3rd digit: Luxation injury - S-S\n- 4th digit: Maturity and shape of apex: i-i\n- 5th digit: Alveolar process fracture: - -\n\n**Final index: [(11)02Si-, (21)00Si-]<sup>1</sup>**",
+       "images": [
+        {
+         "src": "img/L4-S7-3.webp",
+         "caption": "Panel 4: intraoral photo + periapical radiograph of upper central incisors (composite)",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L4-S8",
+     "section": "Dental Trauma Index",
+     "type": "statements",
+     "title": "True or false?",
+     "body": "Which of these statements related to the Eden Baysal Dental Trauma Index are true?\n\n<u>*Swipe the incorrect statements to the left and the true statements to the right.*</u>",
+     "multi": false,
+     "statements": [
+      "The 2nd digit should be used to describe presence and types of Luxation injuries",
+      "The 5th digit should be used to describe presence of Alveolar Fractures",
+      "The 2nd digit should be used to describe presence and types of Root Fractures",
+      "Palmer notation should be used to identify the traumatised teeth.",
+      "4th digit corresponds to the Maturity and shape of apex",
+      "The 1st digit should be used to describe presence and types of Crown fractures"
+     ]
+    },
+    {
+     "id": "L4-S9",
+     "section": "Dental Trauma Index",
+     "type": "statements",
+     "question": "Is the following statement true or false?",
+     "multi": false,
+     "statements": [
+      "Left central incisor with extrusive luxation can be described with the 5-digit code: (11)00Ei-"
+     ]
+    },
+    {
+     "id": "L4-S10",
+     "section": "Dental Trauma Index",
+     "type": "statements",
+     "question": "Is the following statement true or false?",
+     "multi": false,
+     "statements": [
+      "Right lateral incisor with crown root fracture with pulp exposure and immature root development: (12)50Ni-"
+     ]
+    },
+    {
+     "id": "L4-S11",
+     "section": "Dental Trauma Index",
+     "type": "statements",
+     "question": "Is the following statement true or false?",
+     "multi": false,
+     "statements": [
+      "Left central incisor with crown facture with pulp exposure and lateral luxation with alveolar process fracture will get the code: (21)30Lm+"
+     ]
+    },
+    {
+     "id": "L4-S12",
+     "section": "Dental Trauma Index",
+     "type": "statements",
+     "question": "Is the following statement true or false?",
+     "multi": false,
+     "statements": [
+      "Lateral incisor with crown fracture in dentin without pulp exposure and root fracture in apical third of the root with mature apex (12)21Nm-"
+     ]
+    },
+    {
+     "id": "L4-S13",
+     "section": "Dental Trauma Index",
+     "type": "slider",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "",
+     "max_label": "",
+     "question": "I feel more confident in my understanding of the Dental Trauma Index after completing this lesson."
+    },
+    {
+     "id": "L4-S14",
+     "section": "Dental Trauma Index",
+     "type": "free_text",
+     "title": "How would you improve this lesson?",
+     "multi": false
+    },
+    {
+     "id": "L4-S15",
+     "section": "Dental Trauma Index",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "Nice work.\nYou’ve completed the Dental Trauma Index lesson\n\n**Additional Sources**\n\n1. <u>Eden Baysal Dental Trauma Index Manual</u>\n2. <u>Eden Baysal Dental Trauma Index: Face and content validation</u>\n1. <u>Extension of a novel diagnostic index to include soft tissue injuries: Modified Eden Baysal Dental Trauma Index</u>",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Examination and Special Tests",
+   "slides": [
+    {
+     "id": "L5-S1",
+     "section": "Examination and Special Tests",
+     "type": "intro",
+     "title": "Examination and Special Tests",
+     "body": "**Learning Outcomes:**\n\nTo be able to obtain a good medical, dental and dental trauma history\n\nTo be able to provide adequate extra and intra oral clinical examination, including special tests.",
+     "multi": false
+    },
+    {
+     "id": "L5-S2",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Medical History",
+     "body": "Obtaining a good medical history is essential to provide safe and effective management of Dental Traumatic Injuries.\n\nWherever possible, a comprehensive medical history should commence with information relating to pregnancy and birth, the neonatal period, and early childhood.\n\nPrevious and current problems associated with each of the major systems should be elicited through careful questioning, and here a pro forma may well be helpful.\n\n**Systems evaluation**\n\n- Respiratory (e.g. asthma, hayfever)\n- Cardiovascular (e.g. congenital heart defects, high blood pressure, history of angina/cardiac procedures).\n- Haematological (e.g. bleeding disorders, anaemia, bruising).\n- Immunological (e.g. predisposition to infections, immunodeficiencies)\n- Endocrine (e.g. diabetes)\n- Gastrointestinal (e.g. Chron’s disease, ulcers, reflux)\n- Neuromuscular (e.g. cerebral palsy, muscular dystrophy, neuropathies)\n- Skeletal (rheumatoid arthritis, osteoporosis, other traumatic fractures).\n- Behaviour or learning problem (e.g. attention-deficit hyperactivity disorder, autism)\n\n**History of Hospitalisations**\n\nThis include history of previous hospitalisations (age and cause of admission, operations, previous treatments under GA).\n\n**List of current medications**\n\nRegular prescriptions, recent/current medication allergies (format: tablers, liquid, inhalers).\n\n**Revelant family medical history**\n\nProblems with GA, allergies, bleeding disorders, any sibling with significant medical history.\n\n**History of vaccinations**\n\nCheck if the patient has been previously vaccinated against tetanus. The place of the accident may indicate a need for tetanus prophylaxis (as most teeth have been in contact with soil, or the wound itself is soil-contaminated).",
+     "multi": false
+    },
+    {
+     "id": "L5-S3",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Questions related to the Injury",
+     "body": "**Where did the injury occur?**\n\nThis information may have legal implications for the patient and may on occasion indicate the possibility of contamination.\n\n**How did the injury occur?**\n\nThis may lead to identification of the impact zones.\n\n**When did the injury occur?**\n\nThis information may be essential in relation to many injury types. In relation to a tooth avulsion the extent of time and the extraoral storage condition becomes very decisive for later treatment.\n\n**Was the injury witnessed?**\n\nThis is especially important in children to clarify how the injury occured.\n\n**Was there a period of unconsciousness?**\n\nIf so, for how long? Amnesia, nausea and vomiting are all signs of brain damage and require hospital referral (emergency services).\n\n**Is there any disturbance in the bite?**\n\nAn affirmative answer may indicate a luxation injury or root fracture with displacement, an alveolar or jaw fracture or a fracture of the condylar region.\n\n**Was any treatment provided elsewhere?**\n\nPrevious treatment (replantation, repositioning, splinting) should be considered before further treatment is provided. It is also important to ascertain how the avulsed tooth was stored (dry, milk, water).\n\n**History of previous dental injuries**\n\nWhen? Which teeth were injured? Treatment provided and by whom?\n\nA number of patients may have experienced repeated injuries to their teeth. This can influence pulpal sensibility tests and the recuperative capacity of the pulp and/or PDL.\n\n**Account for missing fragments**\n\nHave you chipped or fractures any teeth? If so, where are these fragments now? Check for any soft tissue lacerations (intra and extra orally) since the fragment(s) can be embedded in soft tissue. In this case, a soft tissue radiograph will be recommended.\n\n**Questions for avulsed teeth**\n\n- Where were the teeth found? (dirt, asphalt,floor)\n- When were the teeth found?\n- Were the teeth dirty?\n- When were the teeth replanted?\n- Extra-oral time? Extra-oral dry time?\n- Storage medium?\n- Was tetanus antitoxoid given?\n- Were antibiotics given?",
+     "multi": false
+    },
+    {
+     "id": "L5-S4",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Clinical Examination",
+     "body": "The clinician should evaluate systematically both soft and hard tissue, extra and intra-orally.\n\n- Clean the tissues gently to remove any blood or debris to facilitate diagnosis.\n- Provide good extra-oral examination and palpation of facial skeleton (check for subcutaneos haematomas)\n- Evaluate temporomandibular joints (palpate directly over the joint while the patient opens and closes the mandible)\n- Check for disturbances in the occlusion (e.g. step deformities)\n- Evaluate extra and intra-oral soft tissues (record any soft tissue injuries, including oral mucosa, gingiva and lips).\n- Exam the crowns of teeth for the presence and extent of fractures, pulp exposures or changes in colour.\n- Record any displacement of teeth (luxation injuries).\n- Check for abnormal mobility of teeth and alveolar process.",
+     "multi": false
+    },
+    {
+     "id": "L5-S5",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Mobility Test",
+     "body": "Mobility testing should determine the extent of loosening of individual teeth and mobility of groups of teeth (an indication of alveolar fracture). Mobility is best assessed using 2 blunt instruments such as mirror handles.\n\nThe degree of mobility is registered on a scale of 0 – 3 and is an aid in defining the type of luxation.\n\n**Classification:**\n\n0 = no loosening (physiological mobility)\n\n1 = horizontal loosening ≤ 1 mm\n\n2 = horizontal loosening ≥ 1 mm\n\n3 = vertical (axial) loosening\n\n**Important considerations:**\n\nIt is important, however, to distinguish between normal physiologic mobility and no mobility which is found in cases of intrusion and lateral luxation at the time of injury, or ankylosis in the follow-up period.\n\n‘ 0 ‘ mobility should, therefore, be used in conjunction with percussion testing in order to distinguish between normal physiologic mobility and no mobility (see below).",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S5-0.webp",
+       "caption": "Mobility test video (poster)",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L5-S6",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Percussion Test",
+     "body": "Percussion testing can be performed with the handle of a metal instrument.\n\n**Tenderness to percussion** - indicate damage to the PDL.\n\n**Percussion tone** - A high, metallic tone implies that the injured tooth is locked into bone (common in luxation injuries). At the follow-up examinations, this tone indicates ankylosis (replacement resorption).\n\nHorizontal Percussion:\n\n[video]\n\nVertical Percussion:\n\n[video]",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S6-0.webp",
+       "caption": "Percussion with instrument handle on upper incisor",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L5-S6-1.webp",
+       "caption": "Horizontal Percussion video (poster)",
+       "video": true,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L5-S6-2.webp",
+       "caption": "Vertical Percussion video (poster)",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L5-S7",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Periodontal Probing",
+     "body": "- Gently probe the periodontal tissues to evaluate periodontal probing dephts, presence of bleeding on probing, periodontal pockets and/or extent of fractures.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S7-0.webp",
+       "caption": "Periodontal probing video (poster)",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L5-S8",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Palpation",
+     "body": "- Palpate the injured teeth, including the alveolar process, and record any steps, swellings or patient discomfort/pain.\n\nSee video below where the dentist is palpating the buccal sulcus in the area of the traumatised tooth (11).",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S8-0.webp",
+       "caption": "Palpation of buccal sulcus video (poster)",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L5-S9",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Photographic Documentation",
+     "body": "The use of clinical photographs is strongly recommended for the initial documentation of the injury and for follow-up examinations.\n\nPhotographic documentation allows monitoring of soft tissue healing, assessment of tooth discoloration, the re-eruption of an intruded tooth, and the development of infra-positioning of an ankylosed tooth.\n\nIn addition, photographs provide medico-legal documentation that could be used in litigation cases.\n\n*Reference: 2020 IADT Guidelines*",
+     "multi": false
+    },
+    {
+     "id": "L5-S10",
+     "section": "Examination and Special Tests",
+     "type": "carousel",
+     "multi": false,
+     "items": [
+      {
+       "heading": null,
+       "body": "Extra-oral photograph – frontal view (smile).",
+       "images": [
+        {
+         "src": "img/L5-S10-0.webp",
+         "caption": "Extra-oral photograph – frontal view (smile).",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "Extra-oral photograph – lateral view (resting position)",
+       "images": [
+        {
+         "src": "img/L5-S10-1.webp",
+         "caption": "Extra-oral photograph – lateral view (resting position)",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "Extra-oral photograph – lateral view (smiling)",
+       "images": [
+        {
+         "src": "img/L5-S10-2.webp",
+         "caption": "Extra-oral photograph – lateral view (smiling)",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "Intra-oral photograph– frontal view",
+       "images": [
+        {
+         "src": "img/L5-S10-3.webp",
+         "caption": "Intra-oral photograph– frontal view",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "Intra-oral photograph – occlusal view",
+       "images": [
+        {
+         "src": "img/L5-S10-4.webp",
+         "caption": "Intra-oral photograph – occlusal view",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "Photographs of avulsed/extracted hard/soft tissues.",
+       "images": [
+        {
+         "src": "img/L5-S10-5.webp",
+         "caption": "Photographs of avulsed/extracted hard/soft tissues.",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L5-S11",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Sensibility Testing",
+     "body": "Sensibility testing refers to methods/tests utilised to <u>indirectly</u> determine pulp status (cold test and electric pulp test) by assessing <u>neural response</u> to a stimulus and not pulp vitality.\n\n**Important considerations:**\n\n- All pulpal stimulation is only perceived as pain and this can be inconclusive in younger children due to lack of patient cooperation/understanding of the test.\n- Pulp sensibility testing is not recommended in primary teeth.\n- Wait until the pain is gone before moving on to the next tooth\n- The temporary loss of sensibility is a frequent finding during post-traumatic pulp healing, and therefore <u>is not conclusive</u> for pulp necrosis in traumatised teeth.",
+     "multi": false
+    },
+    {
+     "id": "L5-S12",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Cold test",
+     "body": "Stimulates hydrodynamic movement of dentinal fluid within patent dentine tubules leading to local depolarisation and generation of action potentials from intact A-delta fibres.\n\n<u>Methods</u>\n\n- Example of commercial product: Endo-Frost® (-50°C)\n- Isolate and dry the tooth\n- Apply the product using a small cotton pellet to the tooth for a maximum of 10s or until a response is felt.\n- If re-testing is deemed necessary, wait for at least 1 minute to allow the tooth to recover",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S12-0.webp",
+       "caption": "Cold test video (poster) — cut off at bottom",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L5-S13",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Electric Pulp Test (EPT)",
+     "body": "Low-grade electric current stimulates intact myelinated A-delta fibres within the pulp-dental complex.\n\nA positive response can relate to the presence of functional neurons however, it does not equate to pulpal health.\n\n<u>Methods</u>\n\n- The tooth needs to be lubricated with toothpaste/prophy paste to facilitate the conduction of electrical impulses\n- Be familiar with your pulp tester machine (e.g. lip or hand electrode is usually needed to complete the circuit)\n- The probe tip needs to be placed on an intact surface within the incisal two-thirds of the crown.\n- A “tingling” sensation will be felt by the patient (positive response).\n- A negative response is established after the digital display reached its maximum level, with no reaction from the patient (test it twice)\n\nSee below where the applicator tip is being placed over prophy paste for the electric pulp test of tooth 11. Note that the prophy paste should be only the placed at one tooth at a time.\n\n[video]",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S13-0.webp",
+       "caption": "EPT probe tip on prophy paste on upper incisor",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L5-S13-1.webp",
+       "caption": "EPT video (poster) — cut off at bottom",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L5-S14",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Limitations",
+     "body": "<u>Sensibility tests</u>\n\n- Patient anxiety\n- Paediatric patients (level of understanding and behaviour)\n- Contacting metal restorations\n- Inadequately dried teeth: conduction of current to periodontium\n- Analgesia, sedative, drugs/alcohol\n- Presence of pulp canal obliteration (PCO)",
+     "multi": false
+    },
+    {
+     "id": "L5-S15",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Test Cavity",
+     "body": "- This method should only be used where pulp necrosis is the likely diagnosis but all other tests provided inconclusive results.\n- Single tooth isolation is recommended to prevent false positive results.\n- The tooth is not anesthetised and the dentist drills a small hole into the tooth (usually on the palatal surface for incisors) to reach the enamel-dentine junction.\n- The patient is asked if they feel any pain during drilling. If the patient experiences pain upon contact with sound dentine, the procedure is terminated and the cavity is restored.\n- If the patient does not respond, root canal treatment should be initiated (confirmed pulp necrosis).\n- This test is not recommended for young children because they might not be able to distinguish pressure and pain[?] [unclear: text cut off]",
+     "multi": false
+    },
+    {
+     "id": "L5-S16",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Radiographic Examination",
+     "body": "The clinician should evaluate each case and determine which radiographs are required for the specific case.\n\nA clear justification for taking a radiograph is essential.\n\nThe clinician should always perform a comprehensive interpretation of the radiographic findings and report it as part of the dental trauma documentation.",
+     "multi": false
+    },
+    {
+     "id": "L5-S17",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Current Guidelines\n\nRadiographic Examination",
+     "multi": false,
+     "items": [
+      {
+       "heading": "ALADAIP",
+       "body": "The use of ALADAIP principles (As Low As Diagnostically Achievable being Indication-oriented and Patient-specific) can help prevent unnecessary exposure as well as overexposure.\n\nA guiding principle when considering exposing a patient to ionizing radiations (eg, either 2D or 3D radiographs) is whether the image is likely to change the management of the injury."
+      },
+      {
+       "heading": "Film Holder",
+       "body": "The use of film holders is highly recommended to allow standardised and reproducible intra-oral radiographs."
+      },
+      {
+       "heading": "Use of different views",
+       "body": "Radiographs are necessary to make a thorough diagnosis of dental injuries. Tooth root and bone fractures, for instance, may occur without any clinical signs or symptoms and are frequently undetected when only one radiographic view is used."
+      },
+      {
+       "heading": "Recommended radiographs (IADT guidelines 2020)",
+       "body": "Since maxillary central incisors are the most frequently affected teeth, the radiographs listed below are recommended to thoroughly examine the injured area:\n\n1. One parallel periapical radiograph aimed through the midline to show the two maxillary central incisors.\n2. One parallel periapical radiograph aimed at the maxillary right lateral incisors (should also show the right canine and central incisor).\n3. One parallel periapical radiograph aimed at the maxillary left lateral incisor (should also show the left canine and central incisor).\n4. One maxillary occlusal radiograph.\n5. At least one parallel periapical radiograph of the lower incisors centred on the two mandibular centrals. However, other radiographs may be indicated if there are [unclear: text cut off]"
+      },
+      {
+       "heading": "CBCT",
+       "body": "Cone beam computerised tomography (CBCT) provides enhanced visualisation of traumatic dental injuries, particularly root fractures, crown/root fractures, and lateral luxations.\n\nCBCT helps to determine the location, extent, and direction of a fracture. In these specific injuries, 3D imaging can be useful and should be considered, if available."
+      }
+     ]
+    },
+    {
+     "id": "L5-S18",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Periapical radiograph\n\nPermanent dentition",
+     "body": "This image shows an example of a periapical radiograph (maxillary anterior area) using a size 2 film - permanent dentition. Note that tooth 21 has been intruded and note the delayed eruption of tooth 22.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S18-0.webp",
+       "caption": "Periapical radiograph, permanent dentition",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L5-S19",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Periapical radiograph\n\nMixed dentition",
+     "body": "This image shows an example of a periapical radiograph (maxillary anterior area) using a size 1 film - mixed dentition.\n\nNote that teeth 51 and 52 are still present with evidence of root resorption. Tooth 21 has fully erupted while tooth 11 is unerupted.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S19-0.webp",
+       "caption": "Periapical radiograph, mixed dentition",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L5-S20",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Periapical radiograph\n\nPrimary dentition",
+     "body": "This image shows an example of a periapical radiograph (maxillary anterior area) using a size 0 film - primary dentition.\n\nNote that tooth 62 has been intruded and its successor (22) is in a close relationship with its root. This is a young child (2 years old) - observe the stage of tooth development of permanent successors (21/22).",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S20-0.webp",
+       "caption": "Periapical radiograph, primary dentition",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L5-S21",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Maxillary occlusal radiograph\n\nPrimary dentition",
+     "body": "This image shows an example of a maxillary occlusal radiograph using a size 2 film (primary dentition)\n\nNote that tooth 61 presents external root resorption (mid-third of the root).",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S21-0.webp",
+       "caption": "Maxillary occlusal radiograph, primary dentition",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L5-S22",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Maxillary occlusal radiograph\n\nPermanent dentition",
+     "body": "This image shows an example of a maxillary occlusal radiograph using a size 4 film.\n\nNote that teeth 12 and 22 are missing.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S22-0.webp",
+       "caption": "Maxillary occlusal radiograph, permanent dentition",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L5-S23",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Orthopantomogram (OPG)",
+     "body": "This image shows an example of a Orthopantomogram (OPG) radiograph.\n\nThis 10-year old boy had severe intrusion of his permanent central incisors (11/21) and an enamel-dentine fracture is present on teeth 12, 11 and 21.\n\nAn OPG has been requested to investigate possible mandibular/condylar fractures.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S23-0.webp",
+       "caption": "Orthopantomogram (OPG)",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L5-S24",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Lateral cephalometric",
+     "body": "This image shows an example of a lateral cephalometric radiograph. This is often requested as part of orthodontic treatment planning.\n\nThis girl has avulsed two central incisors and has been referred for orthodontic treatment. Her increased overjet (11mm) and position of the lips (lip trap) are risk factors for repeated trauma.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S24-0.webp",
+       "caption": "Lateral cephalometric radiograph",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L5-S25",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Soft tissue radiograph (lip)",
+     "body": "This image shows a soft tissue radiograph of a lower lip.\n\nThis patient had an enamel-dentine fracture on a permanent central incisor and a laceration on his lower lip. After radiographic examination, the fragment has been found within the soft tissue.\n\nFor this purpose, the exposure time is reduced to one third of the original exposure.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S25-0.webp",
+       "caption": "Soft tissue radiograph of lower lip showing tooth fragment",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L5-S26",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Cone-beam Computed Tomography (CBCT)",
+     "body": "- Cone beam computerized tomography (CBCT) provides enhanced visualisation of TDIs, particularly root fractures, crown/root fractures, and lateral luxations.\n- CBCT can hep to determine the location, extent, and direction of a fracture.\n- It should only be used in cases where 3D imaging is likely to change the management of the injury when compared to other methods that generates lower levels of ionising radiation (such as periapical radiographs).\n\nNote that in the above case a CBCT exam was performed to locate the unerupted 21.\n\n[unclear: further text cut off]",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S26-0.webp",
+       "caption": "Intraoral photo + two CBCT 3D reconstructions locating unerupted 21 (composite)",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L5-S27",
+     "section": "Examination and Special Tests",
+     "type": "text",
+     "title": "Case-based learning",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Item 1 (photo)",
+       "body": "Tooth 21 presented with increased mobility after a TDI. No coronal fractures were noted on clinical examination."
+      },
+      {
+       "heading": "Item 2 (radiographs)",
+       "body": "Radiographic examination reviewed cervical root fracture on tooth 21. The tooth has been previously root canal treated.\n\nA clear fracture line can be seen in the image on the right - note the separation of the root canal filling material."
+      },
+      {
+       "heading": "Item 3 (video)",
+       "body": "On vertical percussion, blanching of the gingival margin can be noted (presence of soft tissue growth in the fracture line)."
+      }
+     ],
+     "images": [
+      {
+       "src": "img/L5-S27-0.webp",
+       "caption": "Item 1 thumbnail: frontal intraoral photo with wire-composite splint",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L5-S27-1.webp",
+       "caption": "Item 1 enlarged: frontal intraoral photo, tooth 21 with increased mobility",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L5-S27-2.webp",
+       "caption": "Item 2 thumbnail: two periapical radiographs of 21",
+       "video": false,
+       "kind": "radiograph"
+      },
+      {
+       "src": "img/L5-S27-3.webp",
+       "caption": "Item 2 enlarged: two periapical radiographs, cervical root fracture of root-filled 21 (arrow on right image)",
+       "video": false,
+       "kind": "radiograph"
+      },
+      {
+       "src": "img/L5-S27-4.webp",
+       "caption": "Item 3: vertical percussion video (poster), bottom slightly cut",
+       "video": true,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L5-S27-5.webp",
+       "caption": "Item 3 enlarged: video frame during playback",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L5-S28",
+     "section": "Examination and Special Tests",
+     "type": "quiz_single",
+     "question": "3-YEAR OLD CHILD\nHISTORY OF SUBLUXATION OF TOOTH 51 - TWO WEEKS AGO",
+     "options": [
+      "The cold test is the most reliable sensibility test for this case since it generates of action potentials from intact A-delta fibres.",
+      "An electric pulp test (EPT) can be used in this case if there is a negative response to the cold test.",
+      "Both cold test and electric pulp tests are essential in determining the pulp status of tooth 51.",
+      "Sensibility tests are not recommended for primary teeth."
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L5-S28-0.webp",
+       "caption": "3-YEAR OLD CHILD / HISTORY OF SUBLUXATION OF TOOTH 51 - TWO WEEKS AGO (text is part of the image card; first line underlined)",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L5-S28-2.webp",
+       "caption": "Case card: '3-YEAR OLD CHILD / HISTORY OF SUBLUXATION OF TOOTH 51 - TWO WEEKS AGO' with circular intraoral photo of primary incisors",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L5-S29",
+     "section": "Examination and Special Tests",
+     "type": "statements",
+     "question": "An 8-year-old child suffered an extrusive luxation injury on tooth 11.\n\nTwo weeks later you reviewed the patient and removed the splint.\n\nThe only abnormal findings was a negative response to cold test.\n\nIs the following statement true or false?",
+     "multi": false,
+     "statements": [
+      "The pulp is definitively necrotic."
+     ]
+    },
+    {
+     "id": "L5-S30",
+     "section": "Examination and Special Tests",
+     "type": "statements",
+     "title": "True or false?",
+     "body": "Which of these statements is true?\n\nSwipe the false statements to the left and the true statements to the right.",
+     "multi": false,
+     "statements": [
+      "Sensibility testing in young patients can be challenging due to their level of understanding and expected behaviour.",
+      "A negative response to sensibility testing is a common finding after lateral luxation injuries",
+      "The electric pulp tester stimulates type C pain fibers"
+     ]
+    },
+    {
+     "id": "L5-S31",
+     "section": "Examination and Special Tests",
+     "type": "slider",
+     "body": "Scale 0 (Strongly Disagree) to 5 (Strongly Agree). DRAG TO SELECT A RESPONSE",
+     "question": "I feel more confident in my understanding of examination and special tests in dental traumatology after completing this lesson.",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "",
+     "max_label": ""
+    },
+    {
+     "id": "L5-S32",
+     "section": "Examination and Special Tests",
+     "type": "free_text",
+     "body": "Type your response",
+     "question": "How would you improve this lesson?",
+     "multi": false
+    },
+    {
+     "id": "L5-S33",
+     "section": "Examination and Special Tests",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "Nice work. You’ve completed the lesson on Examination and Special Tests.\n\n**Additional Sources**\n1. <u>Levin 2013 - Pulp and periradicular testing</u>\n2. <u>Dental Trauma Guide Website</u>\n\n[Exit Lesson]",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Trauma Splint",
+   "slides": [
+    {
+     "id": "L6-S1",
+     "section": "Trauma Splint",
+     "type": "intro",
+     "title": "Trauma Splint",
+     "body": "**Learning outcomes:**\nTo be familiar with indications for splinting traumatised teeth, types of splints and recommended splinting times.\n\n[START]",
+     "multi": false
+    },
+    {
+     "id": "L6-S2",
+     "section": "Trauma Splint",
+     "type": "intro",
+     "title": "Splinting Traumatised Teeth",
+     "body": "[OK, let’s go!]",
+     "multi": false
+    },
+    {
+     "id": "L6-S3",
+     "section": "Trauma Splint",
+     "type": "carousel",
+     "title": "Splinting Traumatised Teeth",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Splinting Traumatised Teeth",
+       "body": "**A splint is required when teeth are mobile or need to be repositioned following a traumatic injury.**\n- The aim of splinting is to stabilise the injured tooth and maintain its position throughout the splinting period, improve function and provide comfort.\n- The International Association for Dental Traumatology (IADT) recommend splinting for luxated, avulsed and root-fractured teeth.\n- Splinting might be also recommended for teeth with subluxation.\n- Current evidence supports short-term, passive and flexible splints.\n- Correct splinting is important to maximise healing of the soft and hard tissues, and prevent further injury."
+      },
+      {
+       "heading": "Effective splints should:",
+       "body": "- Be functional: it incorporates at least one uninjured tooth on either side of the traumatised tooth or teeth\n- Be flexible: allow for physiological tooth movement\n- Allow adequate oral hygiene\n- Be comfortable for the patient\n- Not irritate the soft tissues\n- Allow pulp sensibility testing\n- Allow endodontic access (if required)\n- Not interfere with the occlusion\n- Be easy to apply\n- Be easy to remove without causing iatrogenic damage to the tissu[?]\n\n<u>Article: Tips for splinting traumatised teeth</u>"
+      },
+      {
+       "heading": "<u>COMPOSITE AND WIRE SPLINT</u>",
+       "body": "Wire secured to the teeth with composite is the most favored and widely-used splint, and can be used in almost all types of tooth injury.\n- The stainless steel wire should be pre-contoured to conform to the teeth and the diameter must not exceed 0.4mm or 0.016” to remain flexible.\n- The wire used should be passive in nature and not exert any unwanted orthodontic forces."
+      },
+      {
+       "heading": "<u>NYLON FISHING LINE</u>",
+       "body": "Nylon fishing line (0.13-0.25 mm) can be used to create a flexible splint, with composite to bond it to the teeth."
+      },
+      {
+       "heading": "<u>RESIN SPLINT (Protemp 3M ESPE)</u>",
+       "body": "Composite resin splints are quick to apply but can lead to gingival irritation as they can be very difficult to clean and prone to fracture.\n\nComposite splints are rigid and therefore not recommended.\n\nProtemp splint can be useful as a temporary emergency measure when the dentist is outside of the dental setting.\n\nIt should be replaced as soon as possible with a flexible splint."
+      },
+      {
+       "heading": "<u>FIBRE SPLINT (Ribbond)</u>",
+       "body": "Fibre splints consist of weaved polyethylene fibres (Ribbond) or glass fibres in a polymer-resin gel matrix (EverStick).\n\nIts advantages include high strength, easy to adapt and aesthetic."
+      },
+      {
+       "heading": "<u>TITANIUM SPLINT</u> (Medartis).",
+       "body": "Titanium trauma splints are flexible titanium splints with a rhomboid mesh structure which are easily secured to teeth with a flowable composite.\n\nIts main disadvantage is the high cost."
+      },
+      {
+       "heading": "<u>SUTURE SPLINT</u>",
+       "body": "Suture splints may be required if there are multiple missing teeth, or in the mixed dentition where conventional splinting is not possible."
+      }
+     ],
+     "images": [
+      {
+       "src": "img/L6-S3-0.webp",
+       "caption": "Composite and wire splint",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L6-S3-1.webp",
+       "caption": "Nylon fishing line splint",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L6-S3-2.webp",
+       "caption": "Resin splint (Protemp 3M ESPE)",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L6-S3-3.webp",
+       "caption": "Fibre splint (Ribbond)",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L6-S3-4.webp",
+       "caption": "Titanium splint (Medartis)",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L6-S3-5.webp",
+       "caption": "Suture splint",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L6-S4",
+     "section": "Trauma Splint",
+     "type": "text",
+     "title": "Splinting times (duration) according to\n\nIAPD Guidelines 2020",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Root fracture",
+       "body": "**4 WEEKS**\nStabilise the mobile coronal segment with a passive and flexible splint for 4 weeks\n**UP TO 4 MONTHS**\nIf the fracture is located cervically, stabilisation for a longer period of time (up to 4 months) may be needed."
+      },
+      {
+       "heading": "Alveolar Fracture",
+       "body": "**4 WEEKS**\nStabilise the segment by splinting the teeth with a passive and flexible splint for 4 weeks."
+      },
+      {
+       "heading": "Subluxation",
+       "body": "**2 WEEKS**\nA passive and flexible splint may be required to stabilise the tooth for up to 2 weeks in case of excessive mobility or tenderness when biting on the tooth."
+      },
+      {
+       "heading": "Extrusive Luxation",
+       "body": "**2 WEEKS**\nStabilise the tooth for 2 weeks using a passive and flexible splint."
+      },
+      {
+       "heading": "Lateral Luxation",
+       "body": "**4 WEEKS**\nStabilise the tooth for 4 weeks using a passive and flexible splint. If breakdown/fracture of the marginal bone or alveolar socket wall, additional splinting may be required"
+      },
+      {
+       "heading": "Avulsion",
+       "body": "**2 WEEKS**\nStabilise the tooth for 2 weeks using a passive and flexible splint."
+      }
+     ]
+    },
+    {
+     "id": "L6-S5",
+     "section": "Trauma Splint",
+     "type": "text",
+     "title": "What about intrusion?",
+     "body": "When surgical repositioning is indicated according to the IADT guidelines, the tooth should be splinted with a passive and flexible splint for **4 weeks.**\n\n**Check the guideline:**\n1. <u>IADT Guideline for Fractures and Luxations</u>",
+     "multi": false
+    },
+    {
+     "id": "L6-S6",
+     "section": "Trauma Splint",
+     "type": "intro",
+     "title": "Let’s test your knowledge",
+     "body": "Case-based learning\n\n[OK, let’s go!]",
+     "multi": false
+    },
+    {
+     "id": "L6-S7",
+     "section": "Trauma Splint",
+     "type": "quiz_single",
+     "question": "What is the correct splinting time for the below injuries?",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Avulsion",
+       "body": "- 2 weeks\n- 4 weeks up to 4 months\n- 3 weeks"
+      },
+      {
+       "heading": "Subluxation",
+       "body": "- No need for splinting\n- 2 weeks always\n- 2 weeks if increased mobility"
+      },
+      {
+       "heading": "Root fracture",
+       "body": "- 4 weeks to 4 months\n- 1 week\n- 2 weeks"
+      }
+     ]
+    },
+    {
+     "id": "L6-S8",
+     "section": "Trauma Splint",
+     "type": "quiz_single",
+     "question": "What is the correct splinting time for the injury on the upper left central incisor?\nSee image below.",
+     "options": [
+      "2 weeks",
+      "4 weeks up to 4 months.",
+      "4 weeks"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L6-S8-0.webp",
+       "caption": "Upper left central incisor injury (expandable image)",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L6-S9",
+     "section": "Trauma Splint",
+     "type": "quiz_single",
+     "question": "What is the correct splinting time for the intruded and surgically respositioned central incisor?",
+     "options": [
+      "4 weeks",
+      "2 weeks",
+      "4 weeks up to 4 months."
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L6-S9-0.webp",
+       "caption": "Two-panel clinical image: intruded incisor (top) and after surgical repositioning and splinting (bottom)",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L6-S10",
+     "section": "Trauma Splint",
+     "type": "quiz_single",
+     "question": "A 25 year-old patient\n\navulsed tooth 21.\n\nAfter replantation, the minimum splint should extend from:",
+     "options": [
+      "13 to 23",
+      "11 to 21",
+      "11 to 22"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L6-S11",
+     "section": "Trauma Splint",
+     "type": "slider",
+     "body": "Scale 0 (Strongly Disagree) to 10 (Strongly Agree), labelled ticks 0,2,4,6,8,10. DRAG TO SELECT A RESPONSE",
+     "question": "I feel more confident in my understanding of splinting for traumatised teeth after completing this lesson.",
+     "multi": false,
+     "min": 0,
+     "max": 10,
+     "min_label": "",
+     "max_label": ""
+    },
+    {
+     "id": "L6-S12",
+     "section": "Trauma Splint",
+     "type": "free_text",
+     "body": "Type your response",
+     "question": "How would you improve this lesson?",
+     "multi": false
+    },
+    {
+     "id": "L6-S13",
+     "section": "Trauma Splint",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "You’ve completed “Trauma Splint” lesson of our course.\n\n**Additional Sources**\n1. <u>Article: Tips for splinting traumatised teeth</u>\n2. <u>IADT Website</u>\n3. <u>Dental Trauma Guide Website</u>\n4. <u>IADT Guidelines - Avulsion of Permanent Teeth.</u>\n5. <u>IADT Guideline for Fractures and Luxations</u>\n\n[Exit Lesson]",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Uncomplicated Crown Fractures",
+   "slides": [
+    {
+     "id": "L7-S1",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "intro",
+     "title": "Uncomplicated Crown Fractures",
+     "body": "Enamel infraction\nEnamel fracture\nEnamel-dentine fracture",
+     "multi": false
+    },
+    {
+     "id": "L7-S2",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Enamel Infraction",
+     "body": "An incomplete fracture (crack or crazing) of the enamel, without loss of tooth structure.\n\n[illustration]\n\nInfraction lines are usually best seen when the light beam is directed parallel to the long axis of the tooth.\n\n[photo]\n\nNote that tooth 11 presents a crazing of the enamel without loss of tooth structure.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L7-S2-0.webp",
+       "caption": "Illustration: tooth in alveolus with magnified inset of enamel crack",
+       "video": false,
+       "kind": "illustration"
+      },
+      {
+       "src": "img/L7-S2-1.webp",
+       "caption": "Two lateral views of incisors; right panel with transillumination and red arrow showing infraction line on tooth 11",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L7-S3",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Enamel Infraction",
+     "body": "IADT Guidelines 2020",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Clinical Findings",
+       "body": "- No sensitivity to percussion or palpation\n- Normal mobility\n- Pulp sensibility tests are usually positive\n\n**Important:** evaluate the tooth for a possible associated luxation injury or root fracture, especially if tenderness is observed."
+      },
+      {
+       "heading": "Radiographic findings",
+       "body": "- No radiographic abnormalities\n\n**Recommended radiographs:**\n- One parallel periapical radiograph\n- Additional radiographs are indicated if signs or symptoms of other potential injuries are present"
+      },
+      {
+       "heading": "Treatment",
+       "body": "Usually no treatment is necessary.\n\n**Severe infractions:** sealing with flowable resin should be considered to prevent discoloration and bacterial contamination of the infractions."
+      },
+      {
+       "heading": "Follow-up",
+       "body": "- No follow-up is needed if it is certain that the tooth suffered an infraction injury only.\n- If there is an <u>associated injury</u> such as a luxation injury, that injury-specific follow-up regimen prevails."
+      },
+      {
+       "heading": "Favourable Outcomes",
+       "body": "- Asymptomatic\n- Positive response to pulp sensibility testing\n- Continued root development in immature teeth"
+      },
+      {
+       "heading": "Unfavorable outcomes",
+       "body": "- Symptomatic\n- Pulp necrosis and infection\n- Apical periodontitis\n- Lack of further root development in immature teeth"
+      }
+     ]
+    },
+    {
+     "id": "L7-S4",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Enamel Fracture",
+     "body": "A fracture confined to the enamel with loss of tooth structure.\n\n[illustration]\n\nSee the video below to understand the aetiology of the injury:\n\n[video]",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L7-S4-0.webp",
+       "caption": "Illustration: tooth in alveolus with magnified inset of enamel fracture",
+       "video": false,
+       "kind": "illustration"
+      },
+      {
+       "src": "img/L7-S4-1.webp",
+       "caption": "Video poster: lateral view of incisors and instrument (aetiology of enamel fracture)",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L7-S5",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Enamel Fracture",
+     "body": "IADT Guidelines 2020",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Clinical Findings",
+       "body": "- Loss of enamel with no visible sign of exposed dentin\n- Normal mobility\n- Pulp sensibility tests usually positive\n\n**Important:**\n- Evaluate the tooth for any other possible traumatic dental injury, especially if tenderness is observed.\n- Missing fragments should be accounted for!"
+      },
+      {
+       "heading": "Radiographic findings",
+       "body": "- Enamel loss is visible\n\n**Recommended radiographs:**\n- One parallel periapical radiograph\n- Additional radiographs are indicated if signs or symptoms of other potential injuries are present\n\n**Soft tissue radiograph:**\nIf the fragment is missing and there are soft tissue injuries, radiographs of the lip and/or cheek are indicated to search for tooth fragments."
+      },
+      {
+       "heading": "Treatment",
+       "body": "- Polishing of tooth edges\n- Tooth fragment reattachment\n- Composite resin restoration"
+      },
+      {
+       "heading": "Follow-up",
+       "body": "Clinical and radiographic evaluations are necessary:\n- After 6-8 weeks\n- After 1 year"
+      },
+      {
+       "heading": "Favourable Outcomes",
+       "body": "- Asymptomatic\n- Positive response to pulp sensibility testing\n- Good quality restoration\n- Continued root development in immature teeth"
+      },
+      {
+       "heading": "Unfavorable outcomes",
+       "body": "- Symptomatic\n- Pulp necrosis and infection\n- Apical periodontitis\n- Loss/failure of restoration\n- Lack of further root development in immature teeth"
+      }
+     ]
+    },
+    {
+     "id": "L7-S6",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Enamel Fracture",
+     "body": "**Smooth Edges**\nFor very small or minor enamel fractures, it can be smoothed to remove rough margins and edges. This can be performed with a polishing bur or polishing discs.\n\n**Restoration** Depending on the patient’s behaviour and aesthetics demands, a small restoration with composite resin can be used to reestablish form and contour.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L7-S6-0.webp",
+       "caption": "Before/after: fractured incisal edge smoothed (arrow)",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L7-S7",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Enamel-Dentine Fracture",
+     "body": "A fracture confined to enamel and dentin with loss of tooth structure, but not involving the pulp.\n\n[illustration]\n\nSee the video below to understand the aetiology of the injury:\n\n[video]",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L7-S7-0.webp",
+       "caption": "Illustration: tooth in alveolus with enamel-dentine fracture",
+       "video": false,
+       "kind": "illustration"
+      },
+      {
+       "src": "img/L7-S7-1.webp",
+       "caption": "Video poster: lateral view of incisors, instrument and fragment (aetiology of enamel-dentine fracture)",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L7-S8",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Enamel-Dentine Fracture",
+     "body": "IADT Guidelines 2020",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Clinical Findings",
+       "body": "- Loss of enamel and dentine tissues, with no visible pulp exposure\n- Normal mobility\n- Pulp sensibility tests usually positive\n- No sensitivity to percussion or palpation\n\n**Important:**\n- Evaluate the tooth for any other possible traumatic dental injury, especially if tenderness is observed.\n- Missing fragments should be accounted for!"
+      },
+      {
+       "heading": "Radiographic findings",
+       "body": "- Enamel-dentine loss is visible\n\n**Recommended radiographs:**\n- One parallel periapical radiograph\n- Additional radiographs are indicated if signs or symptoms of other potential injuries are present\n\n**Soft tissue radiograph:**\nIf the fragment is missing and there are soft tissue injuries, radiographs of the lip and/or cheek are indicated to search for tooth fragments."
+      },
+      {
+       "heading": "Treatment",
+       "body": "Treatment consists primarily of protecting the pulp from external insults and restoring normal function and aesthetics. This can be achieved by:\n- Tooth fragment reattachment\n- Composite resin restoration\n- Temporary glass ionomer restoration"
+      },
+      {
+       "heading": "Follow-up",
+       "body": "Clinical and radiographic evaluations are necessary:\n- After 6-8 weeks\n- After 1 year"
+      },
+      {
+       "heading": "Favourable Outcomes",
+       "body": "- Asymptomatic\n- Positive response to pulp sensibility testing\n- Good quality restoration\n- Continued root development in immature teeth"
+      },
+      {
+       "heading": "Unfavorable outcomes",
+       "body": "- Symptomatic\n- Pulp necrosis and infection\n- Apical periodontitis\n- Loss/failure of restoration\n- Lack of further root development in immature teeth"
+      }
+     ]
+    },
+    {
+     "id": "L7-S9",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Fragment Reattachment",
+     "body": "Enamel-Dentine Fracture\n\n**Pulp Protection**\nIf the exposed dentin is within 0.5 mm of the pulp, a non-setting calcium hydroxide lining can be placed.\n\n[photo]\n\n**Fragment Reattachment**\nIf the tooth fragment is available and intact, it can be bonded back on to the tooth.\n\nThe fragment should be rehydrated by soaking in water or saline for 20 min before bonding\n\n[photo]\n\n**Step-by-Step:**\n- Clean the tooth and isolate the tooth area\n- Etch the tooth surface with phosphoric acid 37% for 30 seconds\n- Wash and dry the tooth surface\n- Apply bonding agent with a microbrush on the tooth surface; air thin dry and light cure\n- Apply an intermediate material (e.g. flowable resin or resin cement) on the fragment surface to be reattached\n- Position the tooth fragment firmly against the tooth surface, remove any excess of the intermediate material and lightcure.\n\n[photo]\n\n- A V- shaped external double chamfer along the junction line and a double-chamfer on the fracture line on the buccal and lingual surfaces can be used to improve aesthetics.\n\nFragment reattachment is the prefered option if the intact fragment is available.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L7-S9-0.webp",
+       "caption": "Enamel-dentine fracture of upper left central incisor with fragment displaced",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L7-S9-1.webp",
+       "caption": "Fragment reattached",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L7-S9-2.webp",
+       "caption": "Final result after fragment reattachment",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L7-S10",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Composite resin restoration",
+     "body": "Enamel-Dentine Fracture\n\nWhen the intact fragment is not available\n\n**Pulp Protection**\nIf the exposed dentine is within 0.5 mm of the pulp, a calcium hydroxide lining can be placed.\n\n[photo]\n\n**Surface Preparation**\n- When using resin composite build-up, optimal aesthetics and function can be achieved when the fracture edges are prepared with a 1–2 mm wide [unclear — text between screenshots not captured]\n- Rinse and dry the tooth\n- Apply a thin layer of the adhesive system of choice (air-thin dry to remove any excess of the bonding system).\n- Polymerisation (light cure).\n\n[photo]\n\n- Restore the tooth with composite resin.\n- Direct mock-up with composite resin can be used using a silicone index obtained from a wax-up.\n- Otherwise, a free-hand composite resin restoration can be performed.\n- Finishing and polishing stage with abrasive discs and diamond burs for the texture can be used to improve aesthetic results.\n\n**Important**: In cases where fragment reattachment or composite resin restoration can not be performed, an emergency procedure that comprises the application of a temporary glass ionomer restoration is indicated to prevent bacterial invasion into the dentine tubules.\n\n**Concomitant luxation injuries:** Restoration with composite resin restoration can be difficult to perform on teeth with increased mobility and gingival bleeding. In this case, a temporary restoration is indicated since a dry operative field is difficult to maintain.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L7-S10-0.webp",
+       "caption": "Enamel-dentine fracture of upper left central incisor (before restoration)",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L7-S10-1.webp",
+       "caption": "After composite resin restoration",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L7-S11",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Expected Outcomes\n\nfollowing uncomplicated crown fractures",
+     "body": "**PULP**\n- The risk of pulpal complications is minimal for uncomplicated crown fractures.\n- The tooth should be monitored up to 1 year after the injury - if sensibility testing is normal, no further review is needed.\n- The risk of pulp necrosis is significantly increased in the case of an additional luxation injury.\n- It is important to review the restoration - in case of failure, a repair/replacement of the restoration should be performed.",
+     "multi": false
+    },
+    {
+     "id": "L7-S12",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "text",
+     "title": "Expected Outcomes\n\nfollowing uncomplicated crown fractures",
+     "body": "**PDL**\n- Periodontal complications are extremely rare after crown fractures and consist only of repair-related resorption.\n- The risk of PDL-related outcomes (replacement/inflammatory root resorption) is significantly increased in the case of an additional luxation injury.",
+     "multi": false
+    },
+    {
+     "id": "L7-S13",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "intro",
+     "title": "Time to check your knowledge!",
+     "body": "[OK, let’s go!]",
+     "multi": false
+    },
+    {
+     "id": "L7-S14",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "statements",
+     "title": "True or false?",
+     "body": "Which of these statements is true?\n\nSwipe the FALSE statements to the left and the TRUE statements to the right.",
+     "multi": false,
+     "statements": [
+      "The dentist should wait 2-4 weeks before restoring an enamel-dentine fracture due to the chances of revascularisation.",
+      "A radiograph should be taken every 3 months to monitor pulp vitality for enamel-dentine fractures.",
+      "A soft tissue radiograph should always be taken in cases if fragment unaccounted for and there are soft tissue injuries. Radiographs of the lip and/or cheek are indicated to search for tooth fragments and/or foreign materials.",
+      "In an enamel dentine fracture, the exposed dentine should be covered to prevent bacterial invasion in dentine tubules.",
+      "The dentist should always take a soft tissue radiograph in order to locate the missing fragment from an enamel-dentine fracture.",
+      "Partial pulpotomy (Cvek pulpotomy) is the treatment of choice for if the exposed dentine is within 0.5 mm of the pulp (pink but no bleeding),",
+      "If there is an associated luxation, root fracture or the suspicion of an associated luxation injury, the luxation follow-up regimen prevails and should be used.",
+      "Treatment alternatives for enamel fractures also include non-restorative treatment."
+     ]
+    },
+    {
+     "id": "L7-S15",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "quiz_single",
+     "body": "WHAT’S YOUR ANSWER? / SELECT THE CORRECT ANSWER",
+     "question": "YOUR PATIENT HAD AN ENAMEL-DENTINE FRACTURE ON A PERMANENT CENTRAL INCISOR. YOU HAVE DONE A COMPOSITE RESIN RESTORATION TODAY AS EMERGENCY MANAGEMENT.\n\nDo you need to see the patient again?",
+     "options": [
+      "Yes. The patient should return after 6-8 weeks for clinical and radiographic examination.",
+      "No. The definitive treatment has been provided.",
+      "Yes. The patient should only return if there is a failure of the restoration."
+     ],
+     "multi": false
+    },
+    {
+     "id": "L7-S16",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "quiz_multi",
+     "question": "Which of the following are treatment options to the above injury?\nSelect all that apply.",
+     "options": [
+      "Polish sharp edges",
+      "No treatment",
+      "Composite resin restoration"
+     ],
+     "multi": true,
+     "images": [
+      {
+       "src": "img/L7-S16-0.webp",
+       "caption": "Enamel fracture of upper central incisors",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L7-S17",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "slider",
+     "body": "Scale 0 (Strongly Disagree) to 5 (Strongly Agree). DRAG TO SELECT A RESPONSE",
+     "question": "I feel more confident in my understanding of <u>uncomplicated crown fractures</u> after completing this lesson.",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "",
+     "max_label": ""
+    },
+    {
+     "id": "L7-S18",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "free_text",
+     "body": "Type your response",
+     "question": "How would you improve this lesson?",
+     "multi": false
+    },
+    {
+     "id": "L7-S19",
+     "section": "Uncomplicated Crown Fractures",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "Nice work. You’ve completed Level 3 of our course - Examination and Special Tests.\n\n**Additional Sources**\n1. <u>IADT Website</u>\n2. <u>Dental Trauma Guide Website</u>\n3. <u>Tooth fragment reattachment techniques-A systematic review. Garcia et al., 2017</u>\n\n[Exit Lesson]",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "title": "Complicated Crown Fractures",
+   "slides": [
+    {
+     "id": "L8-S1",
+     "section": "Complicated Crown Fractures",
+     "type": "intro",
+     "title": "Complicated Crown Fractures",
+     "body": "Enamel-dentine-pulp fracture\n\n**Learning Outcomes:**\n\nTo be knowledgeable of complicated crown fractures, including the assessment, immediate management, long-term prognosis and treatment options.",
+     "multi": false
+    },
+    {
+     "id": "L8-S2",
+     "section": "Complicated Crown Fractures",
+     "type": "text",
+     "title": "Enamel-Dentine-Pulp Fracture",
+     "body": "A fracture confined to enamel and dentin with pulp exposure.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L8-S2-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "illustration"
+      }
+     ]
+    },
+    {
+     "id": "L8-S3",
+     "section": "Complicated Crown Fractures",
+     "type": "text",
+     "title": "Enamel-Dentine-Pulp Fracture",
+     "body": "IADT Guidelines 2020",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Clinical Findings",
+       "body": "- A fracture confined to enamel and dentine with pulp exposure\n- Depending on the absence or presence of a concomitant luxation injury, the pulp will present with a bright red, cyanotic or ischemic appearance, respectively.\n- There may be spontaneous bleeding from the pulp.\n- Normal mobility\n- No sensitivity to percussion or palpation\n- Exposed pulp is sensitive to stimuli (eg, air, cold, sweets)\n\n**Important:**\n\n- Evaluate the tooth for any other possible traumatic dental injury, especially if tenderness is observed."
+      },
+      {
+       "heading": "Radiographic findings",
+       "body": "- Enamel-dentine loss is visible\n\n**Recommended radiographs:**\n\n- One parallel periapical radiograph\n- Additional radiographs are indicated if signs or symptoms of other potential injuries are present\n\n**Soft tissue radiograph:**\n\n- If the fragment is missing and there are soft tissue injuries, radiographs of the lip and/or cheek are indicated to search for tooth fragments."
+      },
+      {
+       "heading": "Treatment",
+       "body": "- Partial pulpotomy (Cvek Pulpotomy) for teeth with open apices and teeth with completed root development.\n- Non-setting calcium hydroxide or non-staining calcium silicate cements are suitable materials to be placed on the pulp wound.\n- If a post is required for crown retention in a mature tooth with complete root formation, root canal treatment is the preferred treatment\n- If the tooth fragment is available, it can be bonded back onto the tooth after rehydration and the exposed pulp is treated\n- In the absence of an intact crown fragment for bonding, cover the exposed dentin with glass ionomer or use a bonding agent and composite resin"
+      },
+      {
+       "heading": "Follow-up",
+       "body": "Clinical and radiographic evaluations are necessary:\n\n- after 6-8 weels\n- after 3 months\n- after 6 months\n- after 1 year\n\n**Important:**\n\n- If there is an associated luxation, root fracture or the suspicion of an associated luxation injury, the luxation follow-up regimen prevails and should be used.\n- Longer follow-ups will be needed"
+      },
+      {
+       "heading": "Favourable Outcomes",
+       "body": "- Asymptomatic\n- Positive response to pulp sensibility testing\n- Good quality restoration\n- Continued root development in immature teeth"
+      },
+      {
+       "heading": "Unfavorable outcomes",
+       "body": "- Symptomatic\n- Pulp necrosis and infection\n- Apical periodontitis\n- Loss/failure of restoration\n- Tooth discolouration\n- Lack of further root development in immature teeth"
+      }
+     ]
+    },
+    {
+     "id": "L8-S4",
+     "section": "Complicated Crown Fractures",
+     "type": "text",
+     "title": "Direct pulp capping",
+     "body": "**Criteria for direct pulp capping**\n\n- Only indicated for immediate treatment of small pulpal exposures (pin point exposure)\n- Direct pulp capping should be avoided in cases with delayed presentation and greater than pinpoint exposures.\n\n**Steps of the Procedure:**\n\n- Local anaesthesia may be required.\n- The tooth should be adequately isolated\n- A dressing material is placed directly over the pulp exposed area (“pinpoint exposure”)\n- Non staining calcium silicate cements or calcium hydroxide should be applied to the wound and compressed slightly.\n\n**Restoration:**\n\n- A thin layer of glass ionomer cement can be applied over the dressing material.\n- The tooth can be restored using dental adhesive with either conventional resin composite build-up or crown fragment reattachment.\n\n**Important:**\n\n- A temporary glass ionomer restoration can be performed in case of a lack of moisture control.",
+     "multi": false
+    },
+    {
+     "id": "L8-S5",
+     "section": "Complicated Crown Fractures",
+     "type": "text",
+     "title": "Partial Pulpotomy",
+     "body": "Also known as Cvek Pulpotomy\n\n**Criteria for Cvek Pulpotomy**\n\n- Partial pulpotomy can be performed up to 9 days following traumatic pulp exposure\n- The outcome does not appear to be affected by exposure size if less than 4 mm\n- High success rate in teeth in teeth with open apices but can also be used in teeth with closed apices.\n\n**Steps of the Procedure:**\n\n- Local anaesthesia and rubber dam isolation\n- Remove 1–3 mm of the exposed pulp (removal of the inflamed superficial pulp tissue up to the level of a healthy pulp) using a round carbide or diamond bur (box-like cavity).\n- Place a sterile cotton pellet over the pulp to achieve haemostasis (thin should occur within 5 minutes).\n- If haemostasis is not achieved in 5min, a full pulpotomy is required.\n- Place non-staning calcium silicate cements (such as MTA or Biodentine) or non-setting calcium hydroxide over the pulp and compress slightly.\n\n[VIDEO]\n\n**Restoration:**\n\n- A thin layer of glass ionomer cement should be applied over the medicament.\n- The tooth can be restored using dental adhesive with either conventional resin composite build-up or crown fragment reattachment.\n- A temporary restoration with glass ionomer restoration can be performed in certain circumstances.\n\n**Important:**\n\n- Depending on the extent of the complicated crown fracture, evaluation by a multidisciplinary team should be considered when deciding the best restorative technique.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L8-S5-0.webp",
+       "caption": "",
+       "video": true,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L8-S5-1.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L8-S6",
+     "section": "Complicated Crown Fractures",
+     "type": "text",
+     "title": "Expected Outcomes following complicated crown fractures",
+     "body": "- Partial pulpotomy and pulp capping present high success rates with respect to pulp survival.\n- Radiographic evidence of hard tissue closure of the exposure can be seen 3 months after treatment.\n- It is important to review the restoration - in case of failure, a repair/replacement of the restoration should be performed.\n- Continued root development is expected in teeth with open apices.\n- Delayed presentation (greater than 9 days) increases the chances of pulp necrosis.\n- The risk of pulp necrosis is significantly increased where there is an additional luxation injury.",
+     "multi": false
+    },
+    {
+     "id": "L8-S7",
+     "section": "Complicated Crown Fractures",
+     "type": "text",
+     "title": "Expected Outcomes following complicated crown fractures",
+     "body": "**PDL**\n\n- Periodontal complications are extremely rare after complicated crown fractures and consist only of repair-related resorption.\n- The risk of PDL-related outcomes (replacement/inflammatory root resorption) is significantly increased where there is an additional luxation injury.",
+     "multi": false
+    },
+    {
+     "id": "L8-S8",
+     "section": "Complicated Crown Fractures",
+     "type": "text",
+     "title": "Case-based Learning",
+     "body": "A 10-year old boy fell from his bike. He attended for treatment 30 hours after the incident. There was no relevant medical history.\n\nIn this case, apart from a complete trauma history, it is important to <u>locate</u> the missing fragment.\n\nAlways check for any intra and extra-oral lacerations (in case it is embedded in the soft tissues) or any breathing difficulties (aspiration).\n\nIf the fragment is found, it can be used for fragment reattachment. In this case, the fragment could not be located.\n\n**Clinical presentation:**\n\nNote that a complicated crown fracture is present on tooth 21 (enamel-dentine-pulp fracture). The pulp is clearly exposed. It is important to check for increased mobility or displacement to diagnose any additional luxation injury (impact on prognosis).\n\nThe exposed pulp can sensitive to stimuli (eg, air, cold, sweets)\n\n**Radiographic Assessment:**\n\nOne parallel periapical radiograph was taken. Observe that no root fractures was noted and the apex is not completely closed yet. Note that the fracture line is above the bone level.\n\n**Emergency Treatment:**\n\nIn patients where teeth have immature roots and open apices, it is very important to preserve the pulp. Partial pulpotomy was performed in order to promote further root development.\n\nIn this case, non-staining calcium silicate cement (CSC) was applied over the pulp.\n\nResin-modified glass ionomer cement (RMGIC) was placed over the CSC and the tooth was then restored with composite resin.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L8-S8-0.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L8-S8-1.webp",
+       "caption": "",
+       "video": false,
+       "kind": "radiograph"
+      },
+      {
+       "src": "img/L8-S8-2.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L8-S8-3.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L8-S8-4.webp",
+       "caption": "",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L8-S9",
+     "section": "Complicated Crown Fractures",
+     "type": "blanks",
+     "question": "Clinical and radiographic evaluations are necessary after _ to _ weeks and after __ , _ and ___ months.",
+     "multi": false
+    },
+    {
+     "id": "L8-S10",
+     "section": "Complicated Crown Fractures",
+     "type": "text",
+     "title": "True or false?",
+     "body": "Which of these statements is true? Swipe the false statements to the left and the true statements to the right.\n\nOK, I'm ready!",
+     "multi": false,
+     "missing": true
+    },
+    {
+     "id": "L8-S11",
+     "section": "Complicated Crown Fractures",
+     "type": "quiz_single",
+     "question": "Partial pulpotomy (Cvek pulpotomy) can be performed in:",
+     "options": [
+      "teeth with open apex only",
+      "teeth with open and closed apex",
+      "teeth with closed apex only"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L8-S12",
+     "section": "Complicated Crown Fractures",
+     "type": "slider",
+     "question": "I feel more confident in my understanding of <u>complicated crown fractures </u>after completing this lesson.",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "Strongly Disagree",
+     "max_label": "Strongly Agree"
+    },
+    {
+     "id": "L8-S13",
+     "section": "Complicated Crown Fractures",
+     "type": "free_text",
+     "title": "How would you improve this lesson?",
+     "question": "How would you improve this lesson?",
+     "multi": false
+    },
+    {
+     "id": "L8-S14",
+     "section": "Complicated Crown Fractures",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "Nice work. You’ve completed the lesson “Complicated crown fractures”!\n\n**Additional Sources**\n\n1. <u>IADT Website</u>\n2. <u>Dental Trauma Guide Website</u>\n3. <u>Tooth fragment reattachment techniques-A systematic review. Garcia et al., 2017</u>\n\nExit Lesson",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "title": "Avulsion of Permanent Teeth",
+   "slides": [
+    {
+     "id": "L9-S1",
+     "section": "Avulsion of Permanent teeth",
+     "type": "intro",
+     "title": "Avulsion of Permanent teeth",
+     "body": "**Learning Outcomes:**\n\nTo understand the importance of the correct emergency management for attaining the best outcome after an avulsion injury;\n\nTo understand the possible favourable and unfavourable outcomes for permanent teeth avulsion.",
+     "multi": false
+    },
+    {
+     "id": "L9-S2",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Avulsion of Permanent Teeth",
+     "body": "The tooth is completely displaced out of its socket.",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L9-S2-0.webp",
+       "caption": "AVULSION",
+       "video": false,
+       "kind": "illustration"
+      }
+     ]
+    },
+    {
+     "id": "L9-S3",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Baseline Clinical Diagnosis",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Visual signs",
+       "body": "The tooth is removed from its socket."
+      },
+      {
+       "heading": "Percussion test",
+       "body": "Not indicated."
+      },
+      {
+       "heading": "Mobility test",
+       "body": "Not indicated"
+      },
+      {
+       "heading": "Sensibility test",
+       "body": "Not indicated"
+      }
+     ]
+    },
+    {
+     "id": "L9-S4",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L9-S4-0.webp",
+       "caption": "",
+       "video": true,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L9-S5",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "First AID",
+     "multi": false,
+     "items": [
+      {
+       "heading": "AT THE PLACE OF ACCIDENT",
+       "body": "1) Keep the patient calm\n\n2) Find the tooth and pick it up by the crown (the white part) - avoid touching the root\n\n3) If the tooth is dirty, rinse it gently in milk, saline or in the patient’s saliva and encourage the patient/parent to replant the tooth in the original position in the jaw.\n\n4) Bite on a tissue to hold the replanted tooth in position.\n\n5) Seek emergency dental treatment immediately."
+      },
+      {
+       "heading": "IF REPLANTATION AT THE ACCIDENT SITE IS NOT POSSIBLE",
+       "body": "1) Keep the patient calm\n\n2) Instruct the patient to:\n\n- Locate the tooth and any fragments if possible.\n- Place the tooth, as soon as possible, in a storage or transport medium that is immediately available at the emergency site.\n\n**In descending order of preference:**\n\n**Milk > HBSS > Saliva > Saline**\n\n*\\*Although water is a poor medium, it is better than allowing the tooth dry out*\n\n- See a dentist immediately and bring the tooth with them."
+      }
+     ]
+    },
+    {
+     "id": "L9-S6",
+     "section": "Avulsion of Permanent teeth",
+     "type": "carousel",
+     "title": "TREATMENT GUIDELINES FOR AVULSED PERMANENT TEETH",
+     "multi": false,
+     "items": [
+      {
+       "heading": "TREATMENT GUIDELINES FOR AVULSED PERMANENT TEETH",
+       "body": "The choice of treatment is related to the <u>maturity of the root</u> (open or closed apex) and the condition of the <u>periodontal ligament (PDL) cells</u>.\n\nThe condition of the PDL cells is dependent on the **time out of the mouth** and on the **storage medium** in which the avulsed tooth was kept."
+      },
+      {
+       "heading": "",
+       "body": "**Minimizing the dry time is critical for survival of the PDL cells.**\n\nIt is critical to record information regarding:\n\n- Extra-oral total time (EOT)\n- Extra-oral dry time (EODT)\n- Storage medium"
+      }
+     ],
+     "images": [
+      {
+       "src": "img/L9-S6-0.webp",
+       "caption": "Separation of PDL and exposure of root surface",
+       "video": false,
+       "kind": "illustration"
+      }
+     ]
+    },
+    {
+     "id": "L9-S7",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Assessing the condition of the PDL cells of an avulsed tooth",
+     "multi": false,
+     "items": [
+      {
+       "heading": "The PDL cells are most likely viable",
+       "body": "The tooth has been replanted immediately or within a very short time (about 15 minutes) at the place of accident."
+      },
+      {
+       "heading": "The PDL cells may be viable but compromised.",
+       "body": "The tooth has been kept in a storage medium (eg, milk, HBSS (Save-a-Tooth or similar product), saliva, or saline, and the total extra-oral dry time has been <60 minutes)."
+      },
+      {
+       "heading": "The PDL cells are likely to be non-viable.",
+       "body": "The total extra-oral dry time has been more than 60 minutes, regardless of the tooth having been stored in a medium or not."
+      }
+     ]
+    },
+    {
+     "id": "L9-S8",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Treatment Guidelines for avulsed permanent teeth",
+     "body": "**with CLOSED APEX**\n\nOK, let’s go!",
+     "multi": false
+    },
+    {
+     "id": "L9-S9",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Treatment Guidelines",
+     "body": "If the tooth has been replanted <u>**at the site of injury or before the patient’s arrival at the dental clinic:**</u>\n\n**1) Clean the injured area.**\n\n- Verify the correct position of the replanted tooth both clinically and radiographically.\n\n**2) Leave the tooth/teeth in place.**\n\n- If the tooth is malpositioned, correct it using slight digital pressure.\n- If the tooth or teeth were replanted in the wrong socket or rotated, consider repositioning the tooth/teeth into the proper location up to 48 hours after the traumatic incident.\n\n**3) Stabilise the tooth for 2 weeks**\n\n- Use a passive flexible splint and make sure that the area is cleansible.\n\n**4) If there is an associated alveolar or jawbone fracture:**\n\n- A more rigid splint is indicated and should be left in place for 4 weeks.\n\n**5) Suture gingival lacerations, if present. 6) Initiate root canal treatment within 2 weeks after replantation.**\n\n- The pulp should be removed in avulsed teeth with closed apex.\n- Calcium hydroxide is recommended as an intracanal medicament for up to 1 month followed by root canal filling.\n\n**7) Administer systemic antibiotics.**\n\n- The use of systemic antibiotics after avulsion and replantation has been recommended to prevent infection-related reactions and to reduce the occurrence of inflammatory root resorption.\n- **ADD LINK TO HSE AB**\n\n**8) Check tetanus vaccination status.**\n\n- If the wound contains dirt or a foreign object the patient needs to be evaluated for the need for a tetanus immunisation.\n\n**9) Provide post-operative instructions.**\n\n- Keep the area clean: brush teeth with a soft toothbrush after each meal.\n- Use chlorhexidine (0.12% to 0.2%) mouth rinse or gel twice a day for 2 weeks.\n- Maintain a soft diet for up to 2 weeks.\n- Avoid participation in contact sports.\n\n**10) Follow-up appointment in 2 weeks.**\n\n- Review, removal of splint and initiate root canal treatment.",
+     "multi": false
+    },
+    {
+     "id": "L9-S10",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Treatment Guidelines",
+     "body": "If the tooth has been kept in a physiologic storage medium or stored in non-physiologic conditions, <u>**with the extra-oral dry time less than 60 minutes:**</u>\n\n**1) Clean the tooth**\n\n- Remove loose debris and visible contamination from the tooth by gently agitating it in the storage medium or using a stream saline.\n- Keep the tooth in a storage medium during the examination and while preparing for replantation\n\n**2) Local Anaesthesia**\n\n- Administer local anesthesia (preferably without a vasoconstrictor) and clean the injured area\n\n**3) Examine the alveolar socket**\n\n- If there is a fracture of the socket wall, reposition the fractured fragment into its original position with a suitable instrument.\n- Remove the coagulum with a saline stream to allow better repositioning of the tooth\n\n**4) Replant the tooth**\n\n- Replant the tooth slowly with slight digital pressure.\n- Excessive force should not be used to replant the tooth\n- Verify the correct position of the replanted tooth both clinically and radiographically.\n\n**5) Stabilise the tooth for 2 weeks**\n\n- Use a passive flexible splint (e.g. wire of a diameter up to 0.4 mm) bonded to the tooth and adjacent teeth. Alternatively, nylon fishing line (0.13-0.25 mm) can be used to create a flexible splint, using composite to bond it to the teeth.\n- Keep the composite and bonding agents away from the gingival tissues and proximal areas.\n- If there is an associated <u>alveolar or jawbone fracture</u>, a more rigid splint is indicated and should be left in place for about <u>4 weeks</u>.\n- Suture gingival lacerations, if present.\n\n**6) Root Canal Treatment**\n\n- The pulp should be removed in avulsed teeth with closed apex.\n- Initiate root canal treatment using rubber dam isolation within 2 weeks after replantation.\n- Calcium hydroxide is recommended as an intracanal medicament for up to 1 month followed by root canal filling.\n\n**7) Administer systemic antibiotics.**\n\n- The periodontal ligament of an avulsed tooth often becomes contaminated by bacteria from the oral cavity, the storage medium, or the environment in which the avulsion occurred.\n- The use of systemic antibiotics after avulsion and replantation has been recommended to prevent infection-related reactions and to decrease the occurrence of inflammatory root resorption.\n\n**Adult and children >12 years old:**\n\nAmoxicillin 500mg every 8h for 5 days. Penicillin allergy: Metronidazole 400mg every 8 hours for 5 days.\n\n**Children <12 years old:**\n\nAmoxicillin suspension (125ml/5ml or 250mg/5ml): maximum 30mg/kg per dose.\n\nPenicillin allergy: Metronidazole suspension 200mg/5ml - maximum 7.5mg/kg per dose.\n\n**9) Check tetanus vaccination status.**\n\n**10) Provide post-operative instructions.**\n\n- Keep the area clean: brush teeth with a soft toothbrush after each meal.\n- Use chlorhexidine (0.12%) mouth rinse twice a day for 2 weeks.\n- Maintain a soft diet for up to 2 weeks.\n- Avoid participation in contact sports.\n\n**11) Follow-up appointment in 2 weeks.**\n\n- Review, removal of splint and initiate root canal treatment.",
+     "multi": false
+    },
+    {
+     "id": "L9-S11",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Treatment Guidelines",
+     "body": "<u>**Extra-oral dry time longer than 60 minutes**</u>\n\n**CLOSED APEX (EODT>60min)**\n\n- Follow the same protocol as described before for dry time less than 60 minutes.\n- Replacement resorption will occur due to the lack of viable PDL cells.\n- The decision to replant is usually the correct decision. If the tooth is replanted, the patient should be reviewed in 2 weeks for splint removal and initiation of root canal treatment.\n- There are some circumstances when the replantation is not advised. For example, a delay of replantation of more than one day in an adult patient where other restorative options are available (e.g. implant, prosthesis).",
+     "multi": false
+    },
+    {
+     "id": "L9-S12",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Treatment Guidelines for avulsed permanent teeth",
+     "body": "**with OPEN APEX**\n\nOK, let’s go!",
+     "multi": false
+    },
+    {
+     "id": "L9-S13",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Treatment Guidelines",
+     "body": "If the tooth has been replanted <u>**before the patient’s arrival at the clinic:**</u>\n\n**1) Clean the injured area with water, saline, or chlorhexidine.**\n\n**2) Verify the correct positioning clinically and radiographically of the replanted tooth.**\n\n- If the tooth or teeth were replanted in the wrong position, consider repositioning the tooth/teeth into the correct location for up to 48 hours after the trauma under local anaesthesia.\n\n**3) Stabilise the tooth for 2 weeks using a flexible splint**\n\n**4) If there is an associated alveolar or jawbone fracture:**\n\n- A more rigid splint is indicated and should be left in place for about 4 weeks.\n\n**5) Suture gingival lacerations, if present.**\n\n**6) No root canal treatment is necessary at the emergency visit for avulsed teeth with open apex**\n\n**7) Administer systemic antibiotics.**\n\n- The use of systemic antibiotics after avulsion and replantation has been recommended to prevent infection-related reactions and to decrease the occurrence of inflammatory root resorption.\n- **Adult and children >12 years old:**\n\nAmoxicillin 500mg every 8h for 5 days. Penicillin allergy: Metronidazole 400mg every 8 hours for 5 days.\n\n- **Children <12 years old:**\n\nAmoxicillin suspension (125ml/5ml or 250mg/5ml): maximum 30mg/kg per dose.\n\nPenicillin allergy: Metronidazole suspension 200mg/5ml - maximum 7.5mg/kg per dose.\n\n**8) Check tetanus vaccination status.**\n\n**9) Provide post-operative instructions.**\n\n**10) Follow up.**\n\n- Review after 2 weeks and splint removal.\n- Root canal treatment should only be initiated when a diagnosis of pulp necrosis has been established (chances of revascularisation).",
+     "multi": false
+    },
+    {
+     "id": "L9-S14",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Treatment Guidelines",
+     "body": "If the tooth has been kept in a physiologic storage medium or stored in non-physiologic conditions, and the extra-oral time has been <u>less than 60 minutes:</u>\n\n**1) Remove loose debris and visible contamination by agitating in the storage medium:**\n\n**2) Keep the tooth in a storage medium during examination and while preparing for replantation**\n\n**3) Administer local anesthesia (preferably without vasoconstrictor) and clean the area**\n\n**4) Examine the alveolar socket**\n\n- If there is a fracture of the socket wall, reposition the fractured fragment into its original position with a suitable instrument.\n- Remove the coagulum with a saline stream to allow better repositioning of the tooth\n\n**5) Replant the tooth**\n\n- Replant the tooth slowly with slight digital pressure.\n- Excessive force should not be used to replant the tooth back into its original position.\n- Verify the correct position of the replanted tooth both clinically and radiographically.\n\n**6) Stabilize the tooth for 2 weeks**\n\n- If there is an associated <u>alveolar or jawbone fracture</u>, a more rigid splint is indicated and should be left in place for about <u>4 weeks</u>.\n- Suture gingival lacerations, if present.\n\n**7) Endodontic therapy is not needed at the emergency visit for avulsed teeth with an open apex with dry time less than 60 minutes**\n\n- Pulp necrosis may not occur in these cases, therefore, the risk of external infection-related (inflammatory) root resorption should be weighed against the chances of pulp survival.\n\n**8) Administer systemic antibiotics.**\n\n- The use of systemic antibiotics after avulsion and replantation has been recommended to prevent infection-related reactions and to decrease the occurrence of inflammatory root resorption.\n- **Adult and children >12 years old:**\n\nAmoxicillin 500mg every 8h for 5 days. Penicillin allergy: Metronidazole 400mg every 8 hours for 5 days.\n\n- **Children <12 years old:**\n\nAmoxicillin suspension (125ml/5ml or 250mg/5ml): maximum 30mg/kg per dose.\n\nPenicillin allergy: Metronidazole suspension 200mg/5ml - maximum 7.5mg/kg per dose.\n\n**9) Check tetanus vaccination status.**\n\n**10) Provide post-operative instructions.**\n\n**11) Follow up after 2 weeks.**\n\n- Review and splint removal.\n- Root canal treatment should only be initiated when a diagnosis of pulp necrosis has been established (chances of revascularisation).",
+     "multi": false
+    },
+    {
+     "id": "L9-S15",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Treatment Guidelines",
+     "body": "**If the extra-oral time longer than 60 minutes:**\n\nFollow the same protocols for replantation of avulsed teeth with open apex described previously.\n\n- Pulp necrosis is almost certain in avulsed teeth with an open apex that had an extra-oral dry time longer than 60 minutes.\n- First-stage root canal treatment should be commenced within 2 weeks: the pulp space needs to be cleaned to avoid inflammatory root resorption.\n- Regenerative endodontic therapy can lead to further root development and can be considered instead of traditional root canal therapy.",
+     "multi": false
+    },
+    {
+     "id": "L9-S16",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Delayed replantation has a poor long-term prognosis for PDL cells.",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Periodontal ligament",
+       "body": "The periodontal ligament becomes necrotic and is not expected to regenerate."
+      },
+      {
+       "heading": "Expected outcome",
+       "body": "The expected outcome is ankylosis-related (replacement) root resorption. The rate of ankylosis and resorption varies considerably and can be unpredictable."
+      },
+      {
+       "heading": "Goal of replantation",
+       "body": "The goal of replantation in these cases is to restore, at least temporarily, esthetics and function while maintaining alveolar bone contour, width and height. Replantation will keep future treatment options open."
+      },
+      {
+       "heading": "Growing children",
+       "body": "Parents of pediatric patients should be informed that decoronation or other procedures such as autotransplantation might be necessary later if the replanted tooth becomes ankylosed and infra-positioned, depending on the patient’s growth rate and the likelihood of eventual tooth loss."
+      }
+     ]
+    },
+    {
+     "id": "L9-S17",
+     "section": "Avulsion of Permanent teeth",
+     "type": "text",
+     "title": "Delayed replantation has a poor long-term prognosis for the PULP.",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Pulp necrosis",
+       "body": "Pulp survival is more likely in open apex teeth with shorter extraoral time.\n\nPulp necrosis is very likely to occur in closed apex teeth regardless of the extra-oral time.\n\nIf spontaneous revascularization does not occur, apexification, regenerative endodontic therapy, or root canal treatment should be initiated as soon as pulp necrosis and infection are identified."
+      },
+      {
+       "heading": "Expected outcome",
+       "body": "Pulp necrosis is a common outcome for teeth following avulsion.\n\nThe timing of endodontic intervention in open apex teeth will be dictated by the likelihood of pulp necrosis and subsequent inflammatory root resorption.\n\nRegenerative endodontic therapy can be considered in teeth with open apex to encourage continued root development.\n\nIn closed apex teeth, root canal treatment should be initiated within 2 weeks."
+      },
+      {
+       "heading": "Goal of replantation",
+       "body": "Pulp survival in avulsed open apex teeth is possible and can allow continued root development. If the pulp becomes necrotic, endodontic therapy can stabilize the tooth and contribute to tooth survival."
+      },
+      {
+       "heading": "Growing children",
+       "body": "There is a potential for spontaneous healing to occur in the form of new connective tissue with a vascular supply in immature teeth with open apices.\n\nPulp survival is essential for continued root formation.\n\nRegenerative endodontic therapy can be successful following trauma in open apex teeth."
+      }
+     ]
+    },
+    {
+     "id": "L9-S18",
+     "section": "Avulsion of Permanent teeth",
+     "type": "statements",
+     "title": "True or false?",
+     "body": "A 8 year old patient had his tooth avulsed after a bike accident. His mother is a patient of yours and called you 5 minutes after the accident happened. The tooth is on the floor.\n\nOK, I'm ready!",
+     "multi": false,
+     "statements": [
+      "The child won’t allow the parent to replant the tooth. The parent should always keep it clean and wrapped in a clean tissue.",
+      "The parent tells you that the child is still dizzy and disoriented. Instead of bringing the child to your dental office, he should be brought directly to a hospital.",
+      "If the tooth is dirty, the mother should try to remove the debris using sterile gauze before replantation.",
+      "You should instruct the mother to pick up the tooth by the crown and place it in a plastic bag to avoid contamination.",
+      "The mother should not attempt to replant the tooth. The ideal thing to do is to ask his mother to place his tooth in milk and bring the patient to an emergency appointment.",
+      "If the tooth is dirty, the mother can rinse it gently to remove debris before replanting."
+     ]
+    },
+    {
+     "id": "L9-S19",
+     "section": "Avulsion of Permanent teeth",
+     "type": "ordering",
+     "question": "In descending order of preference (most preferable to least preferable), select the suitable and convenient storage mediums",
+     "options": [
+      "Saline",
+      "Dry",
+      "Milk",
+      "Saliva",
+      "HBSS",
+      "Water"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L9-S20",
+     "section": "Avulsion of Permanent teeth",
+     "type": "number",
+     "body": "Rotary dial ('Touch to rotate', 'DRAG TO SET THE CORRECT VALUE'), scale marks 0 / 15 / 30 / 45.",
+     "question": "What is the maximum extraoral dry time for the PDL cells to be considered most likely viable?",
+     "multi": false,
+     "unit": "minutes"
+    },
+    {
+     "id": "L9-S21",
+     "section": "Avulsion of Permanent teeth",
+     "type": "number",
+     "body": "Rotary dial ('Touch to rotate', 'DRAG TO SET THE CORRECT VALUE'), scale marks 0 / 15 / 30 / 45 / 60 / 75 / 90 / 105.",
+     "question": "What is the maximum extraoral dry time for the PDL cells to be considered viable but compromised?",
+     "multi": false,
+     "unit": "minutes"
+    },
+    {
+     "id": "L9-S22",
+     "section": "Avulsion of Permanent teeth",
+     "type": "number",
+     "body": "Rotary dial ('Touch to rotate', 'DRAG TO SET THE CORRECT VALUE'), scale marks 0 / 15 / 30 / 45 / 60 / 75 / 90 / 105.",
+     "question": "The PDL cells are likely to be non-viable after how many minutes of extra oral dry time?",
+     "multi": false,
+     "unit": "minutes"
+    },
+    {
+     "id": "L9-S23",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "carousel",
+     "title": "CASE-BASED LEARNING",
+     "body": "Let’s take a look at a real-life scenario and see what would be the best approach based on the current IADT guidelines.\n\n**EMERGENCY VISIT**\n\nA 9-year-old child attends your practice after avulsing teeth 11 and 21. The tooth was immediately placed in milk and the accident happened only 30min ago.\n\nWhen you see the teeth, you are not sure if there is a root fracture or if the teeth have open apexes.\n\n**What should you do?**",
+     "multi": false,
+     "items": [
+      {
+       "heading": null,
+       "body": "A radiograph can be taken before tooth replantation to evaluate the socket and the presence of tooth/bony fragments.",
+       "images": [
+        {
+         "src": "img/L9-S23-0.webp",
+         "caption": "A radiograph can be taken before tooth replantation to evaluate the socket and the presence of tooth/bony fragments.",
+         "video": false,
+         "kind": "radiograph"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "The tooth should be replanted and splinted as soon as possible.\n\nIf there is any tissue laceration, sutures should be placed.",
+       "images": [
+        {
+         "src": "img/L9-S23-1.webp",
+         "caption": "The tooth should be replanted and splinted as soon as possible. If there is any tissue laceration, sutures should be placed.",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "A radiograph should be taken immediately after repositioning to verify the position of the replanted teeth.",
+       "images": [
+        {
+         "src": "img/L9-S23-2.webp",
+         "caption": "A radiograph should be taken immediately after repositioning to verify the position of the replanted teeth.",
+         "video": false,
+         "kind": "radiograph"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L9-S24",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "quiz_single",
+     "title": "What's the correct answer?",
+     "body": "Swipe to see answers options.",
+     "question": "What's the correct answer?",
+     "options": [
+      "Root canal treatment should be started within two weeks for the majority of avulsed teeth with open apex.",
+      "For all avulsed teeth with closed apex, root canal treatment should be started within 2 weeks after replantation.",
+      "When extraoral dry time is <60min, root canal treatment should not be started unless there are signs of pulp necrosis.",
+      "Root canal treatment is not required in a tooth with a closed apex that was replanted at the site of injury (immediately)."
+     ],
+     "multi": false
+    },
+    {
+     "id": "L9-S25",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "intro",
+     "title": "Splinting Traumatised Teeth",
+     "multi": false
+    },
+    {
+     "id": "L9-S26",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "STABILISATION OF REPLANTED TEETH (SPLINTING)",
+     "body": "**The aim of splinting is to stabilise the injured tooth and encourage healing.**\n\n- Current evidence supports short-term, passive and flexible splints for stabilization of replanted teeth.\n- Periodontal and pulp healing are promoted if the replanted tooth is subjected to slight mobility and function.\n- Replanted permanent teeth should be stabilised for a period of <u>2 WEEKS</u> depending on the length and degree of maturation of the root.\n- An additional week of splinting is appropriate only if excessive trauma from the opposing dentition might further traumatise the tooth or if the avulsed tooth is unable to remain in the correct position.\n\n<u>COMPOSITE AND WIRE SPLINT</u>\n\nWire secured to the teeth with composite is the most favored and widely-used splint, and can be used in almost all types of tooth injury.\n\n- The stainless steel wire should be pre-contoured to conform to the teeth and the diameter must not exceed 0.4mm or 0.016” to remain flexible.\n- The wire used should be passive in nature and not exert any unwanted orthodontic forces.\n- The splint should allow adequate cleaning of the wound (hygienic).",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L9-S26-0.webp",
+       "caption": "COMPOSITE AND WIRE SPLINT",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L9-S27",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "carousel",
+     "multi": false,
+     "items": [
+      {
+       "heading": null,
+       "body": "This 7-year-old patient avulsed tooth 21. You can note that the tooth is in a traumatic occlusion (occluding on teeth 31/72). This can impact healing.",
+       "images": [
+        {
+         "src": "img/L9-S27-0.webp",
+         "caption": "This 7-year-old patient avulsed tooth 21 ... traumatic occlusion",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "In order to promote healing, the dentist can add glass ionomer cement to the occlusal surface of posterior teeth temporarily (bite block). Note that the teeth are now out of occlusion.",
+       "images": [
+        {
+         "src": "img/L9-S27-1.webp",
+         "caption": "glass ionomer bite block",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      },
+      {
+       "heading": null,
+       "body": "Alternatively, a removable retainer with buccal/occlusal capping can be fabricated. Good patient compliance is essential in this case.",
+       "images": [
+        {
+         "src": "img/L9-S27-2.webp",
+         "caption": "removable retainer with buccal/occlusal capping",
+         "video": false,
+         "kind": "clinical"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "id": "L9-S28",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "intro",
+     "title": "Trauma Review",
+     "body": "Replanted teeth should be monitored clinically and radiographically.\n\nThe follow-up intervals will depend if the avulsed tooth has open or closed apex.\n\nReview follow-up intervals in the next slide.",
+     "multi": false
+    },
+    {
+     "id": "L9-S29",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "Trauma Review",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Replanted teeth with closed apex",
+       "body": "Root canal treatment should be initiated within 2 weeks. Replanted teeth should be monitored clinically and radiographically:\n\n- at 2 weeks (when the splint is removed)\n- 4 weeks\n- 3 months\n- 6 months\n- 1 year\n- Yearly thereafter for at least five years."
+      },
+      {
+       "heading": "Replanted teeth with open apex",
+       "body": "Replanted teeth with an open apex should be monitored clinically and radiographically at :\n\n- 2 weeks (when the splint is removed)\n- 1 month\n- 2 months\n- 3 months\n- 6 months\n- One year\n- Yearly thereafter for at least five years.\n\n**NOTE:**\nAvulsed teeth with open apex must be monitored actively to identify signs of pulp necrosis/inflammatory resorption."
+      }
+     ]
+    },
+    {
+     "id": "L9-S30",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "intro",
+     "title": "FAVORABLE AND UNFAVORABLE OUTCOMES",
+     "body": "Let’s understand the differences between the expected outcomes between avulsed teeth with closed and open apex and the influence of the extraoral dry-time in the prognosis of the case.",
+     "multi": false
+    },
+    {
+     "id": "L9-S31",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "Favourable Outcomes",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Open Apex",
+       "body": "- Asymptomatic\n- Functional\n- Normal mobility\n- No sensitivity to percussion and normal percussion sound.\n- Radiographic evidence of continued root formation and tooth eruption.\n- Pulp canal obliteration: this is expected and can be recognized radiographically sometime during the first year after the trauma."
+      },
+      {
+       "heading": "Closed Apex",
+       "body": "- Asymptomatic\n- Functional\n- Normal mobility\n- No sensitivity to percussion and normal percussion sound.\n- No radiolucencies and no radiographic evidence of root resorption.\n- The lamina dura appears normal.\n\n*Note that pulp treatment is always required after avulsion injuries in teeth with closed apex."
+      }
+     ]
+    },
+    {
+     "id": "L9-S32",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "Unfavourable Outcomes",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Open Apex",
+       "body": "- The patient may or may not have symptoms; presence of swelling or sinus tract;\n- The tooth may have excessive mobility or no mobility (ankylosis) with high-pitched percussion sound.\n- Presence of radiolucencies. Radiographic evidence of infection-related (inflammatory) resorption, ankylosis-related (replacement) resorption, or absence of continued root formation.\n- When ankylosis occurs in a growing patient, infra-position of the tooth is highly likely to create disturbances of alveolar and facial growth over the short, medium and long term."
+      },
+      {
+       "heading": "Closed Apex",
+       "body": "- Patient may or may not have symptoms;\n- Presence of swelling or sinus tract;\n- The tooth may have excessive mobility or no mobility (ankylosis) with high-pitched (metallic) percussion sound.\n- Presence of radiolucencies.\n- Radiographic evidence of infection-related (inflammatory) resorption, ankylosis-related (replacement) resorption, or both.\n- When ankylosis occurs in a growing patient, infra-position of the tooth is highly likely to create disturbances in alveolar and facial growth over the short, medium and long term."
+      }
+     ]
+    },
+    {
+     "id": "L9-S33",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "Long-term follow-up care",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Inform the patient and their family",
+       "body": "- Patients or parents and children need to be fully informed of the prognosis of an avulsed tooth as soon as possible.\n- They should be fully engaged in the decision-making process.\n- The potential costs of and time required for different treatment options should be openly discussed."
+      },
+      {
+       "heading": "Multidisciplinary team",
+       "body": "- Follow-up care requires good coordination between the initial provider of treatment and specialists in secondary care services (e.g. orthodontist, paediatric dentist and/or endodontist) with the appropriate experience and training in the holistic management of complex dento-alveolar trauma."
+      }
+     ]
+    },
+    {
+     "id": "L9-S34",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "Treatment options",
+     "body": "Decision requires multidisciplinary treatment planning.",
+     "multi": false,
+     "items": [
+      {
+       "heading": "Regenerative endodontic techniques",
+       "body": "RET is highly desirable especially in immature teeth to allow continued root development.\n\n<u>Article: Clinical Perspectives of Pulp Regeneration.</u>"
+      },
+      {
+       "heading": "MTA apexification",
+       "body": "Apical barrier formation using MTA in immature teeth will prevent any further root development."
+      },
+      {
+       "heading": "Decoronation",
+       "body": "Decoronation is a surgical method for treating ankylosed incisors in children and adolescents.\n\n- The crown and root filling are removed, leaving the root in situ to be resorbed and covered with a mucoperiosteal flap.\n- Early loss of a permanent tooth leads to loss of alveolar bone, especially in buccopalatal width. Decoronation preserves not only the width of the ridge but also the vertical height.\n- The idea is to remove the crown and maintain the resorbing root as a matrix for new bone development so the volume of the alveolar ridge can be preserved, allowing more optimal conditions for a later prosthetic solution.\n\n<u>Article: Ridge preservation/decoronation.</u>\n\n."
+      },
+      {
+       "heading": "Tooth loss",
+       "body": "The dental team should include specialists who will provide expert advice on long-term care. When tooth loss is inevitable, tooth replacement should be provided as soon as possible following extraction.\n\nAvoidance of space loss and maintenance of alveolar ridge should be planned in growing patients.\n\nOther treatment options can include tooth replacement by a removable space maintainer, bonded bridge, and autotransplantation, among others. Implant treatment can be considered after growth is completed."
+      }
+     ]
+    },
+    {
+     "id": "L9-S35",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "Common unfavorable outcomes after permanent teeth avulsion",
+     "body": "Select the correct word related to the image. Speed and accuracy will score you the most points.",
+     "multi": false,
+     "missing": true
+    },
+    {
+     "id": "L9-S36",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "True or false?",
+     "body": "Which of these statements is true? Swipe the incorrect statements to the left and the true statements to the right.",
+     "multi": false,
+     "missing": true
+    },
+    {
+     "id": "L9-S37",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "intro",
+     "title": "Case-based Learn",
+     "body": "Now let’s move on to a real case scenario to test your knowledge.",
+     "multi": false
+    },
+    {
+     "id": "L9-S38",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "carousel",
+     "multi": false,
+     "items": [
+      {
+       "heading": null,
+       "body": "A 7-year-old girl avulsed her upper right central incisor (11) while playing on the playground in school in the morning (10h15am).\n\nThe teacher found the tooth in the grass and placed it in milk (10h45).\n\nThe school contacted the child’s parents who then brought the child to the dentist. The tooth was replanted at 11h45.\n\n**Important:**\n\n- Extra oral time (EOT) = 1h30min\n- Extra oral dry time (EODT)= 30min\n- Storage medium = milk\n- Tooth might be contaminated = grass"
+      },
+      {
+       "heading": null,
+       "body": "The tooth was replanted and a flexible wire splint was placed by the dentist.\n\nNote that tooth 11 also had an enamel-dentine fracture and a GIC restoration was done in the emergency appointment."
+      },
+      {
+       "heading": null,
+       "body": "**When should the dentist see the child again?**\n\n- 2 weeks for splint removal\n\n**Should root canal treatment be initiated within 2 weeks?**\n\n- No. The pulp status should be monitored in this situation (7 year old = open apex). Risks of developing inflammatory root resorption should be balanced against chances of pulp revascularisation. This can happen very fast, therefore the dentist should keep a close eye on the case.\n\n**How often should the dentist see this child?**\n\n- Replanted teeth with an open apex should be monitored clinically and radiographically at 2 weeks (when the splint is removed), 1, 2, 3, 6 months, one year, and yearly thereafter for at least five years."
+      },
+      {
+       "heading": null,
+       "body": "**Spontaneous pulp space revascularization is possible**\n\n- Evaluate absence of pain, fistulae or swelling\n- Evaluate pulp sensibility testing: note that a false-negative response can occur after trauma\n- Evaluate if the tooth is not tender to percussion - this can be normal during the first few weeks.\n- Evaluate if the tooth has no increased mobility: note that depending on the stage of tooth development (e.g. short roots) this can be a normal finding\n- Evaluate absence of radiographic signs of inflammatory resorption\n- Evaluate absence of periapical radiolucencies - this can be difficult to see due to the large open apex of the tooth\n- Evaluate if continued root development is noted radiographically - note that this can only be evaluated after 3-4 months after trauma."
+      },
+      {
+       "heading": null,
+       "body": "After 2 months, the child attends with a buccal sinus associated with tooth 11."
+      },
+      {
+       "heading": null,
+       "body": "<u>What does it means?</u>\n\n- A sinus is a definitive sign that the pulp is necrotic. Tracing of the sinus track can be done using a GP point. This procedure is common when more than one tooth was involved in the trauma."
+      }
+     ],
+     "images": [
+      {
+       "src": "img/L9-S38-0.webp",
+       "caption": "Replanted tooth with flexible wire splint",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L9-S38-1.webp",
+       "caption": "After 2 months, the child attends with a buccal sinus associated with tooth 11.",
+       "video": false,
+       "kind": "clinical"
+      },
+      {
+       "src": "img/L9-S38-2.webp",
+       "caption": "Tracing of the sinus track with a GP point",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L9-S39",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "body": "**ToothSOS app**\n\nThis free IADT Dental Trauma first aid app for mobile phones is another useful source of information for patients that provides instructions on what to do in an emergency situation after a dental injury.\n\nLink for download:\n\n<u>Apple Store/ iOS</u>\n\n<u>Android</u>",
+     "multi": false
+    },
+    {
+     "id": "L9-S40",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "multi": false
+    },
+    {
+     "id": "L9-S41",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "SAVE YOUR TOOTH POSTER",
+     "body": "The poster “Save a Tooth” is available in multiple languages.\n\nWhen clicking continue, you will be directed to the website where you can download the poster in your own language.\n\n<u>Download it here</u>",
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L9-S41-0.webp",
+       "caption": "\"Save your tooth\" poster (IADT / Universidad de Valparaíso)",
+       "video": false,
+       "kind": "illustration"
+      }
+     ]
+    },
+    {
+     "id": "L9-S42",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "text",
+     "title": "Reading materials",
+     "body": "Don’t forget to review the IADT guidelines. You can access it here:\n\n<u>Avulsion of Permanent Teeth.</u>",
+     "multi": false
+    },
+    {
+     "id": "L9-S43",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "slider",
+     "question": "I feel more confident in my understanding of managing avulsion of permanent teeth after completing this lesson.",
+     "multi": false,
+     "min": 0,
+     "max": 10,
+     "min_label": "Strongly Disagree",
+     "max_label": "Strongly Agree"
+    },
+    {
+     "id": "L9-S44",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "free_text",
+     "question": "How would you improve this lesson?",
+     "multi": false
+    },
+    {
+     "id": "L9-S45",
+     "section": "Avulsion of Permanent Teeth",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "You’ve completed “Avulsion in Permanent teeth” level of our course.\n\n**Additional Sources**\n\n1. <u>IADT Website</u>\n2. <u>Dental Trauma Guide Website</u>\n3. <u>IADT Guidelines - Avulsion of Permanent Teeth.</u>",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "title": "Course Feedback",
+   "slides": [
+    {
+     "id": "L10-S1",
+     "section": "Course Feedback",
+     "type": "intro",
+     "title": "FEEDBACK",
+     "body": "Thank you for completing the course.\n\nBefore answering the final QUIZ questions,\n\nplease complete a short feedback form so we can improve this app for educational use!",
+     "multi": false
+    },
+    {
+     "id": "L10-S2",
+     "section": "Course Feedback",
+     "type": "slider",
+     "question": "Rate your overall experience of the course.",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "Very Poor",
+     "max_label": "Very Good"
+    },
+    {
+     "id": "L10-S3",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "How would you rate the total course duration?",
+     "options": [
+      "Too short",
+      "Adequate",
+      "Too long"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S4",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "Readability of the course content: Information is presented in a digestible, easy-to-read way.",
+     "options": [
+      "Acceptable",
+      "Unacceptable"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S5",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "Clarity of the course content: The information was concise and easy to understand, without characteristics like ambiguous wording.",
+     "options": [
+      "Acceptable",
+      "Unacceptable"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S6",
+     "section": "Course Feedback",
+     "type": "slider",
+     "question": "The course material was useful.",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "Strongly Disagree",
+     "max_label": "Strongly Agree"
+    },
+    {
+     "id": "L10-S7",
+     "section": "Course Feedback",
+     "type": "slider",
+     "question": "Case-based learning examples in this course was appropriate.",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "Strongly Disagree",
+     "max_label": "Strongly Agree"
+    },
+    {
+     "id": "L10-S8",
+     "section": "Course Feedback",
+     "type": "slider",
+     "question": "The questions of the baseline quiz were clear.",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "Strongly Disagree",
+     "max_label": "Strongly Agree"
+    },
+    {
+     "id": "L10-S9",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "Did you have any issues in logging in to the platform?",
+     "options": [
+      "No",
+      "Yes"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S10",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "Was the platform easy to get familiar with?",
+     "options": [
+      "No",
+      "Yes"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S11",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "I have enjoyed the gamification features of this course (quizzes, points, stars).",
+     "options": [
+      "No",
+      "Yes"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S12",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "The quality of the pictures were acceptable.",
+     "options": [
+      "No",
+      "Yes"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S13",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "The quality of the videos were acceptable.",
+     "options": [
+      "No",
+      "Yes"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S14",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "Did you notice any video that couldn’t load?",
+     "options": [
+      "No",
+      "Yes"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S15",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "Did you notice any fonts not displaying properly?",
+     "options": [
+      "No",
+      "Yes"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S16",
+     "section": "Course Feedback",
+     "type": "quiz_multi",
+     "question": "How did you access this course? You can select more than one answer.",
+     "options": [
+      "On my mobile phone",
+      "On my computer",
+      "On my tablet"
+     ],
+     "multi": true
+    },
+    {
+     "id": "L10-S17",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "Do you believe this course will be helpful for undergraduate students?",
+     "options": [
+      "Yes",
+      "No"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S18",
+     "section": "Course Feedback",
+     "type": "quiz_single",
+     "question": "Do you believe this course will be helpful for general dentists?",
+     "options": [
+      "Yes",
+      "No"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L10-S19",
+     "section": "Course Feedback",
+     "type": "free_text",
+     "question": "Please leave here any other comments and suggestions.",
+     "multi": false
+    },
+    {
+     "id": "L10-S20",
+     "section": "Course Feedback",
+     "type": "intro",
+     "title": "THANK YOU",
+     "body": "Thank you for contributing to the development of this course.\nYour feedback is very important to us.\n\nYou will receive a certificate once you finish the FINAL QUIZ!",
+     "multi": false
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "title": "Final Quiz",
+   "slides": [
+    {
+     "id": "L11-S1",
+     "section": "Final Quiz",
+     "type": "intro",
+     "title": "Final Quiz",
+     "body": "Now that you have finished the course, please answer the final quiz to measure your acquired knowledge.\n\nThere is no need to consult any external material/colleagues.\n\nResults cannot be tracked back to you.",
+     "multi": false
+    },
+    {
+     "id": "L11-S2",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "Contusion is defined as:",
+     "options": [
+      "A shallow or deep wound in the mucosa resulting from a tear, usually produced by a sharp object.",
+      "A bruise, usually produced by impact with a blunt object and not accompanied by a break in the mucosa, usually resulting in submucosal hemorrhage.",
+      "A superficial wound produced by rubbing or scraping of the mucosa, leaving a raw, bleeding surface."
+     ],
+     "multi": false
+    },
+    {
+     "id": "L11-S3",
+     "section": "Final Quiz",
+     "type": "quiz_multi",
+     "question": "Continued root development can be seen after:\n\nYou can select more than one answer.",
+     "options": [
+      "Revascularisation",
+      "Obturation with Gutta Percha",
+      "Partial Pulpotomy",
+      "Apexification",
+      "First stage endodontics"
+     ],
+     "multi": true
+    },
+    {
+     "id": "L11-S4",
+     "section": "Final Quiz",
+     "type": "quiz_multi",
+     "question": "In an uncomplicated enamel-dentine fracture, immediate treatment options include:\n\nYou can select more than one answer.",
+     "options": [
+      "Direct Pulp Capping",
+      "Fluoride varnish application",
+      "Glass ionomer restoration",
+      "Pulpectomy",
+      "Composite restoration",
+      "Fragment reattachment",
+      "Partial Pulpotomy"
+     ],
+     "multi": true
+    },
+    {
+     "id": "L11-S5",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "External replacement root resorption can be arrested or repaired with root canal treatment.",
+     "options": [
+      "False",
+      "True"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L11-S6",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "The combination of bacteria in the root canal and cemental damage on the external root surface can result in external inflammatory root resorption.",
+     "options": [
+      "False",
+      "True"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L11-S7",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "What is the recommended splinting period following avulsion of a permanent tooth without an alveolar fracture?",
+     "options": [
+      "8 weeks",
+      "2 weeks",
+      "4 months",
+      "4 weeks"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L11-S8",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "Induction of a calcific barrier in a non-vital tooth with an open apex is called:\n\nSelect the best response.",
+     "options": [
+      "Apexogenesis",
+      "Revascularisation",
+      "Calcification",
+      "Apexification"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L11-S9",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "A permanent central incisor was avulsed and replanted after 2 hours.\n\nIn the 2-year follow-up appointment the tooth has decreased mobility and a high percussion sound.\n\nWhat is the most likely diagnosis?",
+     "options": [
+      "Pulp Canal Obliteration",
+      "Apical Periodontitis",
+      "External Replacement Root Resorption",
+      "External Inflammatory Root Resorption"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L11-S10",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "A patient attended your practice because she “chipped” her tooth. What is your likely diagnosis based on the image below?",
+     "options": [
+      "Uncomplicated crown fracture",
+      "Complicated crown fracture",
+      "Root fracture",
+      "Uncomplicated crown-root fracture",
+      "Complicated crown-root fracture"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L11-S10-0.webp",
+       "caption": "Two-part clinical image (frontal and close-up views)",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L11-S11",
+     "section": "Final Quiz",
+     "type": "quiz_multi",
+     "question": "Splinting is <u>not</u> recommended within the management of which of the following injuries?\n\nYou can select more than one answer.",
+     "options": [
+      "Subluxation",
+      "Extrusive luxation",
+      "Lateral luxation",
+      "Avulsion",
+      "Uncomplicated crown-fracture",
+      "Complicated crown-fracture"
+     ],
+     "multi": true
+    },
+    {
+     "id": "L11-S12",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "This 8-year-old child injured the lower left central incisor 3 hours ago.\nWhat is the ideal treatment for this tooth?",
+     "options": [
+      "Revascularisation",
+      "Partial Pulpotomy",
+      "Pulpectomy",
+      "Indirect Pulp Cap"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L11-S12-0.webp",
+       "caption": "Lower incisor with crown fracture",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L11-S13",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "Select the <u>incorrect answer</u> in relation to the cold test.",
+     "options": [
+      "A negative cold test can be a frequent finding after severe luxation injuries.",
+      "A negative response to the cold test is not a definitive diagnosis of pulp necrosis.",
+      "The cold test evaluates the vitality of the pulp.",
+      "The response to the cold test in young children may not be reliable."
+     ],
+     "multi": false
+    },
+    {
+     "id": "L11-S14",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "What type of resorption is present on the upper left central incisor?\n\nTrauma history: Avulsion",
+     "options": [
+      "External inflammatory root resorption",
+      "Invasive cervical resorption",
+      "Internal root resorption",
+      "External replacement root resorption"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L11-S14-0.webp",
+       "caption": "Two periapical radiographs; red arrow on the second",
+       "video": false,
+       "kind": "radiograph"
+      }
+     ]
+    },
+    {
+     "id": "L11-S15",
+     "section": "Final Quiz",
+     "type": "quiz_multi",
+     "question": "Identify the features in this picture that increase the risk of dental trauma.\n\nYou can select more than one answer.",
+     "options": [
+      "Class III skeletal relationship",
+      "Lower lip trap",
+      "Increased overjet",
+      "Reverse overjet"
+     ],
+     "multi": true,
+     "images": [
+      {
+       "src": "img/L11-S15-0.webp",
+       "caption": "Profile photo of patient (eyes covered by dark glasses)",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L11-S16",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "What is the minimum splint span required for an avulsion of tooth 11 in a child in the permanent dentition?\n\nNo other teeth were injured.",
+     "options": [
+      "Extend from tooth 12 to 22",
+      "Extend from tooth 13 to 23",
+      "Extend from tooth 12 to 21",
+      "Extend from tooth 11 to 21"
+     ],
+     "multi": false
+    },
+    {
+     "id": "L11-S17",
+     "section": "Final Quiz",
+     "type": "quiz_multi",
+     "question": "What of the features below are included in the Modified Eden Baysal Dental Trauma Index?\n\nYou can select more than one answer.",
+     "options": [
+      "Trauma Aetiology Classification",
+      "Crown Fracture Classification",
+      "Luxation Injury Classification",
+      "Tooth Identification\n(FDI notation)",
+      "Root Fracture Classification",
+      "Tooth Identification\n(Universal Numbering System)",
+      "Soft Tissue Injury Classification",
+      "Maturity of Apex Classification"
+     ],
+     "multi": true
+    },
+    {
+     "id": "L11-S18",
+     "section": "Final Quiz",
+     "type": "quiz_single",
+     "question": "Classify the injury of the upper right central incisor using the Eden Baysal Dental Trauma Index?",
+     "options": [
+      "[(8) 20Ni-]",
+      "[(11) 20Ni-]",
+      "[(11) 20Ni-]<sup>2,3</sup>",
+      "[(11) 20Nm+]<sup>2,3</sup>",
+      "[(11) 20Nm+]<sup>2,8</sup>",
+      "[(8) 30Ni-]<sup>2,3</sup>",
+      "[(11) 20Ni-]<sup>1,3</sup>"
+     ],
+     "multi": false,
+     "images": [
+      {
+       "src": "img/L11-S18-0.webp",
+       "caption": "Composite: periapical radiograph, frontal intraoral photo, lip laceration photo",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L11-S19",
+     "section": "Final Quiz",
+     "type": "quiz_multi",
+     "question": "Classify the injury of the upper central incisors using the Modified Eden Baysal Dental Trauma Index?",
+     "options": [
+      "[(11) 00Ci+, (21) 30Nm-]<sup>6</sup>",
+      "[(11) 00Li+, (21) 20Ni-]<sup>6</sup>",
+      "[(11) 00Si+, (21) 30Ni-]<sup>2</sup>",
+      "[(11) 00Li+, (21) 30Nm-]<sup>2</sup>",
+      "[(8) 00Li+, (9) 20Ni-]<sup>2</sup>"
+     ],
+     "multi": true,
+     "images": [
+      {
+       "src": "img/L11-S19-0.webp",
+       "caption": "Periapical radiograph and intraoral photo of upper central incisors",
+       "video": false,
+       "kind": "clinical"
+      }
+     ]
+    },
+    {
+     "id": "L11-S20",
+     "section": "Final Quiz",
+     "type": "slider",
+     "question": "How confident do you feel in your knowledge of Dental Traumatology after completing this course?",
+     "multi": false,
+     "min": 0,
+     "max": 5,
+     "min_label": "Not confident at all",
+     "max_label": "Completely confident"
+    },
+    {
+     "id": "L11-S21",
+     "section": "Final Quiz",
+     "type": "intro",
+     "title": "That’s it!",
+     "body": "Thank you for submitting your responses.\n\nYou have now completed the course!",
+     "multi": false
+    }
+   ]
+  }
+ ]
+}

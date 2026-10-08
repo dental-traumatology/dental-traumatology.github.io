@@ -286,3 +286,5 @@ select{width:100%;padding:11px;border:1.5px solid var(--line);border-radius:12px
 .review-banner{background:var(--warn-bg);color:var(--warn);padding:8px 16px;text-align:center;font-size:.88rem}
 .review-banner[hidden]{display:none}
 .score-pill[hidden]{display:none}
+.slide.intro .md ul,.slide.intro .md ol{list-style:none;padding:0;margin:.6em 0}
+.slide.intro .md li{margin:.3em 0}

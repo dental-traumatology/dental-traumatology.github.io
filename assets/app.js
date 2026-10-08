@@ -488,8 +488,18 @@
     const b = document.getElementById("send"), msg = document.getElementById("send-msg");
     c.onchange = () => (b.disabled = !c.checked);
     b.onclick = async () => {
+      // one readable column per question: "Q3 · <first words of the question>" → chosen answer text (+ ✓/✗ when scored)
+      const qs = L.slides.filter((s) => ANSWER_TYPES.includes(s.type) || ["slider", "free_text"].includes(s.type));
+      const label = (s, i) => `Q${i + 1} · ` + String(s.question || s.title || s.id).replace(/<[^>]+>/g, "").replace(/\s+/g, " ").slice(0, 60);
+      const shown = (s) => {
+        const a = answers[s.id]; if (!a) return "";
+        const v = a.labels ? a.labels.join(" | ") : typeof a.value === "object" ? JSON.stringify(a.value) : String(a.value);
+        return a.ok === true ? `✓ ${v}` : a.ok === false ? `✗ ${v}` : v;
+      };
+      const scored = qs.filter((s) => keyFor(s));
       const payload = { participant: participant(), lesson: L.n, lesson_title: L.title, sent_at: new Date().toISOString(),
-        answers: Object.fromEntries(L.slides.filter((s) => answers[s.id]).map((s) => [s.id, answers[s.id]])) };
+        correct: scored.filter((s) => answers[s.id] && answers[s.id].ok).length, total: scored.length,
+        columns: qs.map(label), values: qs.map(shown) };
       b.disabled = true; msg.textContent = "Sending…";
       try {
         await fetch(CFG.submitEndpoint, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify(payload) });

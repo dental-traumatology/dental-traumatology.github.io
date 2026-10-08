@@ -3238,7 +3238,7 @@
      "id": "L9-S39",
      "section": "Avulsion of Permanent Teeth",
      "type": "text",
-     "body": "**ToothSOS app**\n\nThis free IADT Dental Trauma first aid app for mobile phones is another useful source of information for patients that provides instructions on what to do in an emergency situation after a dental injury.\n\nLink for download:\n\n<u>Apple Store/ iOS</u>\n\n<u>Android</u>",
+     "body": "**ToothSOS app**\n\nThis free IADT Dental Trauma first aid app for mobile phones is another useful source of information for patients that provides instructions on what to do in an emergency situation after a dental injury.\n\nLink for download:\n\n[Apple Store/ iOS](https://apps.apple.com/app/toothsos/id1368359249)\n\n[Android](https://play.google.com/store/apps/details?id=com.iadtapp.toothsos)",
      "multi": false
     },
     {
@@ -3246,15 +3246,22 @@
      "section": "Avulsion of Permanent Teeth",
      "type": "text",
      "multi": false,
-     "title": "ToothSOS app",
-     "body": "The original lesson showed a short screen recording of the free **ToothSOS** app of the International Association of Dental Traumatology (IADT), which guides patients and parents through first aid after dental injuries. It is available on the App Store and Google Play."
+     "images": [
+      {
+       "src": "img/L9-S40-0.webp",
+       "video": true,
+       "kind": "other",
+       "alt": "ToothSOS app screen recording ('WHAT DOES THE INJURY LOOK...': Knocked out, Moved, Pushed in, Loosened, Broken, Injured skin, lips)"
+      }
+     ],
+     "title": "ToothSOS app"
     },
     {
      "id": "L9-S41",
      "section": "Avulsion of Permanent Teeth",
      "type": "text",
      "title": "SAVE YOUR TOOTH POSTER",
-     "body": "{{img:0}}\n\nThe poster “Save a Tooth” is available in multiple languages.\n\nWhen clicking continue, you will be directed to the website where you can download the poster in your own language.\n\n<u>Download it here</u>",
+     "body": "{{img:0}}\n\nThe poster “Save a Tooth” is available in multiple languages.\n\nYou can download the poster in your own language from the IADT website.\n\n[Download it here](https://iadt-dentaltrauma.org/guidelines-and-resources/save-a-tooth-poster/)",
      "multi": false,
      "images": [
       {

@@ -525,7 +525,7 @@
       const p = progress(L);
       return `<li><a class="lesson-card ${p >= 1 ? "done" : ""}" href="#/lesson/${L.n}/1">
         <span class="lesson-num">${p >= 1 ? "✓" : L.n}</span>
-        <span class="lesson-meta"><strong>${inline(L.title)}</strong><small>${L.slides.length} slides${p > 0 && p < 1 ? " · in progress" : p >= 1 ? " · completed" : ""}${lessonScore(L.n) ? ` · <span style="color:var(--gold);font-weight:700">★ ${fmt(lessonScore(L.n))}</span>` : ""}</small>
+        <span class="lesson-meta"><strong>${inline(L.title)}</strong><small>${L.slides.length} slides${p > 0 && p < 1 ? " · in progress" : p >= 1 ? " · completed" : ""}</small>
         <span class="bar"><i style="width:${Math.round(p * 100)}%"></i></span></span></a></li>`;
     }).join("");
     const next = COURSE.lessons.find((L) => progress(L) < 1) || COURSE.lessons[0];

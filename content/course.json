@@ -63,7 +63,7 @@
      "type": "quiz_multi",
      "question": "Continued root development can be seen after:\n\nYou can select more than one answer.",
      "options": [
-      "Apexification",
+      "MTA apexification",
       "First stage endodontics",
       "Obturation with Gutta Percha",
       "Partial Pulpotomy",
@@ -223,7 +223,7 @@
      "id": "L2-S14",
      "section": "Baseline knowledge",
      "type": "quiz_single",
-     "question": "What type of resorption is present on the upper left central incisor? Trauma history: Avulsion",
+     "question": "What type of resorption is present on the upper right central incisor (11)? Trauma history: Lateral luxation",
      "options": [
       "External replacement root resorption",
       "Internal root resorption",
@@ -295,7 +295,7 @@
      "id": "L2-S18",
      "section": "Baseline knowledge",
      "type": "quiz_single",
-     "question": "Classify the injury of the upper right central incisor using the Eden Baysal Dental Trauma Index?",
+     "question": "Classify the injury of the upper right central incisor using the Modified Eden Baysal Dental Trauma Index?",
      "options": [
       "[(8) 30Ni-]<sup>2,3</sup>",
       "[(11) 20Ni-]<sup>1,3</sup>",
@@ -1056,7 +1056,7 @@
      "section": "Dental Trauma Index",
      "type": "text",
      "title": "Eden Baysal Dental Trauma Index",
-     "body": "The Eden-Baysal index is a new 5-digit index that comprises all important information and can be easily computerised.\n\nThe index contains five digits following FDI tooth code. The first two digits contain numbers starting from 0, the third digit contains capital letters, the fourth digit contains lower case first letters and the fifth digit contains plus or minus sign.\n\nIntraoral and radiographic findings are used to record the cases with the index.\n\n**1st digit: Crown fracture**\n\nThe 1st digit after the FDI tooth code stands for hard dental tissue injuries affecting the crown with information on its relation with the pulp and root. Intraoral clinical evaluation is used to gather information for proper coding. Numbers are used to categorise the injury in hierarchical order in relation to severity. The codes are as follows:\n\n- 0 = none\n- 1 = enamel fracture\n- 2 = enamel and dentin fracture = uncomplicated crown fracture\n- 3 = enamel and dentin fracture including the pulp = complicated crown fracture\n- 4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture\n- 5 = Enamel-dentin-cementum fracture including the pulp\n\n**2nd digit: Root fracture**\n\n2nd digit stands for hard dental tissue injury of the root indicating the location of the fracture line. Numbers are used to categorise the injury in a hierarchical nature in relation to its position. The position of the fracture line in relation to the gingival margin defines the severity of the injury and impaired prognosis. In case of an oblique root fracture affecting more than one location on the root, the position of the fracture line close to the cervical region is recorded. The codes used in the second digit are as follows:\n\n- 0 = none\n- 1 = apical 1/3 root fracture\n- 2 = middle 1/3 root fracture\n- 3 = cervical 1/3 root fracture\n\n**3rd digit: Luxation injury**\n\n3rd digit stands for periodontal ligament injuries (Luxation injuries). The type of the periodontal ligament injury that is present is indicated by its first letter written in capitals. The first letters of the luxation injuries are used as follows:\n\n- N = None\n- C = Concussion\n- S = Subluxation\n- L = Lateral luxation\n- E = Extrusive luxation\n- I = Intrusive luxation\n\n**4th digit: Maturity and shape of apex**\n\n4th digit stands for maturity of the apex. Radiographic evaluation reveals the characteristics of the apex in both dentitions. In an immature apex, the root has thinner dentin walls, it may be short and the apical foramen is large. In a mature apex, the apical end of the root is completely formed and the periodontal membrane has a uniform width around the root and the apex. In primary dentition, physiological root resorption may be present. Therefore, 3 codes are used in this digit. Lowercase first letters of the words defining the characteristics of the apex are used as below:\n\n- i = immature apex\n- m = mature apex\n- r = resorbed apex (physiological)\n\n**5th digit: Alveolar process fracture**\n\n5th digit indicates the presence or absence of a fracture of the alveolar process and expressed by plus (+) or minus (-) sign, respectively. It is important to note that the fracture should be related to the alveolar process only. The definitions of the codes for this digit are as follows:\n\n- Plus (+) sign = Alveolar process fracture\n- Minus (−) sign = No alveolar fracture\n\n**This index has been modified to include soft tissue (MEBDTI).**\n\n**Soft tissue injury**\n\nSoft tissue injuries affecting skin, lip and/or gingiva are recorded for each patient by adding superscript numbers outside the brackets containing the records of injured teeth and alveolar process recorded by ‘Eden Baysal Dental Trauma Index’. Multiple soft tissue injuries should be written in ascending order separated by commas as superscript numbers.\n\n- 0 = none\n- 1 = skin/lip abrasion\n- 2 = skin/lip laceration\n- 3 = skin/lip contusion\n- 4 = skin/lip avulsion\n- 5 = intra-oral abrasion\n- 6 = intra-oral laceration\n- 7 = intra-oral contusion\n- 8 = intra-oral avulsion",
+     "body": "The Eden-Baysal index is a new 5-digit index that comprises all important information and can be easily computerised.\n\nThe index contains five digits following FDI tooth code. The first two digits contain numbers starting from 0, the third digit contains capital letters, the fourth digit contains lower case first letters and the fifth digit contains plus or minus sign.\n\nIntraoral and radiographic findings are used to record the cases with the index.\n\n**1st digit: Crown fracture**\n\nThe 1st digit after the FDI tooth code stands for hard dental tissue injuries affecting the crown with information on its relation with the pulp and root. Intraoral clinical evaluation is used to gather information for proper coding. Numbers are used to categorise the injury in hierarchical order in relation to severity. The codes are as follows:\n\n- 0 = none\n- 1 = enamel fracture\n- 2 = enamel and dentin fracture = uncomplicated crown fracture\n- 3 = enamel and dentin fracture including the pulp = complicated crown fracture\n- 4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture\n- 5 = Enamel-dentin-cementum fracture including the pulp\n\n**2nd digit: Root fracture**\n\n2nd digit stands for hard dental tissue injury of the root indicating the location of the fracture line. Numbers are used to categorise the injury in a hierarchical nature in relation to its position. The position of the fracture line in relation to the gingival margin defines the severity of the injury and impaired prognosis. In case of an oblique root fracture affecting more than one location on the root, the position of the fracture line close to the cervical region is recorded. The codes used in the second digit are as follows:\n\n- 0 = none\n- 1 = apical 1/3 root fracture\n- 2 = middle 1/3 root fracture\n- 3 = cervical 1/3 root fracture\n\n**3rd digit: Luxation injury**\n\n3rd digit stands for periodontal ligament injuries (Luxation injuries). The type of the periodontal ligament injury that is present is indicated by its first letter written in capitals. The first letters of the luxation injuries are used as follows:\n\n- N = None\n- C = Concussion\n- S = Subluxation\n- L = Lateral luxation\n- E = Extrusive luxation\n- I = Intrusive luxation\n- A = Avulsion\n\n**4th digit: Maturity and shape of apex**\n\n4th digit stands for maturity of the apex. Radiographic evaluation reveals the characteristics of the apex in both dentitions. In an immature apex, the root has thinner dentin walls, it may be short and the apical foramen is large. In a mature apex, the apical end of the root is completely formed and the periodontal membrane has a uniform width around the root and the apex. In primary dentition, physiological root resorption may be present. Therefore, 3 codes are used in this digit. Lowercase first letters of the words defining the characteristics of the apex are used as below:\n\n- i = immature apex\n- m = mature apex\n- r = resorbed apex (physiological)\n\n**5th digit: Alveolar process fracture**\n\n5th digit indicates the presence or absence of a fracture of the alveolar process and expressed by plus (+) or minus (-) sign, respectively. It is important to note that the fracture should be related to the alveolar process only. The definitions of the codes for this digit are as follows:\n\n- Plus (+) sign = Alveolar process fracture\n- Minus (−) sign = No alveolar fracture\n\n**This index has been modified to include soft tissue (MEBDTI).**\n\n**Soft tissue injury**\n\nSoft tissue injuries affecting skin, lip and/or gingiva are recorded for each patient by adding superscript numbers outside the brackets containing the records of injured teeth and alveolar process recorded by ‘Eden Baysal Dental Trauma Index’. Multiple soft tissue injuries should be written in ascending order separated by commas as superscript numbers.\n\n- 0 = none\n- 1 = skin/lip abrasion\n- 2 = skin/lip laceration\n- 3 = skin/lip contusion\n- 4 = skin/lip avulsion\n- 5 = intra-oral abrasion\n- 6 = intra-oral laceration\n- 7 = intra-oral contusion\n- 8 = intra-oral avulsion",
      "multi": false
     },
     {
@@ -1144,7 +1144,7 @@
       },
       {
        "heading": null,
-       "body": "This 12 year-old patient presented with a enamel-dentine-cementum fracture including the pulp (complicated crown-root fracture) on his upper right central incisor.\n\n- Tooth FDI notation: (11)\n- 1st digit: Crown fracture - 5\n- 2nd digit: Root fracture - 0\n- 3rd digit: Luxation injury - 0\n- 4th digit: Maturity and shape of apex: m\n- 5th digit: Alveolar process fracture: -\n\n**Final index: (11)500m-**",
+       "body": "This 12 year-old patient presented with a enamel-dentine-cementum fracture including the pulp (complicated crown-root fracture) on his upper right central incisor.\n\n- Tooth FDI notation: (11)\n- 1st digit: Crown fracture - 5\n- 2nd digit: Root fracture - 0\n- 3rd digit: Luxation injury - N\n- 4th digit: Maturity and shape of apex: m\n- 5th digit: Alveolar process fracture: -\n\n**Final index: (11)50Nm-**",
        "images": [
         {
          "src": "img/L4-S7-1.webp",
@@ -1156,7 +1156,7 @@
       },
       {
        "heading": null,
-       "body": "This 10 year-old patient presented with a enamel dentine fracture (uncomplicated crown fracture) on the upper right central incisor. A laceration and contusion on his upper lip is present.\n\n- Tooth FDI notation: (11)\n- 1st digit: Crown fracture - 2\n- 2nd digit: Root fracture - 0\n- 3rd digit: Luxation injury - 0\n- 4th digit: Maturity and shape of apex: i\n- 5th digit: Alveolar process fracture: -\n\n**Final index: [(11)200i-]<sup>3,2</sup>**",
+       "body": "This 10 year-old patient presented with a enamel dentine fracture (uncomplicated crown fracture) on the upper right central incisor. A laceration and contusion on his upper lip is present.\n\n- Tooth FDI notation: (11)\n- 1st digit: Crown fracture - 2\n- 2nd digit: Root fracture - 0\n- 3rd digit: Luxation injury - N\n- 4th digit: Maturity and shape of apex: i\n- 5th digit: Alveolar process fracture: -\n\n**Final index: [(11)20Ni-]<sup>2,3</sup>**",
        "images": [
         {
          "src": "img/L4-S7-2.webp",
@@ -1223,7 +1223,7 @@
      "question": "Is the following statement true or false?",
      "multi": false,
      "statements": [
-      "Left central incisor with crown facture with pulp exposure and lateral luxation with alveolar process fracture will get the code: (21)30Lm+"
+      "Left central incisor with a mature apex, crown facture with pulp exposure and lateral luxation with alveolar process fracture will get the code: (21)30Lm+"
      ]
     },
     {
@@ -1233,7 +1233,7 @@
      "question": "Is the following statement true or false?",
      "multi": false,
      "statements": [
-      "Lateral incisor with crown fracture in dentin without pulp exposure and root fracture in apical third of the root with mature apex (12)21Nm-"
+      "Right lateral incisor with crown fracture in dentin without pulp exposure, no luxation, and root fracture in apical third of the root with mature apex (12)21Nm-"
      ]
     },
     {
@@ -1746,7 +1746,7 @@
      "id": "L5-S28",
      "section": "Examination and Special Tests",
      "type": "quiz_single",
-     "question": "3-YEAR OLD CHILD\nHISTORY OF SUBLUXATION OF TOOTH 51 - TWO WEEKS AGO",
+     "question": "3-YEAR OLD CHILD\nHISTORY OF SUBLUXATION OF TOOTH 51 - TWO WEEKS AGO\n\nWhich of the following statements is correct?",
      "options": [
       "The cold test is the most reliable sensibility test for this case since it generates of action potentials from intact A-delta fibres.",
       "An electric pulp test (EPT) can be used in this case if there is a negative response to the cold test.",
@@ -2928,7 +2928,7 @@
      "section": "Avulsion of Permanent teeth",
      "type": "number",
      "body": "Rotary dial ('Touch to rotate', 'DRAG TO SET THE CORRECT VALUE'), scale marks 0 / 15 / 30 / 45 / 60 / 75 / 90 / 105.",
-     "question": "The PDL cells are likely to be non-viable after how many minutes of extra oral dry time?",
+     "question": "According to the IADT classification of PDL cell condition, the PDL cells are considered likely to be non-viable when the extra-oral dry time exceeds how many minutes?",
      "multi": false,
      "unit": "minutes"
     },
@@ -3552,7 +3552,7 @@
       "Revascularisation",
       "Obturation with Gutta Percha",
       "Partial Pulpotomy",
-      "Apexification",
+      "MTA apexification",
       "First stage endodontics"
      ],
      "multi": true
@@ -3709,7 +3709,7 @@
      "id": "L11-S14",
      "section": "Final Quiz",
      "type": "quiz_single",
-     "question": "What type of resorption is present on the upper left central incisor?\n\nTrauma history: Avulsion",
+     "question": "What type of resorption is present on the upper right central incisor (11)?\n\nTrauma history: Lateral luxation",
      "options": [
       "External inflammatory root resorption",
       "Invasive cervical resorption",
@@ -3781,7 +3781,7 @@
      "id": "L11-S18",
      "section": "Final Quiz",
      "type": "quiz_single",
-     "question": "Classify the injury of the upper right central incisor using the Eden Baysal Dental Trauma Index?",
+     "question": "Classify the injury of the upper right central incisor using the Modified Eden Baysal Dental Trauma Index?",
      "options": [
       "[(8) 20Ni-]",
       "[(11) 20Ni-]",

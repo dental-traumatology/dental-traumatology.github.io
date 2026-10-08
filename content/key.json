@@ -206,7 +206,7 @@
    0
   ],
   "approved": true,
-  "explanation": "The root outline and PDL space are being lost and the root is replaced by bone (direct union of bone and root), typical of replacement resorption after avulsion.",
+  "explanation": "The root outline and PDL space are being lost and the root is replaced by bone (direct union of bone and root): replacement resorption (ankylosis), a known outcome after severe luxation or avulsion injuries.",
   "source": "IADT 2020 Avulsion of Permanent Teeth (Fouad et al., Dent Traumatol 2020;36:331-342), section 11.3"
  },
  "L11-S14": {
@@ -214,7 +214,7 @@
    3
   ],
   "approved": true,
-  "explanation": "The root outline and PDL space are being lost and the root is replaced by bone (direct union of bone and root), typical of replacement resorption after avulsion.",
+  "explanation": "The root outline and PDL space are being lost and the root is replaced by bone (direct union of bone and root): replacement resorption (ankylosis), a known outcome after severe luxation or avulsion injuries.",
   "source": "IADT 2020 Avulsion of Permanent Teeth (Fouad et al., Dent Traumatol 2020;36:331-342), section 11.3"
  },
  "L2-S15": {
@@ -417,7 +417,7 @@
    "T"
   ],
   "approved": true,
-  "explanation": "This statement is correct.\n\nLeft central incisor with crown facture with pulp exposure and lateral luxation with alveolar process fracture will get the code: (21)30Lm+",
+  "explanation": "This statement is correct: (21) left central incisor, 3 = crown fracture with pulp exposure, 0 = no root fracture, L = lateral luxation, m = mature apex, + = alveolar process fracture → (21)30Lm+.",
   "source": "",
   "explanations": [
    "This statement is correct.\n\nLeft central incisor with crown facture with pulp exposure and lateral luxation with alveolar process fracture will get the code: (21)30Lm+"
@@ -428,7 +428,7 @@
    "T"
   ],
   "approved": true,
-  "explanation": "This statement is correct.\n\nLateral incisor with crown fracture in dentin without pulp exposure and root fracture in apical third of the root with mature apex (12)21Nm-",
+  "explanation": "This statement is correct: (12) right lateral incisor, 2 = crown fracture in dentine without pulp exposure, 1 = apical third root fracture, N = no luxation, m = mature apex, − = no alveolar fracture → (12)21Nm-.",
   "source": "",
   "explanations": [
    "This statement is correct.\n\nLateral incisor with crown fracture in dentin without pulp exposure and root fracture in apical third of the root with mature apex (12)21Nm-"

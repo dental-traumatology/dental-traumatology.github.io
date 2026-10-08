@@ -318,7 +318,7 @@
     {
      "id": "L2-S19",
      "section": "Baseline knowledge",
-     "type": "quiz_multi",
+     "type": "quiz_single",
      "question": "Classify the injury of the upper central incisors using the Modified Eden Baysal Dental Trauma Index?",
      "options": [
       "[(11) 00Li+, (21) 30Nm-]<sup>2</sup>",
@@ -327,7 +327,7 @@
       "[(11) 00Li+, (21) 20Ni-]<sup>6</sup>",
       "[(11) 00Si+, (21) 30Ni-]<sup>2</sup>"
      ],
-     "multi": true,
+     "multi": false,
      "images": [
       {
        "src": "img/L2-S19-0.webp",
@@ -980,12 +980,20 @@
     {
      "id": "L3-S27",
      "section": "Terminology",
-     "type": "statements",
+     "type": "matching",
+     "title": "Match the products with their attributes",
+     "options": [
+      "Displacement of the tooth into the alveolar bone.",
+      "A fracture involving dentine, cementum and the pulp.",
+      "A fracture with loss of tooth substance confined to enamel and dentine not involving the pulp",
+      "An injury to the tooth-supporting structures with abnormal loosening, but without displacement of the tooth"
+     ],
      "multi": false,
-     "body": "- Root fracture\n- Intrusive luxation\n- Subluxation\n- Enamel-dentine fracture",
-     "question": "Match the products with their attributes",
-     "statements": [
-      null
+     "terms": [
+      "Root fracture",
+      "Intrusive luxation",
+      "Subluxation",
+      "Enamel-dentine fracture"
      ]
     },
     {
@@ -3796,7 +3804,7 @@
     {
      "id": "L11-S19",
      "section": "Final Quiz",
-     "type": "quiz_multi",
+     "type": "quiz_single",
      "question": "Classify the injury of the upper central incisors using the Modified Eden Baysal Dental Trauma Index?",
      "options": [
       "[(11) 00Ci+, (21) 30Nm-]<sup>6</sup>",
@@ -3805,7 +3813,7 @@
       "[(11) 00Li+, (21) 30Nm-]<sup>2</sup>",
       "[(8) 00Li+, (9) 20Ni-]<sup>2</sup>"
      ],
-     "multi": true,
+     "multi": false,
      "images": [
       {
        "src": "img/L11-S19-0.webp",

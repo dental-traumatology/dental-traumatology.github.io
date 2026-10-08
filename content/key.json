@@ -41,7 +41,7 @@
   ],
   "approved": true,
   "explanation": "Treatment aims to protect the pulp and restore function and aesthetics: tooth fragment reattachment, composite resin restoration or a temporary glass ionomer restoration.",
-  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 2 (enamel-dentin fracture)"
+  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 3 (enamel-dentine fracture)"
  },
  "L11-S4": {
   "correct": [
@@ -51,7 +51,7 @@
   ],
   "approved": true,
   "explanation": "Treatment aims to protect the pulp and restore function and aesthetics: tooth fragment reattachment, composite resin restoration or a temporary glass ionomer restoration.",
-  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 2 (enamel-dentin fracture)"
+  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 3 (enamel-dentine fracture)"
  },
  "L2-S5": {
   "correct": [
@@ -152,27 +152,29 @@
  "L2-S11": {
   "correct": [
    1,
+   2,
    5
   ],
   "approved": true,
-  "explanation": "IADT recommends splinting for luxated, avulsed and root-fractured teeth; crown fractures without an associated luxation do not need a splint.",
-  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), section 6 and Tables 2, 4, 9"
+  "explanation": "Crown fractures without luxation never need a splint. In subluxation, normally no treatment is needed; a passive flexible splint for up to 2 weeks is used only if there is excessive mobility or tenderness on biting.",
+  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Tables 2–4 and 10"
  },
  "L11-S11": {
   "correct": [
+   0,
    4,
    5
   ],
   "approved": true,
-  "explanation": "IADT recommends splinting for luxated, avulsed and root-fractured teeth; crown fractures without an associated luxation do not need a splint.",
-  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), section 6 and Tables 2, 4, 9"
+  "explanation": "Crown fractures without luxation never need a splint. In subluxation, normally no treatment is needed; a passive flexible splint for up to 2 weeks is used only if there is excessive mobility or tenderness on biting.",
+  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Tables 2–4 and 10"
  },
  "L2-S12": {
   "correct": [
    1
   ],
   "approved": true,
-  "explanation": "This is an enamel-dentine-pulp (complicated crown) fracture in an immature tooth seen early; partial (Cvek) pulpotomy preserves the pulp and promotes further root development.",
+  "explanation": "This is an enamel-dentine-pulp (complicated crown) fracture in an immature tooth seen early; partial (Cvek) pulpotomy preserves the pulp and promotes further root development. Direct pulp capping is also acceptable for a pinpoint exposure treated immediately (IADT: partial pulpotomy or pulp capping); among the options given, partial pulpotomy is the best choice.",
   "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 4"
  },
  "L11-S12": {
@@ -180,7 +182,7 @@
    1
   ],
   "approved": true,
-  "explanation": "This is an enamel-dentine-pulp (complicated crown) fracture in an immature tooth seen early; partial (Cvek) pulpotomy preserves the pulp and promotes further root development.",
+  "explanation": "This is an enamel-dentine-pulp (complicated crown) fracture in an immature tooth seen early; partial (Cvek) pulpotomy preserves the pulp and promotes further root development. Direct pulp capping is also acceptable for a pinpoint exposure treated immediately (IADT: partial pulpotomy or pulp capping); among the options given, partial pulpotomy is the best choice.",
   "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 4"
  },
  "L2-S13": {
@@ -313,7 +315,7 @@
    2
   ],
   "approved": true,
-  "explanation": "A laceration is a shallow or deep wound penetrating into the soft tissue, usually produced by a sharp object; most frequently seen in lips, oral mucosa and gingiva.",
+  "explanation": "Image A shows abrasions (superficial scraping of the skin) of the chin and lip; images B and C show wounds that break through the mucosa/lip (lacerations).",
   "source": ""
  },
  "L3-S22": {
@@ -474,7 +476,7 @@
   ],
   "approved": true,
   "explanation": "Avulsion: 2 weeks. Subluxation: a splint for up to 2 weeks only if there is excessive mobility or tenderness on biting. Root fracture: 4 weeks, up to 4 months if the fracture is cervical.",
-  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Tables 7 and 9; IADT 2020 Avulsion of Permanent Teeth (Fouad et al., Dent Traumatol 2020;36:331-342), section 8"
+  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Tables 7 and 10; IADT 2020 Avulsion of Permanent Teeth (Fouad et al., Dent Traumatol 2020;36:331-342), section 8"
  },
  "L6-S8": {
   "correct": [
@@ -540,8 +542,8 @@
    2
   ],
   "approved": true,
-  "explanation": "Treatment options for enamel fractures (no dentine exposure) include no treatment, polish sharp edges or composite resin restoration.",
-  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 3 (enamel-only fracture)"
+  "explanation": "IADT: fragment reattachment, smoothing of sharp edges or composite resin restoration. A very small enamel chip may simply be monitored.",
+  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 2 (enamel fracture)"
  },
  "L8-S9": {
   "correct": [
@@ -553,7 +555,27 @@
   ],
   "approved": true,
   "explanation": "Complicated crown fractures: clinical and radiographic evaluations after 6-8 weeks, 3 months, 6 months and 1 year (12 months).",
-  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 4"
+  "source": "IADT 2020 Fractures & Luxations (Bourguignon et al., Dent Traumatol 2020;36:314-330), Table 4",
+  "accept": [
+   [
+    "six"
+   ],
+   [
+    "eight"
+   ],
+   [
+    "three"
+   ],
+   [
+    "six"
+   ],
+   [
+    "twelve",
+    "12 months",
+    "1 year",
+    "one year"
+   ]
+  ]
  },
  "L8-S11": {
   "correct": [
@@ -574,7 +596,7 @@
   ],
   "approved": true,
   "explanation": "",
-  "source": "IADT 2020 Avulsion of Permanent Teeth (Fouad et al., Dent Traumatol 2020;36:331-342), section 2 (First aid at the place of accident)",
+  "source": "IADT 2020 Avulsion of Permanent Teeth (Fouad et al., Dent Traumatol 2020;36:331-342), section 2 (First aid at the place of accident); signs of brain injury (dizziness, disorientation) require hospital referral",
   "explanations": [
    "False - a tooth wrapped in a tissue dries out. If it cannot be replanted, place it as soon as possible in a storage medium (milk, HBSS, saliva or saline).",
    "True - dizziness or disorientation may indicate a head injury; the child needs medical (hospital) assessment first.",
@@ -610,7 +632,7 @@
  "L9-S22": {
   "correct": 60,
   "approved": true,
-  "explanation": "The PDL cells are likely to be non-viable. The total extra-oral dry time has been more than 60 minutes, regardless of the tooth having been stored in a medium or not.",
+  "explanation": "The PDL cells are likely to be non-viable. The total extra-oral dry time has been more than 60 minutes, regardless of the tooth having been stored in a medium or not. Note: IADT also states that after about 30 minutes of dry time most PDL cells are no longer viable; the 60-minute cut-off is the one used for treatment decisions.",
   "source": "IADT 2020 Avulsion of Permanent Teeth (Fouad et al., Dent Traumatol 2020;36:331-342), section 3"
  },
  "L9-S24": {

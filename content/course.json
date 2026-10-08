@@ -828,7 +828,7 @@
      "section": "Terminology",
      "type": "text",
      "title": "Apical Periodontitis",
-     "body": "**Asymptomatic apical periodontitis**\n\nInflammation and destruction of apical periodontium that is of pulpal origin, appears as an apical radiolucent area, and does not produce clinical symptoms\n\n**Symptomatic apical periodontitis**\n\nInflammation usually of the apical periodontium, producing clinical symptoms including a painful response to biting and/or percussion or palpation. It might or might not be associated with an apical radiolucent area.\n\n**Case:**\n\nThis 14-year-old child presented with apical periodontitis in both upper central incisors following dental trauma injury.\n\nNote the apical radiolucent area on the first radiographic exam. After root canal treatment has been completed, the follow-up radiographic exam shows a reduction of the radiolucent area.",
+     "body": "**Asymptomatic apical periodontitis**\n\nInflammation and destruction of apical periodontium that is of pulpal origin, appears as an apical radiolucent area, and does not produce clinical symptoms\n\n**Symptomatic apical periodontitis**\n\nInflammation usually of the apical periodontium, producing clinical symptoms including a painful response to biting and/or percussion or palpation. It might or might not be associated with an apical radiolucent area.",
      "multi": false
     },
     {
@@ -1019,15 +1019,8 @@
      "section": "Terminology",
      "type": "text",
      "title": "Dental Trauma Guide",
-     "body": "We recommend visiting the Dental Trauma Guide Website as an additional tool to increase your learning experience.",
+     "body": "We recommend visiting the Dental Trauma Guide Website as an additional tool to increase your learning experience.\n\nExplore the Dental Trauma Guide website (evidence-based treatment guide) — for example, the injury group *Primary teeth*: [dentaltraumaguide.org](https://dentaltraumaguide.org)",
      "multi": false
-    },
-    {
-     "id": "L3-S31",
-     "section": "Terminology",
-     "type": "text",
-     "title": "Dental Trauma Guide",
-     "body": "Explore the Dental Trauma Guide website (evidence-based treatment guide) — for example, the injury group *Primary teeth*: [dentaltraumaguide.org](https://dentaltraumaguide.org)"
     },
     {
      "id": "L3-S32",
@@ -1079,7 +1072,7 @@
      "section": "Dental Trauma Index",
      "type": "text",
      "title": "MEBDTI",
-     "body": "1st digit: Crown fracture\n\n| Number of tooth (FDI) | In parenthesis |  |\n|---|---|---|\n| 1st digit<br>Crown fracture | 0 to 5 | 0 = none<br>1 = enamel fracture<br>2 = enamel and dentin fracture = uncomplicated crown fracture<br>3 = enamel and dentin fracture including the pulp = complicated crown fracture<br>4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture<br>5 = Enamel-dentin-cementum fracture including the pulp = complicated crown-root fracture |\n\n{{img:0}}\n\n2nd digit: Root fracture\n\n| | | |\n|---|---|---|\n| 2nd digit<br>Root fracture | 0 to 3 | 0 = none<br>1 = apical 1/3 root fracture<br>2 = middle 1/3 root fracture<br>3 = cervical 1/3 root fracture |\n\n{{img:1}}\n\n- 3rd digit: Luxation injury\n- 4th digit: Maturity and shape of apex\n- 5th digit: Alveolar process fracture\n\n| | | |\n|---|---|---|\n| 3rd digit<br>Luxation injury | Capital<br>first letters | N = None<br>C = Concussion<br>S = Subluxation<br>L = Lateral luxation<br>E = Extrusive luxation<br>I = Intrusive luxation<br>A = Avulsion |\n| 4th digit<br>Maturity and shape of apex | Small<br>first letters | i = immature<br>m = mature<br>r = resorbed |\n| 5th digit<br>Alveolar process fracture | + or – | + sign = Alveolar process fracture<br>– sign = No alveolar fracture |\n\nSoft tissue injury\n\n| | | |\n|---|---|---|\n| Soft tissue injury | Superscript<br>0 to 8 | 0 = none<br>1 = skin/lip abrasion<br>2 = skin/lip laceration<br>3 = skin/lip contusion<br>4 = skin/lip avulsion<br>5 = intra-oral abrasion<br>6 = intra-oral laceration<br>7 = intra-oral contusion<br>8 = intra-oral avulsion |\n\n{{img:2}}",
+     "body": "1st digit: Crown fracture\n\n| Number of tooth (FDI) | In parenthesis |  |\n|---|---|---|\n| 1st digit<br>Crown fracture | 0 to 5 | 0 = none<br>1 = enamel fracture<br>2 = enamel and dentin fracture = uncomplicated crown fracture<br>3 = enamel and dentin fracture including the pulp = complicated crown fracture<br>4 = enamel-dentin-cementum fracture = uncomplicated crown-froot fracture<br>5 = Enamel-dentin-cementum fracture including the pulp = complicated crown-root fracture |\n\n{{img:0}}\n\n2nd digit: Root fracture\n\n| | | |\n|---|---|---|\n| 2nd digit<br>Root fracture | 0 to 3 | 0 = none<br>1 = apical 1/3 root fracture<br>2 = middle 1/3 root fracture<br>3 = cervical 1/3 root fracture |\n\n{{img:1}}\n\n- 3rd digit: Luxation injury\n- 4th digit: Maturity and shape of apex\n- 5th digit: Alveolar process fracture\n\n| | | |\n|---|---|---|\n| 3rd digit<br>Luxation injury | Capital<br>first letters | N = None<br>C = Concussion<br>S = Subluxation<br>L = Lateral luxation<br>E = Extrusive luxation<br>I = Intrusive luxation<br>A = Avulsion |\n| 4th digit<br>Maturity and shape of apex | Small<br>first letters | i = immature<br>m = mature<br>r = resorbed |\n| 5th digit<br>Alveolar process fracture | + or – | + sign = Alveolar process fracture<br>– sign = No alveolar fracture |\n\nSoft tissue injury\n\n| | | |\n|---|---|---|\n| Soft tissue injury | Superscript<br>0 to 8 | 0 = none<br>1 = skin/lip abrasion<br>2 = skin/lip laceration<br>3 = skin/lip contusion<br>4 = skin/lip avulsion<br>5 = intra-oral abrasion<br>6 = intra-oral laceration<br>7 = intra-oral contusion<br>8 = intra-oral avulsion |\n\n{{img:2}}\n\n{{img:3}}",
      "multi": false,
      "images": [
       {
@@ -1099,15 +1092,7 @@
        "video": false,
        "kind": "illustration",
        "alt": "Sagittal diagram of lip and alveolus with soft tissue injury sites numbered"
-      }
-     ]
-    },
-    {
-     "id": "L4-S5",
-     "section": "Dental Trauma Index",
-     "type": "text",
-     "multi": false,
-     "images": [
+      },
       {
        "src": "img/L4-S5-0.webp",
        "video": false,
@@ -1115,14 +1100,6 @@
        "alt": "Table of soft tissue injuries with MEBDTI codes 0 to 8, each with a diagram and a clinical photograph"
       }
      ]
-    },
-    {
-     "id": "L4-S6",
-     "section": "Dental Trauma Index",
-     "type": "text",
-     "title": "Case-based Learning",
-     "body": "Let’s see some examples in real case scenarios:",
-     "multi": false
     },
     {
      "id": "L4-S7",
@@ -1178,7 +1155,9 @@
         }
        ]
       }
-     ]
+     ],
+     "body": "Let’s see some examples in real case scenarios:",
+     "title": "Case-based Learning"
     },
     {
      "id": "L4-S8",
@@ -1829,13 +1808,6 @@
      "multi": false
     },
     {
-     "id": "L6-S2",
-     "section": "Trauma Splint",
-     "type": "intro",
-     "title": "Splinting Traumatised Teeth",
-     "multi": false
-    },
-    {
      "id": "L6-S3",
      "section": "Trauma Splint",
      "type": "carousel",
@@ -1922,7 +1894,8 @@
         }
        ]
       }
-     ]
+     ],
+     "body": ""
     },
     {
      "id": "L6-S4",
@@ -2335,15 +2308,7 @@
      "section": "Uncomplicated Crown Fractures",
      "type": "text",
      "title": "Expected Outcomes following uncomplicated crown fractures",
-     "body": "**PULP**\n- The risk of pulpal complications is minimal for uncomplicated crown fractures.\n- The tooth should be monitored up to 1 year after the injury - if sensibility testing is normal, no further review is needed.\n- The risk of pulp necrosis is significantly increased in the case of an additional luxation injury.\n- It is important to review the restoration - in case of failure, a repair/replacement of the restoration should be performed.",
-     "multi": false
-    },
-    {
-     "id": "L7-S12",
-     "section": "Uncomplicated Crown Fractures",
-     "type": "text",
-     "title": "Expected Outcomes following uncomplicated crown fractures",
-     "body": "**PDL**\n- Periodontal complications are extremely rare after crown fractures and consist only of repair-related resorption.\n- The risk of PDL-related outcomes (replacement/inflammatory root resorption) is significantly increased in the case of an additional luxation injury.",
+     "body": "**PULP**\n- The risk of pulpal complications is minimal for uncomplicated crown fractures.\n- The tooth should be monitored up to 1 year after the injury - if sensibility testing is normal, no further review is needed.\n- The risk of pulp necrosis is significantly increased in the case of an additional luxation injury.\n- It is important to review the restoration - in case of failure, a repair/replacement of the restoration should be performed.\n\n**PDL**\n- Periodontal complications are extremely rare after crown fractures and consist only of repair-related resorption.\n- The risk of PDL-related outcomes (replacement/inflammatory root resorption) is significantly increased in the case of an additional luxation injury.",
      "multi": false
     },
     {
@@ -2531,15 +2496,7 @@
      "section": "Complicated Crown Fractures",
      "type": "text",
      "title": "Expected Outcomes following complicated crown fractures",
-     "body": "- Partial pulpotomy and pulp capping present high success rates with respect to pulp survival.\n- Radiographic evidence of hard tissue closure of the exposure can be seen 3 months after treatment.\n- It is important to review the restoration - in case of failure, a repair/replacement of the restoration should be performed.\n- Continued root development is expected in teeth with open apices.\n- Delayed presentation (greater than 9 days) increases the chances of pulp necrosis.\n- The risk of pulp necrosis is significantly increased where there is an additional luxation injury.",
-     "multi": false
-    },
-    {
-     "id": "L8-S7",
-     "section": "Complicated Crown Fractures",
-     "type": "text",
-     "title": "Expected Outcomes following complicated crown fractures",
-     "body": "**PDL**\n\n- Periodontal complications are extremely rare after complicated crown fractures and consist only of repair-related resorption.\n- The risk of PDL-related outcomes (replacement/inflammatory root resorption) is significantly increased where there is an additional luxation injury.",
+     "body": "- Partial pulpotomy and pulp capping present high success rates with respect to pulp survival.\n- Radiographic evidence of hard tissue closure of the exposure can be seen 3 months after treatment.\n- It is important to review the restoration - in case of failure, a repair/replacement of the restoration should be performed.\n- Continued root development is expected in teeth with open apices.\n- Delayed presentation (greater than 9 days) increases the chances of pulp necrosis.\n- The risk of pulp necrosis is significantly increased where there is an additional luxation injury.\n\n**PDL**\n\n- Periodontal complications are extremely rare after complicated crown fractures and consist only of repair-related resorption.\n- The risk of PDL-related outcomes (replacement/inflammatory root resorption) is significantly increased where there is an additional luxation injury.",
      "multi": false
     },
     {
@@ -2647,7 +2604,7 @@
      "section": "Avulsion of Permanent teeth",
      "type": "text",
      "title": "Avulsion of Permanent Teeth",
-     "body": "{{img:0}}\n\nThe tooth is completely displaced out of its socket.",
+     "body": "{{img:0}}\n\nThe tooth is completely displaced out of its socket.\n\n{{img:1}}",
      "multi": false,
      "images": [
       {
@@ -2655,6 +2612,12 @@
        "video": false,
        "kind": "illustration",
        "alt": "Illustration of avulsion: empty socket and the tooth displaced out of it"
+      },
+      {
+       "src": "img/L9-S4-0.webp",
+       "video": true,
+       "kind": "clinical",
+       "alt": "Video showing a tooth being knocked out of its socket"
       }
      ]
     },
@@ -2680,20 +2643,6 @@
       {
        "heading": "Sensibility test",
        "body": "Not indicated"
-      }
-     ]
-    },
-    {
-     "id": "L9-S4",
-     "section": "Avulsion of Permanent teeth",
-     "type": "text",
-     "multi": false,
-     "images": [
-      {
-       "src": "img/L9-S4-0.webp",
-       "video": true,
-       "kind": "clinical",
-       "alt": "Video showing a tooth being knocked out of its socket"
       }
      ]
     },
@@ -2761,18 +2710,10 @@
      ]
     },
     {
-     "id": "L9-S8",
-     "section": "Avulsion of Permanent teeth",
-     "type": "text",
-     "title": "Treatment Guidelines for avulsed permanent teeth",
-     "body": "**with CLOSED APEX**",
-     "multi": false
-    },
-    {
      "id": "L9-S9",
      "section": "Avulsion of Permanent teeth",
      "type": "text",
-     "title": "Treatment Guidelines",
+     "title": "Treatment Guidelines — avulsed permanent teeth with CLOSED APEX",
      "body": "If the tooth has been replanted <u>**at the site of injury or before the patient’s arrival at the dental clinic:**</u>\n\n**1) Clean the injured area.**\n\n- Verify the correct position of the replanted tooth both clinically and radiographically.\n\n**2) Leave the tooth/teeth in place.**\n\n- If the tooth is malpositioned, correct it using slight digital pressure.\n- If the tooth or teeth were replanted in the wrong socket or rotated, consider repositioning the tooth/teeth into the proper location up to 48 hours after the traumatic incident.\n\n**3) Stabilise the tooth for 2 weeks**\n\n- Use a passive flexible splint and make sure that the area is cleansible.\n\n**4) If there is an associated alveolar or jawbone fracture:**\n\n- A more rigid splint is indicated and should be left in place for 4 weeks.\n\n**5) Suture gingival lacerations, if present.**\n\n**6) Initiate root canal treatment within 2 weeks after replantation.**\n\n- The pulp should be removed in avulsed teeth with closed apex.\n- Calcium hydroxide is recommended as an intracanal medicament for up to 1 month followed by root canal filling.\n\n**7) Administer systemic antibiotics.**\n\n- The use of systemic antibiotics after avulsion and replantation has been recommended to prevent infection-related reactions and to reduce the occurrence of inflammatory root resorption.\n- **ADD LINK TO HSE AB**\n\n**8) Check tetanus vaccination status.**\n\n- If the wound contains dirt or a foreign object the patient needs to be evaluated for the need for a tetanus immunisation.\n\n**9) Provide post-operative instructions.**\n\n- Keep the area clean: brush teeth with a soft toothbrush after each meal.\n- Use chlorhexidine (0.12% to 0.2%) mouth rinse or gel twice a day for 2 weeks.\n- Maintain a soft diet for up to 2 weeks.\n- Avoid participation in contact sports.\n\n**10) Follow-up appointment in 2 weeks.**\n\n- Review, removal of splint and initiate root canal treatment.",
      "multi": false
     },
@@ -2793,18 +2734,10 @@
      "multi": false
     },
     {
-     "id": "L9-S12",
-     "section": "Avulsion of Permanent teeth",
-     "type": "text",
-     "title": "Treatment Guidelines for avulsed permanent teeth",
-     "body": "**with OPEN APEX**",
-     "multi": false
-    },
-    {
      "id": "L9-S13",
      "section": "Avulsion of Permanent teeth",
      "type": "text",
-     "title": "Treatment Guidelines",
+     "title": "Treatment Guidelines — avulsed permanent teeth with OPEN APEX",
      "body": "If the tooth has been replanted <u>**before the patient’s arrival at the clinic:**</u>\n\n**1) Clean the injured area with water, saline, or chlorhexidine.**\n\n**2) Verify the correct positioning clinically and radiographically of the replanted tooth.**\n\n- If the tooth or teeth were replanted in the wrong position, consider repositioning the tooth/teeth into the correct location for up to 48 hours after the trauma under local anaesthesia.\n\n**3) Stabilise the tooth for 2 weeks using a flexible splint**\n\n**4) If there is an associated alveolar or jawbone fracture:**\n\n- A more rigid splint is indicated and should be left in place for about 4 weeks.\n\n**5) Suture gingival lacerations, if present.**\n\n**6) No root canal treatment is necessary at the emergency visit for avulsed teeth with open apex**\n\n**7) Administer systemic antibiotics.**\n\n- The use of systemic antibiotics after avulsion and replantation has been recommended to prevent infection-related reactions and to decrease the occurrence of inflammatory root resorption.\n- **Adult and children >12 years old:**\n\nAmoxicillin 500mg every 8h for 5 days. Penicillin allergy: Metronidazole 400mg every 8 hours for 5 days.\n\n- **Children <12 years old:**\n\nAmoxicillin suspension (125ml/5ml or 250mg/5ml): maximum 30mg/kg per dose.\n\nPenicillin allergy: Metronidazole suspension 200mg/5ml - maximum 7.5mg/kg per dose.\n\n**8) Check tetanus vaccination status.**\n\n**9) Provide post-operative instructions.**\n\n**10) Follow up.**\n\n- Review after 2 weeks and splint removal.\n- Root canal treatment should only be initiated when a diagnosis of pulp necrosis has been established (chances of revascularisation).",
      "multi": false
     },
@@ -3063,16 +2996,9 @@
     {
      "id": "L9-S28",
      "section": "Avulsion of Permanent Teeth",
-     "type": "intro",
-     "title": "Trauma Review",
-     "body": "Replanted teeth should be monitored clinically and radiographically.\n\nThe follow-up intervals will depend if the avulsed tooth has open or closed apex.\n\nReview follow-up intervals in the next slide.",
-     "multi": false
-    },
-    {
-     "id": "L9-S29",
-     "section": "Avulsion of Permanent Teeth",
      "type": "text",
      "title": "Trauma Review",
+     "body": "Replanted teeth should be monitored clinically and radiographically.\n\nThe follow-up intervals will depend if the avulsed tooth has open or closed apex.\n\nReview follow-up intervals in the next slide.",
      "multi": false,
      "items": [
       {

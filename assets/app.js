@@ -500,7 +500,7 @@
       const payload = { participant: participant(), lesson: L.n, lesson_title: L.title, sent_at: new Date().toISOString(),
         correct: scored.filter((s) => answers[s.id] && answers[s.id].ok).length, total: scored.length,
         columns: qs.map(label), values: qs.map(shown) };
-      b.disabled = true; msg.textContent = "Sending…";
+      b.disabled = true; msg.textContent = "Sending… (this can take up to 15 seconds — please stay on this page)";
       try {
         await fetch(CFG.submitEndpoint, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain;charset=utf-8" }, body: JSON.stringify(payload) });
         const s = store.get("sent", {}); s[L.n] = payload.sent_at; store.set("sent", s);

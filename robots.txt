@@ -1,0 +1,3 @@
+# Clinical photographs and radiographs: keep them out of image search engines
+User-agent: *
+Disallow: /img/

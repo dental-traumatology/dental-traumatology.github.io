@@ -627,7 +627,7 @@
   document.addEventListener("click", (e) => {
     const img = e.target.closest("img[data-zoom]");
     if (!img) return;
-    const lb = h(`<div class="lightbox" role="dialog" aria-label="Image"><img src="${img.src}" alt="${esc(img.alt)}"></div>`);
+    const lb = h(`<div class="lightbox" role="dialog" aria-label="Image"><img src="${esc(img.getAttribute("src"))}" alt="${esc(img.alt)}"></div>`);
     lb.onclick = () => lb.remove(); document.body.appendChild(lb);
   });
   document.addEventListener("keydown", (e) => {

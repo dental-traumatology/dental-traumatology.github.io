@@ -91,7 +91,9 @@
   const lessonPoints = (n) => { const L = COURSE && lessonById(n); return L ? L.slides.some((s) => ANSWER_TYPES.includes(s.type) && KEY[s.id]) : false; };
 
   function figure(img, slideId) {
-    const vid = CFG.videos && CFG.videos[slideId];
+    // video file: keyed by the poster image name (e.g. "L5-S6-1") or, for single-video slides, by slide id
+    const stem = String(img.src || "").split("/").pop().replace(/\.[a-z0-9]+$/i, "");
+    const vid = CFG.videos && (CFG.videos[stem] || CFG.videos[slideId]);
     const alt = img.alt || img.caption || (img.kind === "radiograph" ? "Radiograph" : img.kind === "clinical" ? "Clinical photograph" : "Illustration");
     const cap = img.caption ? `<figcaption>${inline(img.caption)}</figcaption>` : "";
     if (img.video && vid) return `<figure><video controls preload="metadata" poster="${esc(img.src)}" src="${esc(vid)}" style="max-width:100%;border-radius:12px"></video>${cap}</figure>`;
